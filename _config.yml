@@ -1,16 +1,16 @@
-repository: BYR-Navi/BYR-Navi
-repository_url: https://github.com/BYR-Navi/BYR-Navi
+repository: anyi98 / anyi98.github.io
+repository_url: https://github.com/anyi98/anyi98.github.io
 
-timezone: Asia/Shanghai
+timezone: Asia/beijing
 lang: zh_CN
 
-title: 北邮人导航 · BYR-Navi
-alias_en: BYR-Navi
+标题：安逸导航
+alias_en：BYR-Navi
 alias_cn: 北邮人导航
-description: A Navigation Website for BYR
-keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
-url: https://byr-navi.com
-established_at: "2016-10-01T00:00+08:00"
+描述：一个导航网站
+关键词;导航安逸导航北邮人导航
+网址：HTTPS：//anyi98.github.io
+established_at ：“2016-10-01T00：00 + 08:00”
 
 author: iROCKBUNNY
 author_url: https://irockbunny.com
