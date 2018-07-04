@@ -12,17 +12,17 @@
 [![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BYR-Navi/BYR-Navi.svg)][pull]
 
 # AnYi-Navi
-A Navigation [Website][website] for AnYi  致谢BYR
+- A Navigation [Website][website] for AnYi  致谢BYR
 
 ## Design Philosophy
-This project is a [Jekyll][jekyll]-powered website, which is built based on [Fomantic UI][fomantic] web framework, and deployed using [GitHub Pages][github-pages].
+- This project is a [Jekyll][jekyll]-powered website, which is built based on [Fomantic UI][fomantic] web framework, and deployed using [GitHub Pages][github-pages].
 
-The whole project is designed and built with high flexibility of configuration and customization.
-You can either configure it by modifying the `_config.yml` file or customize it by replacing the content of the `*.yml` files in the `_data` folder with your own data.
+- The whole project is designed and built with high flexibility of configuration and customization.
+- You can either configure it by modifying the `_config.yml` file or customize it by replacing the content of the `*.yml` files in the `_data` folder with your own data.
 
 ## A Tiny Tutorial
-There is **no easy way for beginners** without essential background knowledge.
-To be efficient, the best way to understand this project is to start with the Jekyll's [docs][jekyll-doc] and Fomantic UI's [docs][fomantic-doc].
+- There is **no easy way for beginners** without essential background knowledge.
+- To be efficient, the best way to understand this project is to start with the Jekyll's [docs][jekyll-doc] and Fomantic UI's [docs][fomantic-doc].
 
 Before you start, you should have some basic understanding of the following:
 
