@@ -33,13 +33,15 @@ Before you start, you should have some basic understanding of the following:
 - YAML format
 - UNIX/Linux Shell Script
 
-## Share the Love
-I've （BYR） put a lot of time and effort into making **BYR-Navi** awesome.
-If you love it, you can buy me a coffee or tea.
-Every cup helps! Tkank you welcome here.
-I promise it will be a good investment.
 
-Donate [here][donate].
+## Share the Love
+- I've （BYR） put a lot of time and effort into making **BYR-Navi** awesome.
+- If you love it, you can buy me a coffee or tea.
+- Every cup helps! Tkank you welcome here.
+- I promise it will be a good investment.
+
+- Donate [here][donate].
+
 
 #### Powered by
 - [Fomantic UI][fomantic]
