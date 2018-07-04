@@ -1,16 +1,16 @@
 repository: anyi98 / anyi98.github.io
 repository_url: https://github.com/anyi98/anyi98.github.io
 
-timezone: Asia/beijing
+timezone: Asia/Handan
 lang: zh_CN
 
-标题：安逸导航
-alias_en：BYR-Navi
-alias_cn: 北邮人导航
-描述：一个导航网站
-关键词;导航安逸导航北邮人导航
-网址：HTTPS：//anyi98.github.io
-established_at ：“2016-10-01T00：00 + 08:00”
+title: 安逸导航·AnYi-Navi
+alias_en: AnYi-Navi
+alias_cn: 安逸导航
+description: A Navigation Website for AnYi
+keywords: 安逸导航, AnYi-Navi, AnYI, HEBART, Navi, Navigation
+url: https://anyi98.github.io
+established_at: "2016-10-01T00:00+08:00"
 
 author: iROCKBUNNY
 author_url: https://irockbunny.com
