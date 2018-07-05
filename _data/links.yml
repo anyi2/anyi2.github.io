@@ -243,56 +243,50 @@
 
   - category: 娱乐
     links:
-    - name: 优酷
+    - name: 9GAG
       style: basic
-      url: http://www.youku.com/
+      url: https://9gag.com/
 
-    - name: 土豆
+    - name: Reddit
       style: basic
-      url: http://www.tudou.com/
+      url: https://www.reddit.com/
 
-
-
-    - name: 爱奇艺
+    - name: Rabbit
       style: basic
-      url: http://www.iqiyi.com/
+      url: https://www.rabb.it/
 
-
-    - name: 腾讯视频
+    - name: fancy
       style: basic
-      url: https://v.qq.com/
+      url: https://fancy.com/
 
     - name: 哔哩哔哩
       style: pink
       url: https://www.bilibili.com/
 
-    - name: AcFun
+    - name: NO视频
       style: basic
-      url: http://www.acfun.tv/
+      url: http://www.novipnoad.com/
 
-    - name: 吐槽
+    - name: Find video
       style: basic
-      url: http://www.tucao.tv/
+      url: https://embedy.cc/
 
-    - name: 腾讯动漫
+    - name: 美剧天堂
       style: basic
-      url: http://ac.qq.com/
+      url: http://www.meijutt.com/
 
-    - name: 虾米
+    - name: 6V电影网
       style: basic
-      url: http://www.xiami.com/
+      url: http://www.6vhao.tv/
 
-    - name: 多瑙影院
+    - name: BD影视网
       style: basic
-      url: http://www.dnvod.tv/
+      url: http://www.bd-film.co/
 
     - name: FIX字幕侠
       style: yellow
       url: http://www.zimuxia.cn/
 
-    - name: 斗鱼
-      style: orange
-      url: https://www.douyu.com/
 
 - section: hyr
   categories:
@@ -501,5 +495,6 @@
       url: http://ltfc.net/
 
     - name: 搜韵丨影印资源
+      icon: apple grey
       style: basic
       url: https://sou-yun.com/index.aspx
