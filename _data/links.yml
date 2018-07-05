@@ -253,9 +253,6 @@
       style: basic
       url: http://www.iqiyi.com/
 
-    - name: 芒果TV
-      style: basic
-      url: http://www.mgtv.com/
 
     - name: 腾讯视频
       style: basic
