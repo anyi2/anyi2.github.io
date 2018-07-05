@@ -37,3 +37,5 @@ exclude:
 - Gemfile.lock
 - script
 - vendor
+
+encoding: UTF-8
