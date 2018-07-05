@@ -24,6 +24,18 @@
       icon: apple grey
       url: https://www.apple.com/
 
+    - name: 一号店
+      style: basic
+      url: https://www.yhd.com/
+
+    - name: 当当
+      style: basic
+      url: http://www.dangdang.com/
+
+    - name: 网易严选
+      style: basic
+      url: http://you.163.com/
+
     - name: 优衣库
       style: basic
       url: http://www.uniqlo.cn/
@@ -31,6 +43,14 @@
     - name: 无印良品
       style: basic
       url: http://www.muji.com.cn/
+
+    - name: IKEA
+      style: basic
+      url: https://www.ikea.cn/
+
+    - name: 造作
+      style: basic
+      url: https://zaozuo.com/
 
     - name: 锤子科技
       style: basic
@@ -278,11 +298,11 @@
 
 - section: byr
   categories:
-  - category: 河艺校园
+  - category: 北邮校园
     links:
-    - name: 河艺官网
+    - name: 北邮官网
       style: basic
-      url: http://www.hebart.com/
+      url: http://www.bupt.edu.cn/
 
     - name: 官方导航
       style: basic
