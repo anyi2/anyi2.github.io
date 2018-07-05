@@ -1,32 +1,32 @@
-/ * donate.css * /
+/ * Blog.css * /
 
 .ui.masthead.segment {
-    ×îĞ¡¸ß¶È£º 300 ÏñËØ ;
+    æœ€å°é«˜åº¦ï¼š 300 åƒç´  ;
 }
 
 .ui.masthead  h1 .ui.header {
-    margin-top£º 1.5 em ;
+    margin-topï¼š 1.5 em ;
 }
 
 .ui.masthead  h2 .ui.header {
-    ±£Ö¤½ğµ×²¿£º 1.5 em ;
+    ä¿è¯é‡‘åº•éƒ¨ï¼š 1.5 em ;
 }
 
 .ui.vertical.stripe  h3 .ui.header {
-    font-size£º 2 em ;
+    font-sizeï¼š 2 em ;
 }
 
 .ui.vertical.stripe  p {
-    font-size£º 1.33 em ;
+    font-sizeï¼š 1.33 em ;
 }
 
 .ui.centered.card  .qrcode.image {
-    Ìî³ä£º 1 em ;
-    ±³¾°£ºÎŞ ;
+    å¡«å……ï¼š 1 em ;
+    èƒŒæ™¯ï¼šæ—  ;
 }
 
-@media  only  screen  and£¨max-width£º767 px£©{
+@media  only  screen  andï¼ˆmax-widthï¼š767 pxï¼‰{
     .ui.masthead.segment {
-        ×îĞ¡¸ß¶È£º 160 ÏñËØ ;
+        æœ€å°é«˜åº¦ï¼š 160 åƒç´  ;
     }
 }
