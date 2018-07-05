@@ -278,11 +278,11 @@
 
 - section: byr
   categories:
-  - category: 北邮校园
+  - category: 河艺校园
     links:
-    - name: 北邮官网
+    - name: 河艺官网
       style: basic
-      url: http://www.bupt.edu.cn/
+      url: http://www.hebart.com/
 
     - name: 官方导航
       style: basic
