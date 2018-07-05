@@ -287,6 +287,9 @@
       style: yellow
       url: http://www.zimuxia.cn/
 
+    - name: 感谢诸位的到来 为你提供最好的传送门
+      style: white
+      url: https://anyi98.github.io/
 
 - section: hyr
   categories:
