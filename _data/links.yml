@@ -14,6 +14,10 @@
       style: basic
       url: https://www.jd.com/
 
+    - name: 小米商城
+      style: basic
+      url: https://www.mi.com/
+
     - name: 亚马逊
       icon: amazon yellow
       style: basic
@@ -23,15 +27,6 @@
       style: basic
       icon: apple grey
       url: https://www.apple.com/
-
-    - name: 一号店
-      style: basic
-      url: https://www.yhd.com/
-
-
-    - name: 网易严选
-      style: basic
-      url: http://you.163.com/
 
     - name: 优衣库
       style: basic
@@ -53,9 +48,6 @@
       style: basic
       url: http://www.smartisan.com/
 
-    - name: 小米商城
-      style: basic
-      url: https://www.mi.com/
 
   - category: 工具
     links:
