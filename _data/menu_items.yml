@@ -12,8 +12,8 @@
   icon: qrcode
   url: /donate/
   active_key: donate
-  
-  - name: 博客
+
+- name: 博客
   icon: blog
   url: /blog/
   active_key: blog
