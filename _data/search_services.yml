@@ -141,10 +141,3 @@
   shortcut: PT
   style: black
 
-- id: byr
-  name: 北邮人论坛
-  url: http://search.icybee.cn/bbs/?key=
-
-- id: byrbt
-  name: 北邮人BT
-  url: https://bt.byr.cn/torrents.php?search=
