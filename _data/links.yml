@@ -179,34 +179,35 @@
       style: basic
       url: http://open.163.com/
 
+    - name: 全球500强
+      style: basic
+      url: http://brandirectory.com/league_tables/table/global-500-2018
+
     - name: Google Open Source
       icon: code blue
       style: basic
       url: https://opensource.google.com/
-
-    - name: 全球500强
-      style: basic
-      url: http://brandirectory.com/league_tables/table/global-500-2018
 
     - name: 数字尾巴
       style: dgtle blue
       url: http://www.dgtle.com/
 
     - name: Topys创意
-      style: basic
+      style: baby blue
       url: https://www.topys.cn/
 
     - name: IT之家 软媒
       style: red
       url: https://www.ithome.com/
 
+    - name: 少数派
+      style: red
+      url: https://sspai.com/
+
     - name: 投资界
       style: black
       url: http://www.pedaily.cn/
 
-    - name: 少数派
-      style: red
-      url: https://sspai.com/
 
   - category: 求职
     links:
@@ -288,69 +289,73 @@
       style: orange
       url: https://www.douyu.com/
 
-- section: byr
+- section: hyr
   categories:
-  - category: 北邮校园
+  - category: 河艺校园
     links:
-    - name: 北邮官网
+    - name: 河艺官网
       style: basic
-      url: http://www.bupt.edu.cn/
+      url: http://www.hebart.com/
 
-    - name: 官方导航
+    - name: 直属单位
       style: basic
-      url: http://dep.bupt.edu.cn/dh/
+      url: http://www.hebwh.gov.cn/zsdw/index.jsp?catalogId=2c9081fb5711bf50015712170c7c0002
 
-    - name: 本科教务系统
+    - name: 教务系统
       style: basic
-      url: http://jwxt.bupt.edu.cn/
+      url: http://www.hebart.com/jwc/
 
-    - name: 研究生教务系统
-      style: basic
-      url: http://yjxt.bupt.edu.cn/
-
-    - name: 教务处
-      style: basic
-      url: http://jwc.bupt.edu.cn/
-
-    - name: 北邮人论坛
-      style: basic
-      url: https://bbs.byr.cn/
-
-    - name: 北邮人BT
+    - name: 招生网
       style: blue
-      url: https://bt.byr.cn/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
+      url: http://www.hebart.com/zsw/
 
-    - name: 北邮IPTV
-      style: basic
-      url: http://tv.byr.cn/
+    - name: 党政办公室
+      style: red
+      url: http://www.hebart.com/dzb/
 
-    - name: 信息门户
+    - name: 文管系
       style: basic
-      url: http://my.bupt.edu.cn/
+      url: http://www.hebart.com/wgx/
 
-    - name: 图书馆
+    - name: 舞蹈系
       style: basic
-      url: http://lib.bupt.edu.cn/
+      url: http://www.hebart.com/wdx/
 
-    - name: 北邮贴吧
+    - name: 文化管理系
       style: basic
-      url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
+      url: http://www.hebart.com/whgl/
 
-    - name: 校园网
+    - name: 百科详情
       style: basic
-      url: http://nic.bupt.edu.cn/
+      url: https://baike.baidu.com/item/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2
 
-    - name: 北邮邮箱
+    - name: 河艺贴吧
       style: basic
-      url: http://mail.bupt.edu.cn/
+      url: http://dq.tieba.com/f?kw=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&fr=home
 
-    - name: VPN服务
+    - name: 河艺脸书
       style: basic
-      url: http://nic.bupt.edu.cn/list/list.php?p=3_24_1
+      url: https://www.facebook.com/pages/河北艺术职业学院/168319443197715
 
-    - name: 空闲自习室查询
+    - name: 河艺领英
       style: basic
-      url: http://buptclass.com/
+      url: https://www.linkedin.com/school/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2/
+
+    - name: 小米商店 APP
+      style: basic
+      url: http://app.mi.com/details?id=com.yunzainfo.hebeiyishu
+
+    - name: Apple APP
+      style: basic
+      url: https://itunes.apple.com/cn/app/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2/id1273630272?mt=8
+
+    - name: 古典舞《如梦令》
+      style: basic
+      url: https://www.bilibili.com/video/av16804529/
+
+    - name: 腾讯视频 相关
+      style: basic
+      url: https://v.qq.com/x/search/?q=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&stag=txt.playpage.vppdesc
 
   - category: 论坛相关
     links:
