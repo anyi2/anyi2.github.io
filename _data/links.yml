@@ -82,24 +82,19 @@
       style: basic
       url: http://email.163.com/
 
-    - name: QQ邮箱
-      icon: qq black
-      style: basic
-      url: https://mail.qq.com/
-
-    - name: 新浪邮箱
-      style: basic
-      url: https://mail.sina.com.cn/
-
     - name: Gmail
       icon: google red
       style: basic
       url: https://mail.google.com/
 
-    - name: 谷歌翻译
-      icon: language blue
+    - name: 微软邮箱
       style: basic
-      url: https://translate.google.com/
+      url: https://outlook.live.com/
+
+    - name: QQ邮箱
+      icon: qq black
+      style: basic
+      url: https://mail.qq.com/
 
     - name: 百度翻译
       icon: paw blue
@@ -111,9 +106,12 @@
       style: basic
       url: https://www.wikipedia.org/
 
-    - name: TinEye
+    - name: 谷歌翻译
+      icon: language blue
       style: basic
-      url: https://www.tineye.com/
+      url: https://translate.google.com/
+
+
 
   - category: 社交
     links:
