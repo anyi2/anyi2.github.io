@@ -101,17 +101,15 @@
       style: basic
       url: https://fanyi.baidu.com/
 
-    - name: 维基百科
-      icon: wikipedia w black
-      style: basic
-      url: https://www.wikipedia.org/
-
     - name: 谷歌翻译
       icon: language blue
       style: basic
       url: https://translate.google.com/
 
-
+    - name: 维基百科
+      icon: wikipedia w black
+      style: basic
+      url: https://www.wikipedia.org/
 
   - category: 社交
     links:
@@ -120,18 +118,8 @@
       style: basic
       url: https://weibo.com/
 
-    - name: 微信网页版
-      icon: weixin green
-      style: basic
-      url: https://wx.qq.com/
-
-    - name: 百度贴吧
-      icon: paw blue
-      style: basic
-      url: https://tieba.baidu.com/
-
     - name: 知乎
-      style: blue
+      style: zhihu blue
       url: https://www.zhihu.com/
 
     - name: Quora
@@ -139,74 +127,86 @@
       style: basic
       url: https://www.quora.com/
 
-    - name: Facebook
-      icon: facebook f blue
+    - name: Tumblr
+      icon: tumblr blue
       style: basic
-      url: https://www.facebook.com/
+      url: https://www.tumblr.com/
 
     - name: Google+
       icon: google plus g red
       style: basic
       url: https://plus.google.com/
 
-    - name: Tumblr
-      icon: tumblr blue
-      style: basic
-      url: https://www.tumblr.com/
-
     - name: Instagram
       icon: instagram pink
       style: basic
       url: https://www.instagram.com/
+
+    - name: Facebook
+      icon: facebook f blue
+      style: basic
+      url: https://www.facebook.com/
 
     - name: GitHub
       icon: github black
       style: basic
       url: https://github.com/
 
+    - name: Youtube
+      icon: youtube red
+      style: basic
+      url: http://www.youtube.com/
+
   - category: 学习
     links:
-    - name: Coursera
+    - name: CSDN
       style: basic
-      url: https://www.coursera.org/
+      url: https://edu.csdn.net/
 
     - name: MOOC
       style: basic
       url: http://mooc.org/
 
-    - name: 网易公开课
-      style: basic
-      url: http://open.163.com/
-
     - name: W3School
       style: basic
       url: http://www.w3school.com.cn/
 
-    - name: Stack Overflow
-      icon: stack overflow orange
+    - name: 新浪公开课
       style: basic
-      url: https://stackoverflow.com/
+      url: https://open.sina.com.cn//
 
-    - name: SegmentFault
+    - name: 网易公开课
       style: basic
-      url: http://segmentfault.com/
-
-    - name: Tutorials Point
-      style: basic
-      url: https://www.tutorialspoint.com/
+      url: http://open.163.com/
 
     - name: Google Open Source
       icon: code blue
       style: basic
       url: https://opensource.google.com/
 
-    - name: CSDN
+    - name: 全球500强
       style: basic
-      url: https://edu.csdn.net/
+      url: http://brandirectory.com/league_tables/table/global-500-2018
 
-    - name: 云英语
+    - name: 数字尾巴
+      style: dgtle blue
+      url: http://www.dgtle.com/
+
+    - name: Topys创意
+      style: basic
+      url: https://www.topys.cn/
+
+    - name: IT之家 软媒
+      style: red
+      url: https://www.ithome.com/
+
+    - name: 投资界
       style: black
-      url: http://y-english.org/
+      url: http://www.pedaily.cn/
+
+    - name: 少数派
+      style: red
+      url: https://sspai.com/
 
   - category: 求职
     links:
@@ -245,10 +245,7 @@
       style: basic
       url: http://www.tudou.com/
 
-    - name: Youtube
-      icon: youtube red
-      style: basic
-      url: http://www.youtube.com/
+
 
     - name: 爱奇艺
       style: basic
