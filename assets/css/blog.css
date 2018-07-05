@@ -1,0 +1,32 @@
+/ * donate.css * /
+
+.ui.masthead.segment {
+    最小高度： 300 像素 ;
+}
+
+.ui.masthead  h1 .ui.header {
+    margin-top： 1.5 em ;
+}
+
+.ui.masthead  h2 .ui.header {
+    保证金底部： 1.5 em ;
+}
+
+.ui.vertical.stripe  h3 .ui.header {
+    font-size： 2 em ;
+}
+
+.ui.vertical.stripe  p {
+    font-size： 1.33 em ;
+}
+
+.ui.centered.card  .qrcode.image {
+    填充： 1 em ;
+    背景：无 ;
+}
+
+@media  only  screen  and（max-width：767 px）{
+    .ui.masthead.segment {
+        最小高度： 160 像素 ;
+    }
+}
