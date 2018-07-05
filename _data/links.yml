@@ -309,10 +309,6 @@
       style: blue
       url: http://www.hebart.com/zsw/
 
-    - name: 党政办公室
-      style: red
-      url: http://www.hebart.com/dzb/
-
     - name: 文管系
       style: basic
       url: http://www.hebart.com/wgx/
@@ -341,65 +337,74 @@
       style: basic
       url: https://www.linkedin.com/school/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2/
 
-    - name: 小米商店 APP
-      style: basic
-      url: http://app.mi.com/details?id=com.yunzainfo.hebeiyishu
-
     - name: Apple APP
       style: basic
       url: https://itunes.apple.com/cn/app/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2/id1273630272?mt=8
 
-    - name: 古典舞《如梦令》
+    - name: 小米商店 APP
       style: basic
-      url: https://www.bilibili.com/video/av16804529/
+      url: http://app.mi.com/details?id=com.yunzainfo.hebeiyishu
 
     - name: 腾讯视频 相关
       style: basic
       url: https://v.qq.com/x/search/?q=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&stag=txt.playpage.vppdesc
 
-  - category: 论坛相关
+    - name: 古典舞《如梦令》
+      style: basic
+      url: https://www.bilibili.com/video/av16804529/
+
+    - name: 党政办公室
+      style: red
+      url: http://www.hebart.com/dzb/
+
+    - name: 寥寥无几，何以隽永？
+      style: white
+      url: https://anyi98.github.io/
+
+  - category: 论坛
     links:
-    - name: 北邮人论坛
+    - name: 猴岛论坛
       style: teal
-      url: http://bbs.byr.cn/
+      url: https://bbs.houdao.com/
 
-    - name: 游客版论坛
+    - name: 富贵论坛
       style: basic
-      url: http://bbs.cloud.icybee.cn/
+      url: http://www.fugui.co/
 
-    - name: 检索论坛内容
+    - name: 吾爱破解
       style: basic
-      url: http://search.icybee.cn/
+      url: https://www.52pojie.cn/
 
-    - name: 检索用户发帖
-      style: basic
-      url: http://search.lovezxp.com/
+    - name: 小米论坛
+      style: red
+      url: http://bbs.xiaomi.cn/
 
-    - name: 查看论坛数据
-      style: basic
-      url: http://bbs.byr.cn/#!elite/path?v=/bbslists
+    - name: 智友论坛
+      style: blue
+      url: http://bbs.zhiyoo.com/
 
-    - name: 论坛APP
+    - name: 简书
       icon: app store
       style: black
-      url: http://itunes.apple.com/cn/app/bei-you-ren-lun-tan-bei-you/id1115232927
+      url: https://www.jianshu.com/
 
-    - name: 论坛APP
+    - name: 豆瓣
       icon: google play
       style: black
-      url: https://github.com/dss886/BYR-BBS-APP-Release
+      url: https://www.douban.com/
 
-    - name: 论坛官方微博
+    - name: 抽屉
+      icon: app store
       style: basic
-      url: http://weibo.com/byrbbs
+      url: https://dig.chouti.com/
 
-    - name: 论坛投票区
+    - name: VK新闻
       style: basic
-      url: http://bbs.byr.cn/#!vote
+      url: https://vk.com/al_feed.php
 
-    - name: 玩转论坛指南
+    - name: yahoo资讯
       style: basic
-      url: http://bbs.byr.cn/#!article/Talking/5852307
+      url: https://www.yahoo.com/
 
   - category: 其他
     links:
