@@ -364,7 +364,6 @@
   - category: 论坛
     links:
     - name: 猴岛论坛
-      style: teal
       url: https://bbs.houdao.com/
 
     - name: 富贵论坛
@@ -406,9 +405,37 @@
       style: basic
       url: https://www.yahoo.com/
 
+    - name: 果壳网
+      icon: app store
+      style: black
+      url: https://www.guokr.com/
+
+    - name: 天涯论坛
+      style: basic
+      url: http://bbs.tianya.cn/list-no05-1.shtml
+
+    - name: 安逸餘生
+      icon: app weibo
+      style: basic
+      url: https://weibo.com/5592630806/profile?topnav=1&wvr=6&is_all=1
+
+    - name: 头条号
+      style: basic
+      url: https://mp.toutiao.com/login/?redirect_url=JTJGcHJvZmlsZV92MiUyRnB1Ymxpc2g=
+
+    - name: 搜狐文化
+      style: basic
+      url: http://cul.sohu.com/
+
+    - name: 一览热推
+      icon: google play
+      style: basic
+      url: http://www.yilan.io/home/?category=_recommend
+
   - category: 其他
     links:
     - name: 空余教室查询
+      style: teal
       style: basic
       url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
 
