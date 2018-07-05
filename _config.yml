@@ -39,3 +39,5 @@ exclude:
 - vendor
 
 encoding: UTF-8
+
+theme: jekyll-theme-cayman
