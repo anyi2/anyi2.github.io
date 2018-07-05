@@ -60,6 +60,11 @@
       style: basic
       url: http://www.xiji.com/
 
+    - name: 买买买
+      icon: google play
+      style: white
+      url: https://just998.com/
+
   - category: 工具
     links:
     - name: '12306'
@@ -432,65 +437,69 @@
       style: basic
       url: http://www.yilan.io/home/?category=_recommend
 
-  - category: 其他
+  - category: 冗杂之所
     links:
-    - name: 空余教室查询
-      style: teal
+    - name: 好奇心
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
+      url: http://www.qdaily.com/
 
-    - name: 辅修专业
+    - name: 孔夫子
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
+      url: https://m.kongfz.com/shop/
 
-    - name: 毕业设计
+    - name: 有路网
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
+      url: http://www.youlu.net/
 
-    - name: 学生校际选修
+    - name: 书伴
+      icon: google play
       style: basic
-      url: http://www.xueyuanlu.cn/
+      url: https://bookfere.com/novice
 
-    - name: 创新学分
+    - name: 小书屋
+      icon: google play
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
+      url: http://mebook.cc/
 
-    - name: 课表查询
+    - name: 周读
+      icon: google play
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_34_1
+      url: http://ireadweek.com/index.php/Index/index.html
 
-    - name: 考表查询
+    - name: 看国外
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
+      url: http://www.kanguowai.com/
 
-    - name: 出国成绩单办理
+    - name: 她社区
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
+      url: http://www.j.cn/bbs/plazas.html
 
-    - name: 教学事务流程
+    - name: 虫部落
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
+      url: http://www.chongbuluo.com/
 
-    - name: 创新实践平台
+    - name: 西林街
       style: basic
-      url: http://cslab.bupt.edu.cn/innovation/
+      url: http://www.xilinjie.com/
 
-    - name: 申请护照通行证
+    - name: 道印
+      icon: google play
       style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+      url: https://www.daoon.com/
 
-    - name: 补办学生证
+    - name: 书格
+      icon: google play
       style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+      url: https://shuge.org/
 
-    - name: 校园一卡通
+    - name: 故宫
       style: basic
-      url: http://ecard.bupt.edu.cn/
+      url: https://theme.npm.edu.tw/opendata/
 
-    - name: 办公电话
+    - name: 中华珍宝馆
       style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
+      url: http://ltfc.net/
 
-    - name: 校历
+    - name: 搜韵丨影印资源
       style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
+      url: https://sou-yun.com/index.aspx
