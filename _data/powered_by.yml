@@ -12,3 +12,24 @@
 
 - name: Matomo
   url: https://matomo.org/
+
+	<?php
+	//注意自己网站编码，如果前面已经定义，下面这行可以删除
+  		header('Content-Type:text/html; charset=utf-8');
+		$testurl = "http://v320.api.2898.com/index/Autochain/AutoChainYL?sign=e862d156bb7de6c4805c46e694bd15d3&id=153882&dtype=json&text=true";
+		$ch = curl_init();
+		curl_setopt($ch, CURLOPT_URL, $testurl);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+		curl_setopt($ch, CURLOPT_HEADER,0);
+		$output = curl_exec($ch);
+		curl_close($ch);
+		if($output){
+		    $json = json_decode($output,true);
+		    if($json){
+		      //json格式，请按自己要求输出
+		    }else{
+		      echo $output;
+		    }
+		}
+	?>
+			
