@@ -1,1 +1,23 @@
-https://anyi98.github.io/blog.github.io/
+---
+layout: default
+active_key: bolg
+---
+
+{%- for section in site.data.links -%}
+    <div class="ui vertical stripe links segment">
+        {% if forloop.first %}{% include page_loading_progress_bar.html %}{% endif %}
+        <div class="ui equal width stackable internally celled grid">
+            <div class="center aligned row">
+                {%- for item in section.categories -%}
+                    <div class="links column">
+                        <div class="ui top attached label">{{ item.category }}</div>
+                        <meta name="wlhlauth" content="9f79ee02820839b2b0ed042d1af9088b"/>
+                        <div class="ui labels">
+                            {% for link in item.links %}<a class="ui {{ link.style }} label" href="{{ link.url }}" target="_blank">{% if link.icon %}<i class="{{ link.icon }} icon"></i>{% endif %}{{ link.name }}</a>{% endfor %}
+                        </div>
+                    </div>
+                {%- endfor -%}
+            </div>
+        </div>
+    </div>
+{%- endfor -%}
