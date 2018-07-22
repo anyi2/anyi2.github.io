@@ -1,6 +1,8 @@
 ---
 layout: default
-active_key: bolg
+title: 博客
+icon: qrcode
+active_key: blog
 ---
 
 {%- for section in site.data.links -%}
@@ -13,7 +15,7 @@ active_key: bolg
                         <div class="ui top attached label">{{ item.category }}</div>
                         <meta name="wlhlauth" content="9f79ee02820839b2b0ed042d1af9088b"/>
                         <div class="ui labels">
-                            {% for link in item.links %}<a class="ui {{ link.style }} label" href="{{ link.url }}" target="_blank">{% if link.icon %}<i class="{{ link.icon }} icon"></i>{% endif %}{{ link.name }}</a>{% endfor %}
+                            {% for link in item.links %}<a class="ui {{ link.style }} label" href="{{ link.url:https://anyi98.github.io/ }}" target="_blank">{% if link.icon %}<i class="{{ link.icon }} icon"></i>{% endif %}{{ link.name }}</a>{% endfor %}
                         </div>
                     </div>
                 {%- endfor -%}
