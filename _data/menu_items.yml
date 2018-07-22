@@ -13,10 +13,10 @@
   url: /donate/
   active_key: donate
 
-- name: 搜索
-  icon: google
-  url: /search/
-  active_key: search
+- name: 音乐
+  icon: music
+  url: /音乐/
+  active_key: music
 
 - name: 博客
   icon: home
