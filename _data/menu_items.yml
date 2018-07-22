@@ -15,5 +15,5 @@
 
 - name: 博客
   icon: home
-  url: https：//anyi98.github.io
+  url: /博客/
   active_key: blog
