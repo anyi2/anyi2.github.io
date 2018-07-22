@@ -15,8 +15,8 @@
 
 - name: 搜索
   icon: google
-  url: /搜索/
-  active_key: so
+  url: /search/
+  active_key: search
 
 - name: 博客
   icon: home
