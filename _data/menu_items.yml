@@ -13,7 +13,12 @@
   url: /donate/
   active_key: donate
 
-- name: 博客
+- name: 搜索
   icon: home
   url: /博客/
+  active_key: blog
+
+- name: 博客
+  icon: home
+  url: /搜索/
   active_key: blog
