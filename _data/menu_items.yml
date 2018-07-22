@@ -14,11 +14,11 @@
   active_key: donate
 
 - name: 搜索
-  icon: home
-  url: /博客/
-  active_key: blog
+  icon: google
+  url: /搜索/
+  active_key: so
 
 - name: 博客
   icon: home
-  url: /搜索/
+  url: /博客/
   active_key: blog
