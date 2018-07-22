@@ -14,6 +14,6 @@
   active_key: donate
 
 - name: 博客
-  icon: blog
-  url: /blog/
+  icon: home
+  url: /https：//anyi98.github.io/
   active_key: blog
