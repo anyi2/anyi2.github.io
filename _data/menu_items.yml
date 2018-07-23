@@ -15,7 +15,7 @@
 
 - name: 音乐
   icon: music
-  url: /音乐/
+  url: https://github.com/BYR-Navi/BYR-Navi/blob/master/_data/menu_items.yml
   active_key: music
 
 - name: 博客
