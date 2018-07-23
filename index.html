@@ -11,7 +11,6 @@ active_key: home
                 {%- for item in section.categories -%}
                     <div class="links column">
                         <div class="ui top attached label">{{ item.category }}</div>
-                        <meta name="wlhlauth" content="9f79ee02820839b2b0ed042d1af9088b"/>
                         <div class="ui labels">
                             {% for link in item.links %}<a class="ui {{ link.style }} label" href="{{ link.url }}" target="_blank">{% if link.icon %}<i class="{{ link.icon }} icon"></i>{% endif %}{{ link.name }}</a>{% endfor %}
                         </div>
