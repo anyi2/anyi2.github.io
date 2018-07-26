@@ -19,6 +19,6 @@
   active_key: music
 
 - name: 博客
-  icon: blog
+  icon: google
   url: https://blog.anyi.life/
-  active_key: google
+  active_key: blog
