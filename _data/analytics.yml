@@ -4,6 +4,6 @@ google:
 matomo:
   url: https://ay.innocraft.cloud
   domains:
-  - "*.anyi.life"
-  site_id: 1
+  - "*.anyi98.github.io"
+  site_id: 2
   token: 2673e86571325a14db7f4f5ec59518dd
