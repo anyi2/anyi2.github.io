@@ -4,6 +4,6 @@ google:
 matomo:
   url: https://ay.innocraft.cloud
   domains:
-  - "*.byr-navi.com"
+  - "*.anyi.life"
   site_id: 1
   token: 2673e86571325a14db7f4f5ec59518dd
