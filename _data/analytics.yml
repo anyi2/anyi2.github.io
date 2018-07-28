@@ -2,7 +2,7 @@ google:
   id: UA-121779972-1
 
 matomo:
-  url: https://vps.irockbunny.com/analytics/
+  url: https://ay.innocraft.cloud
   domains:
   - "*.byr-navi.com"
   site_id: 1
