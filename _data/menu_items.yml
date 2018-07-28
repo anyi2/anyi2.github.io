@@ -3,19 +3,19 @@
   url: /
   active_key: home
 
-- name: 访客分析
+- name: 访客
   icon: chart line
   url: /analytics/
   active_key: analytics
 
-- name: 扫码捐赠
+- name: 捐赠
   icon: qrcode
   url: /donate/
   active_key: donate
 
 - name: 音乐
   icon: music
-  url: https://github.com/BYR-Navi/BYR-Navi/blob/master/_data/menu_items.yml
+  url: https://music.163.com/#/user/home?id=563874472
   active_key: music
 
 - name: 博客
