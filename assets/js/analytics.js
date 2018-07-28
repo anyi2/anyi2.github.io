@@ -1,5 +1,21 @@
 // analytics.js
 
+<！ -  Matomo  - >
+<script type =“text / javascript”>
+  var _paq = _paq || [];
+  应该在“trackPageView”之前调用/ *跟踪器方法，如“setCustomDimension”* /
+  _paq.push（[ 'trackPageview的']）;
+  _paq.push（[ 'enableLinkTracking']）;
+  （function（）{
+    var u =“https://ay.innocraft.cloud/”;
+    _paq.push（['setTrackerUrl'，u +'piwik.php']）;
+    _paq.push（['setSiteId'，'1']）;
+    var d = document，g = d.createElement（'script'），s = d.getElementsByTagName（'script'）[0];
+    g.type = '文本/ JavaScript的'; g.async = TRUE; g.defer = TRUE; g.src = U + 'piwik.js'; s.parentNode.insertBefore（G，S）;
+  }）（）;
+</ SCRIPT>
+<！ -  End Matomo Code  - >
+
 // date range
 var establishedAt = new Date($('meta[name=established_at]').attr('content'));
 function siteEstablishedDays() {
