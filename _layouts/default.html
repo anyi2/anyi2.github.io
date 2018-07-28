@@ -37,6 +37,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script type =“text / javascript”>
   var _paq = _paq || [];
   应该在“trackPageView”之前调用/ *跟踪器方法，如“setCustomDimension”* /
+  _paq.push（[“setDocumentTitle”，document.domain +“/”+ document.title]）;
+  _paq.push（[“setCookieDomain”，“* .anyi.life”]）;
+  _paq.push（[“setDomains”，[“* .anyi.life”]]）;
   _paq.push（[ 'trackPageview的']）;
   _paq.push（[ 'enableLinkTracking']）;
   （function（）{
@@ -47,6 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     g.type = '文本/ JavaScript的'; g.async = TRUE; g.defer = TRUE; g.src = U + 'piwik.js'; s.parentNode.insertBefore（G，S）;
   }）（）;
 </ SCRIPT>
+<noscript> <p> <img src =“https://ay.innocraft.cloud/piwik.php?idsite=1&rec=1”style =“border：0;” alt =“”/> </ p> </ noscript>
 <！ -  End Matomo Code  - >
 </head>
 <body>
