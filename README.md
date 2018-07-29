@@ -1,15 +1,12 @@
-[![Build Status](https://travis-ci.org/anyi98/anyi98.github.io.svg)][travis-ci]
-[![Website](https://img.shields.io/website-up-down-green-red/https/anyi98.github.io.svg)][website]
-[![License](https://img.shields.io/github/license/anyi98/anyi98.svg)][license]
-[![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)][saythanks]
-[![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F.svg)][donate]
+
+
 
 [![Watchers](https://img.shields.io/github/watchers/anyi98/anyi98.svg?style=social&label=Watch)][watch]
+
 [![Stargazers](https://img.shields.io/github/stars/anyi98/anyi98.svg?style=social&label=Star)][star]
+
 [![Forks](https://img.shields.io/github/forks/anyi98/anyi98.svg?style=social&label=Fork)][fork]
 
-[![Closed Issues](https://img.shields.io/github/issues-closed/BYR-Navi/BYR-Navi.svg)][issue]
-[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BYR-Navi/BYR-Navi.svg)][pull]
 
 # AnYi-Navi
 - A Navigation [Website][website] for AnYi  致谢BYR
@@ -24,7 +21,7 @@
 - There is **no easy way for beginners** without essential background knowledge.
 - To be efficient, the best way to understand this project is to start with the Jekyll's [docs][jekyll-doc] and Fomantic UI's [docs][fomantic-doc].
 
-Before you start, you should have some basic understanding of the following:
+- Before you start, you should have some basic understanding of the following:
 
 - HTML
 - CSS
@@ -32,15 +29,6 @@ Before you start, you should have some basic understanding of the following:
 - jQuery
 - YAML format
 - UNIX/Linux Shell Script
-
-
-## Share the Love
-- I've （BYR） put a lot of time and effort into making **BYR-Navi** awesome.
-- If you love it, you can buy me a coffee or tea.
-- Every cup helps! Tkank you welcome here.
-- I promise it will be a good investment.
-
-- Donate [here][donate].
 
 
 #### Powered by
@@ -86,5 +74,22 @@ Before you start, you should have some basic understanding of the following:
 [jekyll]: https://jekyllrb.com/ "Jekyll"
 [jekyll-doc]: https://jekyllrb.com/docs/home/ "Jekyll Docs"
 [github-pages]: https://pages.github.com/ "GitHub Pages"
+
+#### Last by
      Thank you and everone. last thanks BYR-Navi. 
       by: ANYI's last modified.
+
+
+
+[![Build Status](https://travis-ci.org/anyi98/anyi98.github.io.svg)][travis-ci]
+[![Website](https://img.shields.io/website-up-down-green-red/https/anyi98.github.io.svg)][website]
+[![License](https://img.shields.io/github/license/anyi98/anyi98.svg)][license]
+[![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)][saythanks]
+[![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F.svg)][donate]
+
+[![Watchers](https://img.shields.io/github/watchers/anyi98/anyi98.svg?style=social&label=Watch)][watch]
+[![Stargazers](https://img.shields.io/github/stars/anyi98/anyi98.svg?style=social&label=Star)][star]
+[![Forks](https://img.shields.io/github/forks/anyi98/anyi98.svg?style=social&label=Fork)][fork]
+
+[![Closed Issues](https://img.shields.io/github/issues-closed/BYR-Navi/BYR-Navi.svg)][issue]
+[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BYR-Navi/BYR-Navi.svg)][pull]
