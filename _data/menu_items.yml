@@ -8,15 +8,15 @@
   url: /donate/
   active_key: donate
 
-- name: 博客
-  icon: google
-  url: https://blog.anyi.life/
-  active_key: blog
-
 - name: 访客
   icon: chart line
   url: /analytics/
   active_key: analytics
+
+- name: 博客
+  icon: google
+  url: https://blog.anyi.life/
+  active_key: blog
 
 - name: 音乐
   icon: music
