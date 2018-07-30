@@ -2,8 +2,8 @@ google:
   id: UA-121779972-1
 
 matomo:
-  url: https://ay.innocraft.cloud
+  url: https：//vps.anyi.life/analytics/
   domains:
-  - "*.anyi98.github.io"
-  site_id: 2
-  token: 57e70ca8b204e84ab9266c24217f6753
+  - "*.anyi.life"
+  site_id: 1
+  token: 5f3abb154619914ad52ca6705d64ada9
