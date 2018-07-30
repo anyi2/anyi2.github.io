@@ -3,22 +3,27 @@
   url: /
   active_key: home
 
-- name: 访客
-  icon: chart line
-  url: /analytics/
-  active_key: analytics
-
 - name: 捐赠
   icon: qrcode
   url: /donate/
   active_key: donate
+
+- name: 博客
+  icon: google
+  url: https://blog.anyi.life/
+  active_key: blog
+
+- name: 访客
+  icon: chart line
+  url: /analytics/
+  active_key: analytics
 
 - name: 音乐
   icon: music
   url: https://music.163.com/#/user/home?id=563874472
   active_key: music
 
-- name: 博客
-  icon: google
-  url: https://blog.anyi.life/
-  active_key: blog
+- name: 影视
+  icon: youtube
+  url: https://a.anyi.life/
+  active_key: youtube
