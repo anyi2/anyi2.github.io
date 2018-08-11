@@ -35,7 +35,7 @@
 
 - id: ieeexplore
   name: IEEE Xplore
-  url: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=
+  url: https://g.zmirrordemo.com/search?safe=strict&tbm=isch&source=hp&ei=3WlvW-SPL_6S0PEP96yS6AY&q=i
 
 - id: baiduxueshu
   name: 百度学术
