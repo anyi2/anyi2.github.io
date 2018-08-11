@@ -26,7 +26,7 @@
         {% for item in site.data.search_services %}{% if item.shortcut %}<a class="ui {{ item.style }} label" data-search-service-id="{{ item.id }}">{% if item.icon %}<i class="{{ item.icon }} icon"></i>{% endif %}{{ item.shortcut }}</a>{% endif %}{% endfor %}
     </div>
     <div class="badges">
-        <a id="github-watch" href="{{ site.repository_url }}/watchers" target="_blank"><img src="https://img.shields.io/github/watchers/{{ site.repository }}.svg?style=social&label=Watch" alt="GitHub Watchers"></a>
+        
         <a id="github-star" href="{{ site.repository_url }}/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/{{ site.repository }}.svg?style=social&label=Star" alt="GitHub Stargazers"></a>
         <a id="github-fork" href="{{ site.repository_url }}/network/members" target="_blank"><img src="https://img.shields.io/github/forks/{{ site.repository }}.svg?style=social&label=Fork" alt="GitHub Forks"></a>
         <a id="version" href="{{ site.repository_url }}/commits" target="_blank"><img src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E4%BA%8E-loading-orange.svg" alt="Update Time"></a>
@@ -34,6 +34,6 @@
         <a id="live-visitors" class="loading-trigger" href="{{ '/analytics/' | relative_url }}"><img src="https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E5%9C%A8%E7%BA%BF-loading-orange.svg" alt="Live Visitors"></a>
     </div>
     <div class="ui inverted link list">
-        <a class="item loading-trigger" href="{{ '/donate/' | relative_url }}">请为辛苦滴开发者众筹一杯咖啡</a>
+        <a class="item loading-trigger" href="{{ https://blog.anyi.life/ }}">安逸博客·探索世界的未知之处</a>
     </div>
 </div>
