@@ -18,12 +18,13 @@
   url: https://blog.anyi.life/
   active_key: blog
 
+- name: 影视
+  icon: youtube
+  url: https://m.anyi.life/
+  active_key: youtube
+
 - name: 音乐
   icon: music
   url: https://music.163.com/#/user/home?id=563874472
   active_key: music
 
-- name: 影视
-  icon: youtube
-  url: https://a.anyi.life/
-  active_key: youtube
