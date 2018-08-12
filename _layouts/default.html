@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1886054461493755",
+    enable_page_level_ads: true
+  });
+</script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
@@ -19,19 +26,8 @@
     <link rel="apple-touch-icon" type="image/png" href="{{ '/apple-touch-icon.png' | relative_url }}">
     <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
     {% include analytics.html %}
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-1886054461493755",
-    enable_page_level_ads: true
-  });
-</script>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WT7ZBNZ');</script>
-<!-- End Google Tag Manager -->
+</head>
+<body>
     {% include following_menu.html %}
     {% include sidebar.html %}
     <div class="pusher">
@@ -43,7 +39,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <script type="text/javascript" src="//unpkg.com/jquery/dist/jquery.min.js"></script>
     <script type="text/javascript" src="//unpkg.com/fomantic-ui/dist/semantic.min.js"></script>
     <script type="text/javascript" src="{{ '/assets/js/common.js' | relative_url }}"></script>
-    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1274223552'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1274223552%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
     {% if page.active_key == 'home' or page.active_key == 'analytics' %}<script type="text/javascript" src="//unpkg.com/moment/min/moment-with-locales.min.js"></script>{% endif %}
     {% if page.active_key == 'home' %}<script type="text/javascript" src="//unpkg.com/js-cookie/src/js.cookie.js"></script>{% endif %}
     {% if page.active_key == 'home' %}<script type="text/javascript" src="{{ '/assets/js/suggest-query.min.js' | relative_url }}"></script>{% endif %}
@@ -52,10 +47,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     {% if page.active_key == 'analytics' %}<script type="text/javascript" src="//unpkg.com/jquery-countdown/dist/jquery.countdown.min.js"></script>{% endif %}
     {% if page.active_key == 'analytics' %}<script type="text/javascript" src="//unpkg.com/countup/dist/countUp.min.js"></script>{% endif %}
     {% if page.active_key == 'analytics' %}<script type="text/javascript" src="//unpkg.com/echarts/dist/echarts.min.js"></script>{% endif %}
-    {% if page.active_key == 'analytics' %}<script type="text/javascript" src="//unpkg.com/echarts/theme/macarons.js"></script>{% endif %}
     {% if page.active_key == 'analytics' %}<script type="text/javascript" src="//unpkg.com/echarts/map/js/world.js"></script>{% endif %}
     {% if page.active_key == 'analytics' %}<script type="text/javascript" src="{{ '/assets/js/analytics.js' | relative_url }}"></script>{% endif %}
     {% if page.active_key == 'search' %}<script type="text/javascript" src="//unpkg.com/js-url/url.min.js"></script>{% endif %}
     {% if page.active_key == 'search' %}<script type="text/javascript" src="{{ '/assets/js/search.js' | relative_url }}"></script>{% endif %}
-    </body>
+</body>
 </html>
