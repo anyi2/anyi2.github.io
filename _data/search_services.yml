@@ -129,9 +129,8 @@
   shortcut: 胖鸟
   style: black
 
-- id: lime
-  name: Lime Torrents
-  url: https://www.limetorrents.cc/search/all/
-  suffix: "/"
-  shortcut: PT
+- id: github
+  name: Github
+  url: https://github.com/search?q=
+  shortcut: Git
   style: black
