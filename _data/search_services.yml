@@ -8,73 +8,82 @@
 
 - id: google
   name: 谷歌
-  url: https://google.com/search?q=
+  url: https://ay404.anyi.life//search?q=安逸导航
   shortcut: 谷歌
   icon: google red inverted
   style: black
 
 - id: baidumap
-  name: 百度地图
-  url: https://api.map.baidu.com/geocoder?address=
-  suffix: "&output=html"
-  shortcut: 地图
-  icon: map green inverted
+  name: 谷歌学术
+  url: https://ay404.anyi.life/extdomains/scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=
+  suffix: "&btnG="
+  shortcut: 学术
+  icon: map blue inverted
   style: black
 
-- id: bing
-  name: 必应
-  url: https://cn.bing.com/search?q=
-  shortcut: 必应
+- id: taobao
+  name: 淘宝
+  url: https://s.taobao.com/search?q=
+  shortcut: 淘宝
   style: black
 
 - id: wikipedia
   name: 维基百科
-  url: https://www.wikipedia.org/wiki/
+  url: https://ay404.anyi.life/extdomains/zh.wikipedia.org/wiki/
   # shortcut: 维基
   # style: black
 
-- id: ieeexplore
-  name: IEEE Xplore
-  url: https://g.zmirrordemo.com/search?safe=strict&tbm=isch&source=hp&ei=3WlvW-SPL_6S0PEP96yS6AY&q=i
+- id: google imghp
+  name: 谷歌搜图
+  url: https://ay404.anyi.life/search?safe=strict&biw=1680&bih=913&tbm=isch&sa=1&ei=VpByW83wMsyt_QakrpnQDg&q=
 
-- id: baiduxueshu
-  name: 百度学术
-  url: https://xueshu.baidu.com/s?wd=
+- id: gmail
+  name: gmail-signup
+  url: https://ay404.anyi.life/extdomains/accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fpc%3Dtopnav-about-en&flowName=GlifWebSignIn&flowEntry=
 
 - id: googlescholar
   name: 谷歌学术
   url: https://scholar.google.com/scholar?q=
 
-- id: etymonline
-  name: Etymonline
-  url: https://www.etymonline.com/index.php?search=
+- id: twitter
+  name: twitter
+  url: https://twitter.com/search?q=
+  suffix: "&src=typd"
 
-- id: mw
-  name: Merriam-Webster
-  url: https://www.merriam-webster.com/dictionary/
+- id: youtube
+  name: Youtube
+  url: https://youtube.com/results?search_query=
 
-- id: github
-  name: GitHub
-  url: https://github.com/search?q=
+- id: instagram
+  name: instagram
+  url: https://www.instagram.com/?hl=
+  
+- id: facebook
+  name: Facebook
+  url: https://facebook/login.php?next=
 
-- id: weixin1
-  name: 微信公众号
-  url: http://weixin.sogou.com/weixin?type=1&query=
-  suffix: "&ie=utf8"
+- id: Gutenberg
+  name: Gutenberg
+  url: https://www.gutenberg.org/ebooks/search/?query=
 
-- id: weixin2
-  name: 微信文章
-  url: http://weixin.sogou.com/weixin?type=2&query=
-  suffix: "&ie=utf8"
+- id: Librivox
+  name: Librivox free audiobooks
+  url: https://librivox.org/search?q=
+  suffix: "&search_form=advanced"
 
-- id: minapp
-  name: 微信小程序
-  url: https://minapp.com/miniapp/search/?query=
+- id: Internet Archive
+  name: 互联网存档 ORG
+  url: https://archive.org/search.php?query=
 
-- id: weibo
-  name: 微博
-  url: https://s.weibo.com/weibo/
-  shortcut: 微博
+- id: soso.com
+  name: 搜搜 卷土重来
+  url: https://www.soso.com/tx?ie=utf8&pid=&query=安逸导航
+  suffix: "&w=&sut=4731&sst0=1534236918491&lkt=6%2C1534236913762%2C1534236914503"
+
+- id: wikipedia
+  name: 维基
+  url: https://ay404.anyi.life/extdomains/zh.wikipedia.org/wiki/
+  shortcut: 维基
   style: black
 
 - id: zhihu
@@ -97,8 +106,8 @@
 
 - id: jd
   name: 京东
-  url: http://search.jd.com/Search?keyword=
-  suffix: "&enc=utf-8"
+  url: https://search.yahoo.com/search;_ylt=Awr47a9WjXJbCEIABAVDDWVH?p=
+  suffix: "&fr=sfp&iscqry="
   shortcut: 京东
   style: black
 
@@ -113,24 +122,24 @@
   url: http://ifkdy.com/?q=
   style: black
 
-- id: fix
-  name: FIX字幕侠
-  url: http://www.zimuxia.cn/?s=
-  shortcut: FIX
-  style: black
-
 - id: wangpan
   name: 网盘
   url: http://www.58wangpan.com/search/kw
 
-- id: pniao
-  name: 胖鸟
-  url: http://www.pniao.com/Mov/so/
-  shortcut: 胖鸟
+- id: archive
+  name: Archive
+  url: https://archive.org/
+  shortcut: 档案
   style: black
 
 - id: github
   name: Github
   url: https://github.com/search?q=
   shortcut: Git
+  style: black
+
+- id: hot私人搜索引擎
+  name: Hotbot
+  url: https://www.hotbot.com/web?q=
+  shortcut: Hot
   style: black
