@@ -128,7 +128,7 @@
 
 - id: archive
   name: Archive
-  url: https://archive.org/
+  url: https://archive.org/search.php?query=
   shortcut: 档案
   style: black
 
