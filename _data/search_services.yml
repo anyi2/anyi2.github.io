@@ -54,7 +54,7 @@
   
 - id: facebook
   name: Facebook
-  url: https://facebook/login.php?next=
+  url: https://facebook.com/login.php?next=
 
 - id: Gutenberg
   name: Gutenberg
