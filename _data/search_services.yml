@@ -8,7 +8,7 @@
 
 - id: google
   name: 谷歌
-  url: https://ay404.anyi.life//search?q=安逸导航
+  url: https://ay404.anyi.life//search?q=
   shortcut: 谷歌
   icon: google red inverted
   style: black
@@ -79,7 +79,7 @@
 
 - id: Internet Archive
   name: 互联网存档 ORG
-  url: https://archive.org/search.php?query=
+  url: https://art.anyi.life/search.php?query=
 
 - id: wikipedia
   name: 维基
