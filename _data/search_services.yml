@@ -13,6 +13,28 @@
   icon: google red inverted
   style: black
 
+- id: googlescholar
+  name: 谷歌学术
+  url: https://scholar.google.com/scholar?q=
+  
+- id: googlescholar
+  name: 谷歌学术
+  url: https://scholar.google.com/scholar?q=
+
+- id: googlescholar
+  name: 谷歌学术
+  url: https://scholar.google.com/scholar?q=
+
+- id: googlescholar
+  name: 谷歌学术
+  url: https://scholar.google.com/scholar?q=
+
+- id: wikipedia
+  name: 维基百科
+  url: https://ay404.anyi.life/extdomains/zh.wikipedia.org/wiki/
+  # shortcut: 维基
+  # style: black
+
 - id: baidumap
   name: 谷歌学术
   url: https://ay404.anyi.life/extdomains/scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=
@@ -21,23 +43,13 @@
   icon: map blue inverted
   style: black
 
-- id: wikipedia
-  name: 维基百科
-  url: https://ay404.anyi.life/extdomains/zh.wikipedia.org/wiki/
-  # shortcut: 维基
-  # style: black
-
-- id: google imghp
+- id: google photo
   name: 谷歌搜图
   url: https://ay404.anyi.life/search?safe=strict&biw=1680&bih=913&tbm=isch&sa=1&ei=VpByW83wMsyt_QakrpnQDg&q=
 
 - id: gmail
-  name: gmail-signup
+  name: 谷歌邮箱
   url: https://ay404.anyi.life/extdomains/accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fpc%3Dtopnav-about-en&flowName=GlifWebSignIn&flowEntry=
-
-- id: googlescholar
-  name: 谷歌学术
-  url: https://scholar.google.com/scholar?q=
 
 - id: twitter
   name: twitter
@@ -61,7 +73,7 @@
   url: https://www.gutenberg.org/ebooks/search/?query=
 
 - id: Librivox
-  name: Librivox free audiobooks
+  name: Librivox
   url: https://librivox.org/search?q=
   suffix: "&search_form=advanced"
 
@@ -69,19 +81,18 @@
   name: 互联网存档 ORG
   url: https://archive.org/search.php?query=
 
-- id: soso.com
-  name: 搜搜 卷土重来
-  url: https://www.soso.com/tx?ie=utf8&pid=&query=
-  suffix: "&w=&sut=4731&sst0=1534236918491&lkt=6%2C1534236913762%2C1534236914503"
-  shortcut: 搜搜
-  style: black
-
 - id: wikipedia
   name: 维基
   url: https://ay404.anyi.life/extdomains/zh.wikipedia.org/wiki/
   shortcut: 维基
   style: black
 
+- id: Quora
+  name: Quora
+  url: https://www.quora.com/search?q=
+  shortcut: Quora
+
+  style: black
 - id: zhihu
   name: 知乎
   url: https://www.zhihu.com/search?q=
