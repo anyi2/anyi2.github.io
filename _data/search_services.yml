@@ -71,9 +71,9 @@
 
 - id: soso.com
   name: 搜搜 卷土重来
-  url: https://www.soso.com/tx?ie=utf8&pid=&query=安逸导航
+  url: https://www.soso.com/tx?ie=utf8&pid=&query=
   suffix: "&w=&sut=4731&sst0=1534236918491&lkt=6%2C1534236913762%2C1534236914503"
-  shortcut: 淘宝
+  shortcut: 搜搜
   style: black
 
 - id: wikipedia
