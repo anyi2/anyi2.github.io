@@ -1,14 +1,20 @@
 - name: Jekyll
   url: https://jekyllrb.com/
 
-- name: GitHub Pages
-  url: https://pages.github.com/
-
-- name: Shields.io
-  url: https://shields.io/
+- name: Matomo
+  url: https://matomo.org/
 
 - name: Hitokoto
   url: https://hitokoto.cn/api
 
-- name: Matomo
-  url: https://matomo.org/
+- name: Shields.io
+  url: https://shields.io/
+
+- name: GitHub Pages
+  url: https://pages.github.com/
+
+- name: Open source comes from
+  url: https://github.com/BYR-Navi/BYR-Navi
+
+- name: Here is BYR"s home page
+  url: https://github.com/BYR-Navi/BYR-Navi
