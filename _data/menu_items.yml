@@ -13,18 +13,23 @@
   url: /analytics/
   active_key: analytics
 
-- name: 博客
-  icon: google
-  url: https://blog.anyi.life/
-  active_key: blog
-
-- name: 影视
-  icon: youtube
-  url: https://m.anyi.life/
-  active_key: youtube
-
 - name: 音乐
   icon: music
   url: https://music.163.com/#/user/home?id=563874472
   active_key: music
+
+- name: 社区
+  icon: github
+  url: https://bbs.anyi.life/
+  active_key: bbs
+
+- name: 探索
+  icon: google
+  url: https://go.anyi.life/Files/
+  active_key: tansuo
+
+- name: 博客
+  icon: wikipedia
+  url: https://blog.anyi.life/
+  active_key: blog
 
