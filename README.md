@@ -9,7 +9,7 @@
 
 
 # AnYi-Navi
-- A Navigation [Website] for AnYi  致谢BYR开源分享！
+- A Navigation [Website][website] for AnYi  致谢BYR开源分享！
 - 
 ## Design Philosophy
 - This project is a [Jekyll][jekyll]-powered website, which is built based on [Fomantic UI][fomantic] web framework, and deployed using [GitHub Pages][github-pages].
