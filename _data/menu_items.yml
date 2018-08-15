@@ -29,6 +29,6 @@
   active_key: bbs
 
 - name: 博客
-  icon: wikipedia w black
+  icon: wikipedia w
   url: https://blog.anyi.life/
   active_key: blog
