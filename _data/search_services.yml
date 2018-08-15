@@ -14,26 +14,20 @@
   style: black
 
 - id: googlescholar
-  name: 谷歌学术
+  name: 谷歌
   url: https://scholar.google.com/scholar?q=
   
 - id: googlescholar
-  name: 谷歌学术
+  name: 谷歌
   url: https://scholar.google.com/scholar?q=
 
 - id: googlescholar
-  name: 谷歌学术
-  url: https://scholar.google.com/scholar?q=
+  name: 谷歌
+  url: https://www.microsofttranslator.com/bv.aspx?from=&to=yue&a=
 
-- id: googlescholar
-  name: 谷歌学术
-  url: https://scholar.google.com/scholar?q=
-
-- id: wikipedia
-  name: 维基百科
-  url: https://ay404.anyi.life/extdomains/zh.wikipedia.org/wiki/
-  # shortcut: 维基
-  # style: black
+- id: googletranslate
+  name: 谷歌
+  url: https://translate.google.cn/#zh-CN/en/
 
 - id: baidumap
   name: 谷歌学术
@@ -43,6 +37,12 @@
   icon: map blue inverted
   style: black
 
+- id: wikipedia
+  name: 维基百科
+  url: https://ay404.anyi.life/extdomains/zh.wikipedia.org/wiki/
+  # shortcut: 维基
+  # style: black
+
 - id: google photo
   name: 谷歌搜图
   url: https://ay404.anyi.life/search?safe=strict&biw=1680&bih=913&tbm=isch&sa=1&ei=VpByW83wMsyt_QakrpnQDg&q=
@@ -51,46 +51,15 @@
   name: 谷歌邮箱
   url: https://ay404.anyi.life/extdomains/accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fpc%3Dtopnav-about-en&flowName=GlifWebSignIn&flowEntry=
 
-- id: twitter
-  name: twitter
-  url: https://twitter.com/search?q=
-  suffix: "&src=typd"
-
-- id: youtube
-  name: Youtube
-  url: https://youtube.com/results?search_query=
-
-- id: instagram
-  name: instagram
-  url: https://www.instagram.com/?hl=
-  
-- id: facebook
-  name: Facebook
-  url: https://facebook.com/login.php?next=
-
-- id: Gutenberg
-  name: Gutenberg
-  url: https://www.gutenberg.org/ebooks/search/?query=
-
-- id: Librivox
-  name: Librivox
-  url: https://librivox.org/search?q=
-  suffix: "&search_form=advanced"
-
-- id: Internet Archive
-  name: 互联网存档 ORG
-  url: https://art.anyi.life/search.php?query=
+- id: googletranslate
+  name: 谷歌翻译
+  url: https://translate.google.cn/#zh-CN/en/
 
 - id: wikipedia
   name: 维基
   url: https://ay404.anyi.life/extdomains/zh.wikipedia.org/wiki/
   shortcut: 维基
   style: black
-
-- id: Quora
-  name: Quora
-  url: https://www.quora.com/search?q=
-  shortcut: Quora
 
   style: black
 - id: zhihu
@@ -133,11 +102,15 @@
   name: 网盘
   url: http://www.58wangpan.com/search/kw
 
-- id: archive
-  name: Archive
-  url: https://archive.org/search.php?query=
-  shortcut: 档案
-  style: black
+- id: twitter
+  name: twitter
+  url: https://twitter.com/search?q=
+  suffix: "&src=typd"
+
+- id: Quora
+  name: Quora
+  url: https://www.quora.com/search?q=
+  shortcut: Quora
 
 - id: github
   name: Github
@@ -150,3 +123,38 @@
   url: https://www.hotbot.com/web?q=
   shortcut: Hot
   style: black
+
+- id: bing fanyi
+  name: Bing网页翻译
+  url: https://www.microsofttranslator.com/bv.aspx?from=&to=yue&a=
+
+- id: youtube
+  name: Youtube
+  url: https://youtube.com/results?search_query=
+
+- id: instagram
+  name: instagram
+  url: https://www.instagram.com/?hl=
+  
+- id: facebook
+  name: Facebook
+  url: https://facebook.com/login.php?next=
+
+- id: archive
+  name: Archive
+  url: https://archive.org/search.php?query=
+  shortcut: 档案
+  style: black
+
+- id: Librivox
+  name: Librivox
+  url: https://librivox.org/search?q=
+  suffix: "&search_form=advanced"
+  
+- id: Gutenberg
+  name: Gutenberg
+  url: https://www.gutenberg.org/ebooks/search/?query=
+
+- id: Internet Archive
+  name: 互联网存档
+  url: https://art.anyi.life/advancedsearch.php?q=
