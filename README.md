@@ -32,3 +32,6 @@ Design Philosophy
 Last by
      Thank you and everone. last thanks BYR-Navi. 
       by: ANYI's last modified.
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
