@@ -21,12 +21,13 @@
 
 本人依旧提供开源，但使用查询路径请告知。在此致谢。
 
+
+
 AnYi-Navi
 - The Navigation for AnYi ！ The Open source code comes from BYR·Navi：https://byr-navi.com/
-- 
+
 Design Philosophy
 - This project is a [Jekyll][jekyll]-powered website, which is built based on [Fomantic UI][fomantic] web framework, and deployed using [GitHub Pages][github-pages].
-
 
 Last by
      Thank you and everone. last thanks BYR-Navi. 
