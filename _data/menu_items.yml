@@ -29,7 +29,7 @@
   active_key: tansuo
 
 - name: 博客
-  icon: wikipedia
+  icon: wiki
   url: https://blog.anyi.life/
   active_key: blog
 
