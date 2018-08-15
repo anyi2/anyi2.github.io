@@ -18,18 +18,17 @@
   url: https://music.163.com/#/user/home?id=563874472
   active_key: music
 
-- name: 社区
-  icon: github
-  url: https://bbs.anyi.life/
-  active_key: bbs
-
 - name: 探索
   icon: google
   url: https://go.anyi.life/Files/
   active_key: tansuo
 
+- name: 社区
+  icon: github
+  url: https://bbs.anyi.life/
+  active_key: bbs
+
 - name: 博客
-  icon: wiki
+  icon: wikipedia w black
   url: https://blog.anyi.life/
   active_key: blog
-
