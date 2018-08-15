@@ -111,6 +111,7 @@
   name: Quora
   url: https://www.quora.com/search?q=
   shortcut: Quora
+  style: black
 
 - id: github
   name: Github
@@ -126,7 +127,7 @@
 
 - id: bing fanyi
   name: Bing网页翻译
-  url: https://www.microsofttranslator.com/bv.aspx?from=&to=yue&a=
+  url: https://www.microsofttranslator.com/bv.aspx?from=&to=yue&a=https%3A%2F%2F
 
 - id: youtube
   name: Youtube
@@ -142,7 +143,8 @@
 
 - id: archive
   name: Archive
-  url: https://archive.org/search.php?query=
+  url: https://archive.org//search.php?query=
+  suffix: "&sin=TXT"
   shortcut: 档案
   style: black
 
@@ -157,4 +159,4 @@
 
 - id: Internet Archive
   name: 互联网存档
-  url: https://art.anyi.life/advancedsearch.php?q=
+  url: https://art.anyi.life/extdomains/web.archive.org/web/*/
