@@ -30,7 +30,7 @@
 
 
 # AnYi-Navi
-- A Navigation for AnYi ！ 北邮人导航：https://byr-navi.com/
+- The Navigation for AnYi ！ The Open source code comes from BYR·Navi：https://byr-navi.com/
 - 
 ## Design Philosophy
 - This project is a [Jekyll][jekyll]-powered website, which is built based on [Fomantic UI][fomantic] web framework, and deployed using [GitHub Pages][github-pages].
