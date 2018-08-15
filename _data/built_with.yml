@@ -1,5 +1,5 @@
-- name: Fomantic UI
-  url: https://fomantic-ui.com/
+- name: url.js
+  url: https://github.com/websanova/js-url
 
 - name: jQuery
   url: https://jquery.com/
@@ -7,17 +7,17 @@
 - name: Moment.js
   url: https://momentjs.com/
 
+- name: ECharts
+  url: http://echarts.baidu.com/
+
 - name: CountUp.js
   url: https://inorganik.github.io/countUp.js/
 
-- name: jQuery.countdown
-  url: https://hilios.github.io/jQuery.countdown/
+- name: Fomantic UI
+  url: https://fomantic-ui.com/
 
 - name: JavaScript Cookie
   url: https://github.com/js-cookie/js-cookie
 
-- name: url.js
-  url: https://github.com/websanova/js-url
-
-- name: ECharts
-  url: http://echarts.baidu.com/
+- name: jQuery.countdown
+  url: https://hilios.github.io/jQuery.countdown/
