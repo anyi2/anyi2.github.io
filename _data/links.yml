@@ -241,6 +241,10 @@
       style: basic
       url: http://www.yingjiesheng.com/
 
+    - name: 此类尚未整理验证
+      style: basic
+      url: http://www.anyi.life/
+
   - category: 娱乐
     links:
     - name: 9GAG
@@ -359,7 +363,7 @@
       style: red
       url: http://www.hebart.com/dzb/
 
-    - name: 寥寥无几，何以隽永？
+    - name: Literary youths are moving forward here!
       style: white
       url: https://anyi98.github.io/
 
