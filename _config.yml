@@ -1,5 +1,5 @@
 repository: anyi98 / anyi98.github.io
-repository_url: https://github.com/anyi98/anyi98.github.io
+repository_url: https://github.com/anyi98
 
 timezone: Asia/Handan
 lang: zh_CN
@@ -9,8 +9,8 @@ alias_en: AnYi-Navi
 alias_cn: 安逸导航
 description: 在此寻觅最优秀的网站丨安逸导航
 keywords: 安逸导航, AnYi-Navi, AnYI, HEBART, Navi, Navigation
-url: https://anyi98.github.io
 url: https://anyi.life
+url: https://anyi98.github.io
 established_at: "2018-07-07T00:00+08:00"
 
 
