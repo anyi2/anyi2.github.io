@@ -68,10 +68,9 @@
   shortcut: 知乎
   style: black
 
-- id: douban
-  name: 豆瓣
-  url: https://www.douban.com/search?q=
-  shortcut: 豆瓣
+- id: youtubem
+  name: 油管
+  url: https://ym.anyi.life/results?search_query=
   style: black
 
 - id: taobao
