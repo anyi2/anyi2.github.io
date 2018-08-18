@@ -8,7 +8,7 @@
 
 - id: google
   name: 谷歌
-  url: https://ay404.anyi.life//search?q=
+  url: https://w.anyi.life//search?q=
   shortcut: 谷歌
   icon: google red inverted
   style: black
@@ -31,7 +31,7 @@
 
 - id: baidumap
   name: 谷歌学术
-  url: https://ay404.anyi.life/extdomains/scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=
+  url: https://w.anyi.life/extdomains/scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=
   suffix: "&btnG="
   shortcut: 学术
   icon: map blue inverted
@@ -39,17 +39,17 @@
 
 - id: wikipedia
   name: 维基百科
-  url: https://ay404.anyi.life/extdomains/zh.wikipedia.org/wiki/
+  url: https://w.anyi.life/extdomains/zh.wikipedia.org/wiki/
   # shortcut: 维基
   # style: black
 
 - id: google photo
   name: 谷歌搜图
-  url: https://ay404.anyi.life/search?safe=strict&biw=1680&bih=913&tbm=isch&sa=1&ei=VpByW83wMsyt_QakrpnQDg&q=
+  url: https://w.anyi.life/search?safe=strict&biw=1680&bih=913&tbm=isch&sa=1&ei=VpByW83wMsyt_QakrpnQDg&q=
 
 - id: gmail
   name: 谷歌邮箱
-  url: https://ay404.anyi.life/extdomains/accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fpc%3Dtopnav-about-en&flowName=GlifWebSignIn&flowEntry=
+  url: https://w.anyi.life/extdomains/accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fpc%3Dtopnav-about-en&flowName=GlifWebSignIn&flowEntry=
 
 - id: googletranslate
   name: 谷歌翻译
@@ -57,7 +57,7 @@
 
 - id: wikipedia
   name: 维基
-  url: https://ay404.anyi.life/extdomains/zh.wikipedia.org/wiki/
+  url: https://w.anyi.life/extdomains/zh.wikipedia.org/wiki/
   shortcut: 维基
   style: black
 
@@ -87,24 +87,9 @@
   shortcut: 京东
   style: black
 
-- id: xiami
-  name: 虾米
-  url: http://www.xiami.com/search?key=
-  # shortcut: 虾米
-  # style: black
-
-- id: fkdy
-  name: 影视
-  url: http://ifkdy.com/?q=
-  style: black
-
-- id: wangpan
-  name: 网盘
-  url: http://www.58wangpan.com/search/kw
-
 - id: twitter
   name: twitter
-  url: https://twitter.com/search?q=
+  url: https://ttp.anyi.life/search?q=
   suffix: "&src=typd"
 
 - id: Quora
@@ -131,19 +116,19 @@
 
 - id: youtube
   name: Youtube
-  url: https://youtube.com/results?search_query=
+  url: https://yb.anyi.life/results?search_query=
 
 - id: instagram
   name: instagram
-  url: https://www.instagram.com/?hl=
+  url: https://it.anyi.life/?hl=
   
 - id: facebook
   name: Facebook
-  url: https://facebook.com/login.php?next=
+  url: https://fb.anyi.life/login.php?next=
 
 - id: archive
   name: Archive
-  url: https://archive.org//search.php?query=
+  url: https://ar.anyi.life/search.php?query=
   suffix: "&sin=TXT"
   shortcut: 档案
   style: black
@@ -159,4 +144,4 @@
 
 - id: Internet Archive
   name: 互联网存档
-  url: https://art.anyi.life/extdomains/web.archive.org/web/*/
+  url: https://ar.anyi.life/extdomains/web.archive.org/web/*/
