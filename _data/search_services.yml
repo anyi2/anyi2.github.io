@@ -87,7 +87,7 @@
 - id: Yandex
   name: Yandex
   url: https://yandex.ru/search/?lr=111460&text=
-  shortcut: Yandex
+  shortcut: Yand
   style: black
 
 - id: Quora
@@ -172,11 +172,10 @@
   url: https://duckduckgo.com/?q=
   suffix: "&t=hg&ia=web"
 
-- id: bing fanyi
-  name: Bing网页翻译
-  url: https://www.microsofttranslator.com/bv.aspx?from=&to=yue&a=https%3A%2F%2F
-
 - id: pipl.com
   name: pipl人物搜索
   url: https://pipl.com/search/?q=
-  suffix: "&l=&sloc=&in=5"
+
+- id: bing fanyi
+  name: Bing网页翻译
+  url: https://www.microsofttranslator.com/bv.aspx?from=&to=yue&a=https%3A%2F%2F
