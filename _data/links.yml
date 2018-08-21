@@ -221,22 +221,6 @@
       style: basic
       url: https://www.linkedin.com/
 
-    - name: 大街网
-      style: basic
-      url: http://www.dajie.com/
-
-    - name: 拉勾网
-      style: basic
-      url: http://www.lagou.com/
-
-    - name: 智联招聘
-      style: basic
-      url: http://zhaopin.com/
-
-    - name: 北漂鱼视频解析
-      style: basic
-      url: http://tv.beipy.com/
-
     - name: 张大妈工资计算器
       style: basic
       url: http://www.hizdm.cn
@@ -452,48 +436,27 @@
       style: basic
       url: http://www.youlu.net/
 
+    - name: 小书屋
+      icon: google play
+      style: basic
+      url: http://mebook.cc/
+
     - name: 书伴
       icon: google play
       style: basic
       url: https://bookfere.com/novice
 
-    - name: 小书屋
-      icon: google play
+    - name: 书格
       style: basic
-      url: http://mebook.cc/
+      url: https://shuge.org/
 
     - name: 周读
       icon: google play
       style: basic
       url: http://ireadweek.com/index.php/Index/index.html
 
-    - name: 看国外
-      style: basic
-      url: http://www.kanguowai.com/
-
-    - name: 她社区
-      style: basic
-      url: http://www.j.cn/bbs/plazas.html
-
-    - name: 虫部落
-      style: basic
-      url: http://www.chongbuluo.com/
-
-    - name: 西林街
-      style: basic
-      url: http://www.xilinjie.com/
-
-    - name: 道印
-      icon: google play
-      style: basic
-      url: https://www.daoon.com/
-
-    - name: 书格
-      icon: google play
-      style: basic
-      url: https://shuge.org/
-
     - name: 故宫
+      icon: google play
       style: basic
       url: https://theme.npm.edu.tw/opendata/
 
