@@ -214,7 +214,7 @@
       url: http://www.pedaily.cn/
 
 
-  - category: 求职
+  - category: 小工具
     links:
     - name: LinkedIn
       icon: linkedin in blue
@@ -233,15 +233,15 @@
       style: basic
       url: http://zhaopin.com/
 
-    - name: 前程无忧
+    - name: 北漂鱼视频解析
       style: basic
-      url: http://www.51job.com/
+      url: http://tv.beipy.com/
 
-    - name: 应届生
+    - name: 张大妈工资计算器
       style: basic
-      url: http://www.yingjiesheng.com/
+      url: http://www.hizdm.cn
 
-    - name: 此类尚未整理验证
+    - name: 提交链接请联系验证
       style: basic
       url: http://www.anyi.life/
 
