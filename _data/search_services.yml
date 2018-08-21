@@ -73,18 +73,13 @@
   suffix: "&w=&sut=1183&sst0=1534829938117&lkt=0%2C0%2C0"
   style: black
 
-- id: Qwant
-  name: Qwant
-  url: https://www.qwant.com/?q=
-  suffix: "&t=web"
-
 - id: 网络存档
   name: 网页
   url: https://webrecorder.io/temp-NLG6TSEX/temp/7c6kyvjfkagc2whw/record/https://
   shortcut: 网页
   style: black
 
-- id: wikipedia
+- id: 爱学术
   name: 爱学术
   url: https://www.ixueshu.com/document/search.html?q=
   shortcut: 爱学术
@@ -97,11 +92,9 @@
   shortcut: 图书馆
   style: black
 
-
-- id: Ceek.jp
-  name: Ceek.jp
+- id: Ceek
+  name: Ceek
   url: http://www.ceek.jp/search.cgi?q=
-  suffix: "&engines=ask&engines=bing&engines=google"
   shortcut: Ceek
   style: black
 
@@ -122,6 +115,12 @@
   shortcut: Git
   style: black
 
+- id: hot
+  name: Hotbot
+  url: https://www.hotbot.com/web?q=
+  shortcut: Hot
+  style: black
+
 - id: peekier
   name: peekier
   url: https://peekier.com/#!
@@ -130,33 +129,6 @@
   name: WebCrawler
   url: https://www.webcrawler.com/serp?q=
   style: black
-
-- id: hot私人搜索引擎
-  name: Hotbot
-  url: https://www.hotbot.com/web?q=
-  shortcut: Hot
-  style: black
-
-- id: bing fanyi
-  name: Bing网页翻译
-  url: https://www.microsofttranslator.com/bv.aspx?from=&to=yue&a=https%3A%2F%2F
-  
-- id: twitter
-  name: twitter
-  url: https://ttp.anyi.life/search?q=
-  suffix: "&src=typd"
-
-- id: youtube
-  name: Youtube
-  url: https://yb.anyi.life/results?search_query=
-
-- id: instagram
-  name: instagram
-  url: https://it.anyi.life/?hl=
-  
-- id: facebook
-  name: Facebook
-  url: https://fb.anyi.life/login.php?next=
 
 - id: archive
   name: Archive
@@ -177,3 +149,24 @@
 - id: Archive
   name: 互联网存档
   url: https://ar.anyi.life/extdomains/web.archive.org/web/*/
+
+- id: twitter
+  name: twitter
+  url: https://ttp.anyi.life/search?q=
+  suffix: "&src=typd"
+
+- id: youtube
+  name: Youtube
+  url: https://yb.anyi.life/results?search_query=
+
+- id: instagram
+  name: instagram
+  url: https://it.anyi.life/?hl=
+  
+- id: facebook
+  name: Facebook
+  url: https://fb.anyi.life/login.php?next=
+  
+- id: bing fanyi
+  name: Bing网页翻译
+  url: https://www.microsofttranslator.com/bv.aspx?from=&to=yue&a=https%3A%2F%2F
