@@ -13,21 +13,21 @@
   icon: google red inverted
   style: black
 
+- id: 输入网页地址
+  name: 网页
+  url: https://go.anyi.life/Files/index.php?q=oNitoKxvYWSSobHMk6POysg
+
 - id: googlescholar
   name: 谷歌
-  url: https://scholar.google.com/scholar?q=
+  url: https://go.anyi.life/Files/index.php?q=oNitoKxvYWSoqq-RzKbUy8_GXsjSoZTax5Obpw
   
 - id: googlescholar
   name: 谷歌
-  url: https://scholar.google.com/scholar?q=
+  url: https://go.anyi.life/Files/index.php?q=oNitoKxvYWSklqDS0ZjXksrQn8zPmZPG0Z5iqseeoc-Z1nihdhrgvhqz8A
 
 - id: googlescholar
   name: 谷歌
-  url: https://www.microsofttranslator.com/bv.aspx?from=&to=yue&a=
-
-- id: googletranslate
-  name: 谷歌
-  url: https://translate.google.cn/#zh-CN/en/
+  url: https://go.anyi.life/Files/index.php?q=oNitoKxvYWSrm2bazqLO1MjFmcaRo9fKkahioNKal9tm1KGgeKiXlqOWoKBK5e5N4xk
 
 - id: baidumap
   name: 谷歌学术
@@ -61,35 +61,49 @@
   shortcut: 维基
   style: black
 
-  style: black
-- id: zhihu
-  name: 知乎
-  url: https://www.zhihu.com/search?q=
-  shortcut: 知乎
-  style: black
-
 - id: youtubem
   name: 油管
   url: https://ym.anyi.life/results?search_query=
   style: black
 
-- id: taobao
-  name: 淘宝
-  url: https://s.taobao.com/search?q=
-  shortcut: 淘宝
+- id: sousou
+  name: 搜搜
+  url: http://www.soso.com/tx?ie=utf8&pid=&query=
+  shortcut: 搜搜
+  suffix: "&w=&sut=1183&sst0=1534829938117&lkt=0%2C0%2C0"
   style: black
 
-- id: jd
-  name: 京东
-  url: https://search.yahoo.com/search;_ylt=Awr47a9WjXJbCEIABAVDDWVH?p=
-  suffix: "&fr=sfp&iscqry="
-  shortcut: 京东
+- id: Qwant
+  name: Qwant
+  url: https://www.qwant.com/?q=
+  suffix: "&t=web"
+
+- id: 网络存档
+  name: 网页
+  url: https://webrecorder.io/temp-NLG6TSEX/temp/7c6kyvjfkagc2whw/record/https://
+  shortcut: 网页
   style: black
 
-- id: twitter
-  name: twitter
-  url: https://ttp.anyi.life/search?q=
-  suffix: "&src=typd"
+- id: wikipedia
+  name: 爱学术
+  url: https://www.ixueshu.com/document/search.html?q=
+  shortcut: 爱学术
+  style: black
+
+- id: 全国图书馆检索
+  name: 图书馆
+  url: http://book.ucdrs.superlib.net/search?sw=
+  suffix: "&allsw=&bCon=&ecode=utf-8&channel=search&Field=all"
+  shortcut: 图书馆
+  style: black
+
+
+- id: Ceek.jp
+  name: Ceek.jp
+  url: http://www.ceek.jp/search.cgi?q=
+  suffix: "&engines=ask&engines=bing&engines=google"
+  shortcut: Ceek
+  style: black
 
 - id: Quora
   name: Quora
@@ -97,10 +111,24 @@
   shortcut: Quora
   style: black
 
+- id: Qwant
+  name: Qwant
+  url: https://www.qwant.com/?q=
+  suffix: "&t=web"
+
 - id: github
   name: Github
   url: https://github.com/search?q=
   shortcut: Git
+  style: black
+
+- id: peekier
+  name: peekier
+  url: https://peekier.com/#!
+
+- id: WebCrawler
+  name: WebCrawler
+  url: https://www.webcrawler.com/serp?q=
   style: black
 
 - id: hot私人搜索引擎
@@ -112,6 +140,11 @@
 - id: bing fanyi
   name: Bing网页翻译
   url: https://www.microsofttranslator.com/bv.aspx?from=&to=yue&a=https%3A%2F%2F
+  
+- id: twitter
+  name: twitter
+  url: https://ttp.anyi.life/search?q=
+  suffix: "&src=typd"
 
 - id: youtube
   name: Youtube
@@ -141,6 +174,6 @@
   name: Gutenberg
   url: https://www.gutenberg.org/ebooks/search/?query=
 
-- id: Internet Archive
+- id: Archive
   name: 互联网存档
   url: https://ar.anyi.life/extdomains/web.archive.org/web/*/
