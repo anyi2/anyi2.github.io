@@ -78,19 +78,6 @@
   url: https://webrecorder.io/temp-NLG6TSEX/temp/7c6kyvjfkagc2whw/record/https://
   style: black
 
-- id: 爱学术
-  name: 爱学术
-  url: https://www.ixueshu.com/document/search.html?q=
-  shortcut: 爱学术
-  style: black
-
-- id: 全国图书馆检索
-  name: 图书馆
-  url: http://book.ucdrs.superlib.net/search?sw=
-  suffix: "&allsw=&bCon=&ecode=utf-8&channel=search&Field=all"
-  shortcut: 图书馆
-  style: black
-
 - id: Ceek
   name: Ceek
   url: http://www.ceek.jp/search.cgi?q=
@@ -144,6 +131,19 @@
 - id: Gutenberg
   name: Gutenberg
   url: https://www.gutenberg.org/ebooks/search/?query=
+
+- id: 爱学术
+  name: 爱学术
+  url: https://www.ixueshu.com/document/search.html?q=
+  shortcut: 爱学术
+  style: black
+
+- id: 全国图书馆检索
+  name: 图书馆
+  url: http://book.ucdrs.superlib.net/search?sw=
+  suffix: "&allsw=&bCon=&ecode=utf-8&channel=search&Field=all"
+  shortcut: 图书馆
+  style: black
 
 - id: twitter
   name: twitter
