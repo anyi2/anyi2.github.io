@@ -93,7 +93,7 @@
 - id: Quora
   name: Quora
   url: https://www.quora.com/search?q=
-  shortcut: Quora
+  style: black
 
 - id: Qwant
   name: Qwant
@@ -166,7 +166,12 @@
 - id: facebook
   name: Facebook
   url: https://go.anyi.life/Files/index.php?q=oNitoKxvYWSoqq-Ry5jIycXQn9CRl9TQkZ2ins2kYNOg1Hienq2m
-  
+
+- id: Duckduckgo
+  name: Duckduckgo
+  url: https://duckduckgo.com/?q=
+  suffix: "&t=hg&ia=web"
+
 - id: bing fanyi
   name: Bing网页翻译
   url: https://www.microsofttranslator.com/bv.aspx?from=&to=yue&a=https%3A%2F%2F
