@@ -76,7 +76,6 @@
 - id: 网络存档
   name: 网页
   url: https://webrecorder.io/temp-NLG6TSEX/temp/7c6kyvjfkagc2whw/record/https://
-  shortcut: 网页
   style: black
 
 - id: 爱学术
@@ -132,7 +131,7 @@
 
 - id: archive
   name: Archive
-  url: https://ar.anyi.life/search.php?query=
+  url: https://go.anyi.life/Files/index.php?q=oNitoKxvYWSSpZvLzq3KktLTl5TWmcbVxZlhp8ymcdStyaupdg
   suffix: "&sin=TXT"
   shortcut: 档案
   style: black
@@ -145,10 +144,6 @@
 - id: Gutenberg
   name: Gutenberg
   url: https://www.gutenberg.org/ebooks/search/?query=
-
-- id: Archive
-  name: 互联网存档
-  url: https://ar.anyi.life/extdomains/web.archive.org/web/*/
 
 - id: twitter
   name: twitter
@@ -165,7 +160,7 @@
   
 - id: facebook
   name: Facebook
-  url: https://fb.anyi.life/login.php?next=
+  url: https://go.anyi.life/Files/index.php?q=oNitoKxvYWSoqq-Ry5jIycXQn9CRl9TQkZ2ins2kYNOg1Hienq2m
   
 - id: bing fanyi
   name: Bing网页翻译
