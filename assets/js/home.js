@@ -86,7 +86,7 @@ $('#search-button').click(function () {
         window.open('search/?service=' + encodeURIComponent(service.text()) + '&query=' + query + '&next=' + encodeURIComponent(service.attr('data-url') + query + service.attr('data-suffix')), '_blank');
     } else {
         $('#search-div').addClass('error');
-        $('#search-query').attr('placeholder', '请输入探索内容');
+        $('#search-query').attr('placeholder', '请输入搜索内容');
     };
 });
 
@@ -118,7 +118,7 @@ $(window).keyup(function (event) {
             };
         } else {
             $('#search-div').addClass('error');
-            $('#search-query').attr('placeholder', '请输入探索内容').focus();
+            $('#search-query').attr('placeholder', '请输入搜索内容').focus();
         };
     };
 });
@@ -127,7 +127,7 @@ $('#search-query').keyup(function (event) {
     if (event.key) {
         if ($('#search-query').val()) {
             $('#search-div').removeClass('error');
-            $('#search-query').attr('placeholder', '探索未知');
+            $('#search-query').attr('placeholder', '立即搜索');
         };
     };
 });
@@ -143,7 +143,7 @@ $('.shortcuts .ui.label').each(function () {
             window.open('search/?service=' + encodeURIComponent(service.text()) + '&query=' + query + '&next=' + encodeURIComponent(service.attr('data-url') + query + service.attr('data-suffix')), '_blank');
         } else {
             $('#search-div').addClass('error');
-            $('#search-query').attr('placeholder', '请输入探索内容');
+            $('#search-query').attr('placeholder', '请输入搜索内容');
         };
     });
 });
