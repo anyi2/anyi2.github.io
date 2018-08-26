@@ -1,6 +1,6 @@
-- section: hyr
+- section: byr
   categories:
-  - category:  图书馆
+  - category: 图书馆
     links:
     - name: 国家图书馆
       style: basic
