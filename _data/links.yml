@@ -1,3 +1,189 @@
+- section: scholar
+  categories:
+  - category: 图书馆
+    links:
+    - name: 国家图书馆
+      style: basic
+      url: http://www.nlc.gov.cn/
+
+    - name: 台湾图书馆
+      style: basic
+      url: https://www.ncl.edu.tw/
+
+    - name: 大英图书馆
+      style: basic
+      url: https://www.bl.uk/
+
+    - name: 法国图书馆
+      style: blue
+      url: https://gallica.bnf.fr/accueil/?mode=desktop
+
+    - name: 剑桥数字图书馆
+      style: basic
+      url: http://cudl.lib.cam.ac.uk/
+
+    - name: 日本国会图书馆
+      style: basic
+      url: http://www.ndl.go.jp/jp/use/service/index.html
+
+    - name: 柏林数字图书馆
+      style: basic
+      url: https://digital.staatsbibliothek-berlin.de/
+
+    - name: 大英数字图书馆
+      style: basic
+      url: https://www.bl.uk/catalogues-and-collections/digital-collections
+
+    - name: 牛津大学图书馆
+      style: basic
+      url: http://digital.bodleian.ox.ac.uk/
+
+    - name: 古登堡中文
+      style: basic
+      url: http://www.gutenberg.org/browse/languages/zh
+
+    - name: 哈佛图书馆
+      style: basic
+      url: https://library.harvard.edu/
+
+    - name: 哈佛丨中国研究
+      style: basic
+      url: https://guides.library.harvard.edu/Chinese
+
+    - name: 世界数字图书馆
+      style: basic
+      url: https://www.wdl.org/zh/
+
+    - name: 互联网档案馆
+      style: red
+      url: https://archive.org/
+
+    - name: 中华文化总会
+      style: blue
+      url: http://www.gacc.org.tw/
+
+    - name: Literary youths are moving forward here!
+      style: white
+      url: https://anyi98.github.io/
+
+  - category: 论坛
+    links:
+    - name: 猴岛论坛
+      url: https://bbs.houdao.com/
+
+    - name: 富贵论坛
+      style: basic
+      url: http://www.fugui.co/
+
+    - name: 吾爱破解
+      style: basic
+      url: https://www.52pojie.cn/
+
+    - name: 小米论坛
+      style: red
+      url: http://bbs.xiaomi.cn/
+
+    - name: 智友论坛
+      style: blue
+      url: http://bbs.zhiyoo.com/
+
+    - name: 简书
+      icon: app store
+      style: black
+      url: https://www.jianshu.com/
+
+    - name: 豆瓣
+      icon: google play
+      style: black
+      url: https://www.douban.com/
+
+    - name: 抽屉
+      icon: app store
+      style: basic
+      url: https://dig.chouti.com/
+
+    - name: VK新闻
+      style: basic
+      url: https://vk.com/al_feed.php
+
+    - name: yahoo资讯
+      style: basic
+      url: https://www.yahoo.com/
+
+    - name: 果壳网
+      icon: app store
+      style: black
+      url: https://www.guokr.com/
+
+    - name: 天涯论坛
+      style: basic
+      url: http://bbs.tianya.cn/list-no05-1.shtml
+
+    - name: 安逸餘生
+      icon: app weibo
+      style: basic
+      url: https://weibo.com/5592630806/profile?topnav=1&wvr=6&is_all=1
+
+    - name: 头条号
+      style: basic
+      url: https://mp.toutiao.com/login/?redirect_url=JTJGcHJvZmlsZV92MiUyRnB1Ymxpc2g=
+
+    - name: 搜狐文化
+      style: basic
+      url: http://cul.sohu.com/
+
+    - name: 一览热推
+      icon: google play
+      style: basic
+      url: http://www.yilan.io/home/?category=_recommend
+
+  - category: 冗杂之所
+    links:
+    - name: 好奇心
+      style: basic
+      url: http://www.qdaily.com/
+
+    - name: 孔夫子
+      style: basic
+      url: https://m.kongfz.com/shop/
+
+    - name: 有路网
+      style: basic
+      url: http://www.youlu.net/
+
+    - name: 小书屋
+      icon: google play
+      style: basic
+      url: http://mebook.cc/
+
+    - name: 书伴
+      icon: google play
+      style: basic
+      url: https://bookfere.com/novice
+
+    - name: 书格
+      style: basic
+      url: https://shuge.org/
+
+    - name: 周读
+      icon: google play
+      style: basic
+      url: http://ireadweek.com/index.php/Index/index.html
+
+    - name: 故宫
+      icon: google play
+      style: basic
+      url: https://theme.npm.edu.tw/opendata/
+
+    - name: 中华珍宝馆
+      style: basic
+      url: http://ltfc.net/
+
+    - name: 搜韵丨影印资源
+      icon: apple grey
+      style: basic
+      url: https://sou-yun.com/index.aspx
+
 - section: public
   categories:
   - category: 学术数据
@@ -286,67 +472,71 @@
   categories:
   - category: 河艺校园
     links:
-    - name: 国家图书馆
+    - name: 河艺官网
       style: basic
-      url: http://www.nlc.gov.cn/
+      url: http://www.hebart.com/
 
-    - name: 台湾图书馆
+    - name: 直属单位
       style: basic
-      url: https://www.ncl.edu.tw/
+      url: http://www.hebwh.gov.cn/zsdw/index.jsp?catalogId=2c9081fb5711bf50015712170c7c0002
 
-    - name: 大英图书馆
+    - name: 教务系统
       style: basic
-      url: https://www.bl.uk/
+      url: http://www.hebart.com/jwc/
 
-    - name: 法国图书馆
+    - name: 招生网
       style: blue
-      url: https://gallica.bnf.fr/accueil/?mode=desktop
+      url: http://www.hebart.com/zsw/
 
-    - name: 剑桥数字图书馆
+    - name: 文管系
       style: basic
-      url: http://cudl.lib.cam.ac.uk/
+      url: http://www.hebart.com/wgx/
 
-    - name: 日本国会图书馆
+    - name: 舞蹈系
       style: basic
-      url: http://www.ndl.go.jp/jp/use/service/index.html
+      url: http://www.hebart.com/wdx/
 
-    - name: 柏林数字图书馆
+    - name: 文化管理系
       style: basic
-      url: https://digital.staatsbibliothek-berlin.de/
+      url: http://www.hebart.com/whgl/
 
-    - name: 大英数字图书馆
+    - name: 百科详情
       style: basic
-      url: https://www.bl.uk/catalogues-and-collections/digital-collections
+      url: https://baike.baidu.com/item/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2
 
-    - name: 牛津大学图书馆
+    - name: 河艺贴吧
       style: basic
-      url: http://digital.bodleian.ox.ac.uk/
+      url: http://dq.tieba.com/f?kw=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&fr=home
 
-    - name: 古登堡中文
+    - name: 河艺脸书
       style: basic
-      url: http://www.gutenberg.org/browse/languages/zh
+      url: https://www.facebook.com/pages/河北艺术职业学院/168319443197715
 
-    - name: 哈佛图书馆
+    - name: 河艺领英
       style: basic
-      url: https://library.harvard.edu/
+      url: https://www.linkedin.com/school/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2/
 
-    - name: 哈佛丨中国研究
+    - name: Apple APP
       style: basic
-      url: https://guides.library.harvard.edu/Chinese
+      url: https://itunes.apple.com/cn/app/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2/id1273630272?mt=8
 
-    - name: 世界数字图书馆
+    - name: 小米商店 APP
       style: basic
-      url: https://www.wdl.org/zh/
+      url: http://app.mi.com/details?id=com.yunzainfo.hebeiyishu
 
-    - name: 互联网档案馆
+    - name: 腾讯视频 相关
+      style: basic
+      url: https://v.qq.com/x/search/?q=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&stag=txt.playpage.vppdesc
+
+    - name: 古典舞《如梦令》
+      style: basic
+      url: https://www.bilibili.com/video/av16804529/
+
+    - name: 党政办公室
       style: red
-      url: https://archive.org/
+      url: http://www.hebart.com/dzb/
 
-    - name: 中华文化总会
-      style: blue
-      url: http://www.gacc.org.tw/
-
-    - name: Literary youths are moving forward here!
+    - name: 寥寥无几，何以隽永？
       style: white
       url: https://anyi98.github.io/
 
@@ -435,27 +625,48 @@
       style: basic
       url: http://www.youlu.net/
 
-    - name: 小书屋
-      icon: google play
-      style: basic
-      url: http://mebook.cc/
-
     - name: 书伴
       icon: google play
       style: basic
       url: https://bookfere.com/novice
 
-    - name: 书格
+    - name: 小书屋
+      icon: google play
       style: basic
-      url: https://shuge.org/
+      url: http://mebook.cc/
 
     - name: 周读
       icon: google play
       style: basic
       url: http://ireadweek.com/index.php/Index/index.html
 
-    - name: 故宫
+    - name: 看国外
+      style: basic
+      url: http://www.kanguowai.com/
+
+    - name: 她社区
+      style: basic
+      url: http://www.j.cn/bbs/plazas.html
+
+    - name: 虫部落
+      style: basic
+      url: http://www.chongbuluo.com/
+
+    - name: 西林街
+      style: basic
+      url: http://www.xilinjie.com/
+
+    - name: 道印
       icon: google play
+      style: basic
+      url: https://www.daoon.com/
+
+    - name: 书格
+      icon: google play
+      style: basic
+      url: https://shuge.org/
+
+    - name: 故宫
       style: basic
       url: https://theme.npm.edu.tw/opendata/
 
