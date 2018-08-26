@@ -2,11 +2,11 @@
   categories:
   - category: 图书馆
     links:
-    - name: 中国国家图书馆
+    - name: 国家图书馆
       style: basic
       url: http://www.nlc.gov.cn/
 
-    - name: 国家图书馆台湾
+    - name: 国家图书馆TW
       style: basic
       url: https://www.ncl.edu.tw/
 
@@ -34,13 +34,9 @@
       style: basic
       url: https://www.bl.uk/catalogues-and-collections/digital-collections
 
-    - name: 牛津大学数字图书馆
+    - name: 牛津大学图书馆
       style: basic
       url: http://digital.bodleian.ox.ac.uk/
-
-    - name: 国家科技数字图书馆
-      style: basic
-      url: https://www.nstl.gov.cn/
 
     - name: 古登堡中文
       style: basic
