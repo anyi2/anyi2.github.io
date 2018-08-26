@@ -1,70 +1,70 @@
 - section: hyr
   categories:
-  - category: 河艺校园
+  - category: 图书馆
     links:
-    - name: 河艺官网
+    - name: 中国国家图书馆
       style: basic
-      url: http://www.hebart.com/
+      url: http://www.nlc.gov.cn/
 
-    - name: 直属单位
+    - name: 国家图书馆台湾
       style: basic
-      url: http://www.hebwh.gov.cn/zsdw/index.jsp?catalogId=2c9081fb5711bf50015712170c7c0002
+      url: https://www.ncl.edu.tw/
 
-    - name: 教务系统
+    - name: 大英图书馆
       style: basic
-      url: http://www.hebart.com/jwc/
+      url: https://www.bl.uk/
 
-    - name: 招生网
+    - name: 法国图书馆
       style: blue
-      url: http://www.hebart.com/zsw/
+      url: https://gallica.bnf.fr/accueil/?mode=desktop
 
-    - name: 文管系
+    - name: 剑桥数字图书馆
       style: basic
-      url: http://www.hebart.com/wgx/
+      url: http://cudl.lib.cam.ac.uk/
 
-    - name: 舞蹈系
+    - name: 日本国会图书馆
       style: basic
-      url: http://www.hebart.com/wdx/
+      url: http://www.ndl.go.jp/jp/use/service/index.html
 
-    - name: 文化管理系
+    - name: 柏林数字图书馆
       style: basic
-      url: http://www.hebart.com/whgl/
+      url: https://digital.staatsbibliothek-berlin.de/
 
-    - name: 百科详情
+    - name: 大英数字图书馆
       style: basic
-      url: https://baike.baidu.com/item/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2
+      url: https://www.bl.uk/catalogues-and-collections/digital-collections
 
-    - name: 河艺贴吧
+    - name: 牛津大学数字图书馆
       style: basic
-      url: http://dq.tieba.com/f?kw=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&fr=home
+      url: http://digital.bodleian.ox.ac.uk/
 
-    - name: 河艺脸书
+    - name: 国家科技数字图书馆
       style: basic
-      url: https://www.facebook.com/pages/河北艺术职业学院/168319443197715
+      url: https://www.nstl.gov.cn/
 
-    - name: 河艺领英
+    - name: 古登堡中文
       style: basic
-      url: https://www.linkedin.com/school/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2/
+      url: http://www.gutenberg.org/browse/languages/zh
 
-    - name: Apple APP
+    - name: 哈佛图书馆
       style: basic
-      url: https://itunes.apple.com/cn/app/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2/id1273630272?mt=8
+      url: https://library.harvard.edu/
 
-    - name: 小米商店 APP
+    - name: 哈佛丨中国研究
       style: basic
-      url: http://app.mi.com/details?id=com.yunzainfo.hebeiyishu
+      url: https://guides.library.harvard.edu/Chinese
 
-    - name: 腾讯视频 相关
+    - name: 世界数字图书馆
       style: basic
-      url: https://v.qq.com/x/search/?q=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&stag=txt.playpage.vppdesc
+      url: https://www.wdl.org/zh/
 
-    - name: 古典舞《如梦令》
-      style: basic
-      url: https://www.bilibili.com/video/av16804529/
-
-    - name: 党政办公室
+    - name: 互联网档案馆
       style: red
-      url: http://www.hebart.com/dzb/
+      url: https://archive.org/
+
+   - name: 中华文化总会
+      style: blue
+      url: http://www.gacc.org.tw/
 
     - name: Literary youths are moving forward here!
       style: white
