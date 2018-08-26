@@ -190,167 +190,171 @@
 
 - section: public
   categories:
-  - category: 购物
+  - category: 学术数据
     links:
-    - name: 淘宝
-      style: orange
-      url: https://www.taobao.com/
-
-    - name: 天猫
+    - name: 知网
       style: red
-      url: https://www.tmall.com/
+      url: http://www.cnki.net/
 
-    - name: 京东
+    - name: 万方
+      style: blue
+      url: http://g.wanfangdata.com.cn/index.html
+
+    - name: 超星
+      style: orange
+      url:  http://www.chaoxing.com/
+
+    - name: 中国科学院
       style: basic
-      url: https://www.jd.com/
+      url: http://www.csdb.cn/
 
-    - name: 小米商城
+    - name: 香港大学
       style: basic
-      url: https://www.mi.com/
+      url: http://hub.hku.hk/advanced-search?location=crisdataset
 
-    - name: 亚马逊
-      icon: amazon yellow
+    - name: 台湾论文
       style: basic
-      url: https://www.amazon.cn/
+      url: https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=gFa.Gx/webmge?mode=basic
 
-    - name: Apple
+    - name: WS世界科学
       style: basic
-      icon: apple grey
-      url: https://www.apple.com/
+      url: https://www.worldscientific.com/
 
-    - name: 锤子科技
+    - name: 中国生命科学
       style: basic
-      url: http://www.smartisan.com/
+      url: http://www.cba.ac.cn/
 
-    - name: 优衣库
+    - name: NASA生命科学
       style: basic
-      url: http://www.uniqlo.cn/
+      url: https://lsda.jsc.nasa.gov/
 
-    - name: 无印良品
+    - name: 上图发现
       style: basic
-      url: http://www.muji.com.cn/
+      url: http://en.shl.findplus.cn/
 
-    - name: IKEA
+    - name: 文津搜素
       style: basic
-      url: https://www.ikea.cn/
+      url: http://find.nlc.cn/
 
-    - name: 造作
-      style: basic
-      url: https://zaozuo.com/
-
-    - name: 苏宁易购
-      style: basic
-      url: http://www.suning.com/
-
-    - name: 华为
-      style: basic
-      url: http://www.vmall.com/
-
-    - name: 西集海淘
-      style: basic
-      url: http://www.xiji.com/
-
-    - name: 买买买
-      icon: google play
+    - name: 标准网
+      icon: china red
       style: white
-      url: https://just998.com/
+      url: http://www.standardcn.com/article/class_cx.asp?id=15&page=
 
-  - category: 工具
+    - name: 国家版权局
+      style: basic
+      url: http://www.ncac.gov.cn/
+
+  - category: 学术搜索
     links:
-    - name: '12306'
-      icon: train red
+    - name: '谷歌学术'
+      icon: google
       style: basic
-      url: http://www.12306.cn/
+      url: https://scholar.google.com.hk/?hl=zh-CN
 
-    - name: 快递查询
-      icon: truck olive
+    - name: 知网学术
+      icon: cnki
       style: basic
-      url: http://www.kuaidi100.com/
+      url: http://scholar.cnki.net/new
 
-    - name: 大众点评
-      icon: utensils orange
+    - name: 百度学术
+      icon: baidu
       style: basic
-      url: http://www.dianping.com/
+      url: http://xueshu.baidu.com/
 
-    - name: 网易邮箱
-      icon: envelope red
+    - name: 谷歌图书
+      icon: google
       style: basic
-      url: http://email.163.com/
+      url: https://books.google.com/?hl=zh-CN
 
-    - name: Gmail
-      icon: google red
+    - name: 专利检索
+      icon: 
       style: basic
-      url: https://mail.google.com/
+      url: http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml
 
-    - name: 微软邮箱
+    - name: 中国专利
       style: basic
-      url: https://outlook.live.com/
+      url: http://www.patent.com.cn/
 
-    - name: QQ邮箱
-      icon: qq black
+    - name: 美国专利
+      icon: 
       style: basic
-      url: https://mail.qq.com/
+      url: https://www.uspto.gov/blog/ebiz/
 
-    - name: 百度翻译
-      icon: paw blue
+    - name: 谷歌专利
+      icon: google
       style: basic
-      url: https://fanyi.baidu.com/
+      url:  https://www.google.com/?tbm=pts
 
-    - name: 谷歌翻译
-      icon: language blue
+    - name: Pat专利
       style: basic
-      url: https://translate.google.com/
+      url: https://www.patexplorer.com/
+
+    - name: Epo专利
+      style: basic
+      url: https://www.epo.org/index.html
+
+    - name: Soopat专利
+      icon: 
+      style: basic
+      url: http://www2.soopat.com/Home/IIndex/
 
     - name: 维基百科
       icon: wikipedia w black
       style: basic
       url: https://www.wikipedia.org/
 
-  - category: 社交
+  - category: 公开课
     links:
-    - name: 微博
-      icon: weibo red
+    - name: 网易
+      icon: 163
       style: basic
-      url: https://weibo.com/
+      url: https://open.163.com/
 
-    - name: 知乎
+    - name: 新浪
+      icon: sina
       style: zhihu blue
-      url: https://www.zhihu.com/
+      url: http://open.sina.com.cn/
 
-    - name: Quora
-      icon: quora red
+    - name: 腾讯
+      icon: qq
       style: basic
-      url: https://www.quora.com/
+      url: http://class.qq.com/
 
-    - name: Tumblr
-      icon: tumblr blue
+    - name: 慕课网
+      icon: imooc
       style: basic
-      url: https://www.tumblr.com/
+      url: https://www.imooc.com/
 
-    - name: Google+
-      icon: google plus g red
+    - name: 极客学院
+      icon: jikexueyuan
       style: basic
-      url: https://plus.google.com/
+      url: http://www.jikexueyuan.com/
 
-    - name: Instagram
-      icon: instagram pink
+    - name: MOOC
+      icon: mooc
       style: basic
-      url: https://www.instagram.com/
+      url: https://www.icourse163.org/
 
-    - name: Facebook
-      icon: facebook f blue
+    - name: 网易TED
+      icon: ted
       style: basic
-      url: https://www.facebook.com/
+      url: https://open.163.com/ted/
 
-    - name: GitHub
-      icon: github black
+    - name: 网易大学
+      icon: 
       style: basic
-      url: https://github.com/
+      url: https://open.163.com/cuvocw/
 
-    - name: Youtube
-      icon: youtube red
+    - name: 网易名校
+      icon: 
       style: basic
-      url: http://www.youtube.com/
+      url: https://open.163.com/ocw/
+
+    - name: 知乎回答
+      icon: zhihu
+      style: basic
+      url: https://www.zhihu.com/question/27952897
 
   - category: 学习
     links:
