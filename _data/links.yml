@@ -290,7 +290,7 @@
       style: basic
       url: http://www.nlc.gov.cn/
 
-    - name: 国家图书馆TW
+    - name: 台湾图书馆
       style: basic
       url: https://www.ncl.edu.tw/
 
@@ -342,7 +342,7 @@
       style: red
       url: https://archive.org/
 
-   - name: 中华文化总会
+    - name: 中华文化总会
       style: blue
       url: http://www.gacc.org.tw/
 
