@@ -249,7 +249,7 @@
     links:
     - name: '谷歌学术'
       icon: google
-      style: basic
+      style: blue
       url: https://scholar.google.com.hk/?hl=zh-CN
 
     - name: 知网学术
@@ -258,7 +258,7 @@
       url: http://scholar.cnki.net/new
 
     - name: 百度学术
-      icon: baidu
+      icon: baidu blue
       style: basic
       url: http://xueshu.baidu.com/
 
@@ -269,7 +269,7 @@
 
     - name: 专利检索
       icon: 
-      style: basic
+      style: red
       url: http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml
 
     - name: 中国专利
@@ -295,7 +295,6 @@
       url: https://www.epo.org/index.html
 
     - name: Soopat专利
-      icon: 
       style: basic
       url: http://www2.soopat.com/Home/IIndex/
 
@@ -306,38 +305,38 @@
 
   - category: 公开课
     links:
-    - name: 网易
-      icon: 163
+    - name: 网易公开课
+      icon: 
       style: basic
       url: https://open.163.com/
 
-    - name: 新浪
-      icon: sina
+    - name: 新浪公开课
+      icon: sina red
       style: zhihu blue
       url: http://open.sina.com.cn/
 
-    - name: 腾讯
-      icon: qq
+    - name: 腾讯精品课
+      icon: qq blue
       style: basic
       url: http://class.qq.com/
 
     - name: 慕课网
-      icon: imooc
+      icon: 
       style: basic
       url: https://www.imooc.com/
 
     - name: 极客学院
-      icon: jikexueyuan
+      icon: 
       style: basic
       url: http://www.jikexueyuan.com/
 
     - name: MOOC
-      icon: mooc
+      icon: 
       style: basic
       url: https://www.icourse163.org/
 
     - name: 网易TED
-      icon: ted
+      icon: 
       style: basic
       url: https://open.163.com/ted/
 
@@ -352,8 +351,8 @@
       url: https://open.163.com/ocw/
 
     - name: 知乎回答
-      icon: zhihu
-      style: basic
+      icon: zhihu blue
+      style: blue
       url: https://www.zhihu.com/question/27952897
 
   - category: 学习
