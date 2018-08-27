@@ -245,7 +245,7 @@
 
     - name: 国图公开课
       icon: 
-      style: darkcyan
+      style: white
       url: http://open.nlc.cn/onlineedu/client/index.htm
 
     - name: 网易大学
@@ -327,7 +327,7 @@
       style: basic
       url: https://www.wikipedia.org/
 
-   - category: 学术数据
+  - category: 学术数据
     links:
     - name: 万方
       style: blue
