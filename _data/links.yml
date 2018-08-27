@@ -254,18 +254,13 @@
 
     - name: 谷歌学术
       icon: google
-      style: basic
+      style: blue
       url: https://scholar.google.com.hk/?hl=zh-CN
 
     - name: 知网学术
       icon: 
       style: basic
       url: http://scholar.cnki.net/new
-
-    - name: 谷歌图书
-      icon: google
-      style: basic
-      url: https://books.google.com/?hl=zh-CN
 
     - name: 美国专利
       icon: 
@@ -297,6 +292,16 @@
     - name: Soopat专利
       style: basic
       url: http://www2.soopat.com/Home/IIndex/
+
+    - name: 谷歌图书
+      icon: google
+      style: basic
+      url: https://books.google.com/?hl=zh-CN
+
+    - name: 必应学术
+      icon: bing w black
+      style: basic
+      url: https://cn.bing.com/academic
 
     - name: 维基百科
       icon: wikipedia w black
