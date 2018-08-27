@@ -1,5 +1,51 @@
 - section: scholar
   categories:
+  - category: 冗杂之所
+    links:
+    - name: 好奇心
+      style: basic
+      url: http://www.qdaily.com/
+
+    - name: 孔夫子
+      style: basic
+      url: https://m.kongfz.com/shop/
+
+    - name: 有路网
+      style: basic
+      url: http://www.youlu.net/
+
+    - name: 小书屋
+      icon: google play
+      style: basic
+      url: http://mebook.cc/
+
+    - name: 书伴
+      icon: google play
+      style: basic
+      url: https://bookfere.com/novice
+
+    - name: 书格
+      style: basic
+      url: https://shuge.org/
+
+    - name: 周读
+      icon: google play
+      style: basic
+      url: http://ireadweek.com/index.php/Index/index.html
+
+    - name: 故宫
+      icon: google play
+      style: basic
+      url: https://theme.npm.edu.tw/opendata/
+
+    - name: 中华珍宝馆
+      style: basic
+      url: http://ltfc.net/
+
+    - name: 搜韵丨影印资源
+      icon: apple grey
+      style: basic
+      url: https://sou-yun.com/index.aspx
   - category: 图书馆
     links:
     - name: 大英图书馆
@@ -136,53 +182,6 @@
       icon: google play
       style: basic
       url: http://www.yilan.io/home/?category=_recommend
-
-  - category: 冗杂之所
-    links:
-    - name: 好奇心
-      style: basic
-      url: http://www.qdaily.com/
-
-    - name: 孔夫子
-      style: basic
-      url: https://m.kongfz.com/shop/
-
-    - name: 有路网
-      style: basic
-      url: http://www.youlu.net/
-
-    - name: 小书屋
-      icon: google play
-      style: basic
-      url: http://mebook.cc/
-
-    - name: 书伴
-      icon: google play
-      style: basic
-      url: https://bookfere.com/novice
-
-    - name: 书格
-      style: basic
-      url: https://shuge.org/
-
-    - name: 周读
-      icon: google play
-      style: basic
-      url: http://ireadweek.com/index.php/Index/index.html
-
-    - name: 故宫
-      icon: google play
-      style: basic
-      url: https://theme.npm.edu.tw/opendata/
-
-    - name: 中华珍宝馆
-      style: basic
-      url: http://ltfc.net/
-
-    - name: 搜韵丨影印资源
-      icon: apple grey
-      style: basic
-      url: https://sou-yun.com/index.aspx
 
 - section: public
   categories:
