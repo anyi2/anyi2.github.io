@@ -408,11 +408,6 @@
       style: basic
       url: http://open.163.com/
 
-    - name: Google Open Source
-      icon: code blue
-      style: basic
-      url: https://opensource.google.com/
-
     - name: CAlis联合
       style: dgtle blue
       url: http://opac.calis.edu.cn/opac/simpleSearch.do
@@ -420,6 +415,10 @@
     - name: CAlis高校
       style: baby blue
       url: http://www.calis.edu.cn/
+
+    - name: IEEE荣誉奖章
+      style: dgtle blue
+      url: https://www.ieee.org/
 
     - name: 诺贝尔基金
       style: red
@@ -438,25 +437,17 @@
       style: basic
       url: http://www.shawprize.org/en/
 
-    - name: IEEE荣誉奖章
-      style: dgtle blue
-      url: https://www.ieee.org/
-
     - name: 突破奖
       style: baby blue
       url: https://breakthroughprize.org/
 
-    - name: IT之家 软媒
+    - name: 唐奖
       style: red
-      url: https://www.ithome.com/
+      url: http://www.tang-prize.org/first.php
 
-    - name: 少数派
-      style: red
-      url: https://sspai.com/
-
-    - name: 投资界
+    - name: 儒莲奖
       style: black
-      url: http://www.pedaily.cn/
+      url: https://zh.wikipedia.org/wiki/%E5%84%92%E8%8E%B2%E5%A5%96
       
   - category: 小工具
     links:
