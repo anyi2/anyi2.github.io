@@ -306,6 +306,16 @@
       style: red
       url: https://www.ted.com/
 
+    - name: 网易TED
+      icon: 
+      style: basic
+      url: https://open.163.com/ted/
+
+    - name: 译学馆
+      icon: 
+      style: red
+      url: https://www.yxgapp.com/
+
     - name: 网易公开课
       icon: 
       style: basic
@@ -313,7 +323,7 @@
 
     - name: 新浪公开课
       icon: 
-      style: zhihu blue
+      style: basic
       url: http://open.sina.com.cn/
 
     - name: 国图公开课
@@ -336,10 +346,7 @@
       style: basic
       url: https://www.icourse163.org/
 
-    - name: 网易TED
-      icon: 
-      style: basic
-      url: https://open.163.com/ted/
+
 
     - name: 网易大学
       icon: 
@@ -348,11 +355,11 @@
 
     - name: 网易名校
       icon: 
-      style: basic
+      style: red
       url: https://open.163.com/ocw/
 
     - name: 知乎回答
-      icon: zhihu blue
+      icon: 
       style: blue
       url: https://www.zhihu.com/question/27952897
 
