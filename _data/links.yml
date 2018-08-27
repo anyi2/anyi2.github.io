@@ -247,25 +247,30 @@
 
   - category: 学术搜索
     links:
-    - name: '谷歌学术'
+    - name: 百度学术
+      icon: 
+      style: basic
+      url: http://xueshu.baidu.com/
+
+    - name: 谷歌学术
       icon: google
-      style: blue
+      style: basic
       url: https://scholar.google.com.hk/?hl=zh-CN
 
     - name: 知网学术
-      icon: cnki
+      icon: 
       style: basic
       url: http://scholar.cnki.net/new
-
-    - name: 百度学术
-      icon: baidu blue
-      style: basic
-      url: http://xueshu.baidu.com/
 
     - name: 谷歌图书
       icon: google
       style: basic
       url: https://books.google.com/?hl=zh-CN
+
+    - name: 美国专利
+      icon: 
+      style: basic
+      url: https://www.uspto.gov/blog/ebiz/
 
     - name: 专利检索
       icon: 
@@ -276,16 +281,6 @@
       style: basic
       url: http://www.patent.com.cn/
 
-    - name: 美国专利
-      icon: 
-      style: basic
-      url: https://www.uspto.gov/blog/ebiz/
-
-    - name: 谷歌专利
-      icon: google
-      style: basic
-      url:  https://www.google.com/?tbm=pts
-
     - name: Pat专利
       style: basic
       url: https://www.patexplorer.com/
@@ -293,6 +288,11 @@
     - name: Epo专利
       style: basic
       url: https://www.epo.org/index.html
+
+    - name: 谷歌专利
+      icon: google
+      style: basic
+      url:  https://www.google.com/?tbm=pts
 
     - name: Soopat专利
       style: basic
