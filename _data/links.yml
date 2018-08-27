@@ -186,130 +186,7 @@
 
 - section: public
   categories:
-  - category: 学术数据
-    links:
-    - name: 万方
-      style: blue
-      url: http://g.wanfangdata.com.cn/index.html
-
-    - name: 超星
-      style: orange
-      url:  http://www.chaoxing.com/
-
-    - name: 知网
-      style: blue
-      url: http://www.cnki.net/
-
-    - name: 维普网
-      style: red
-      url:  http://www.cqvip.com/
-
-    - name: 标准网
-      icon: 
-      style: basic
-      url: http://www.standardcn.com/article/class_cx.asp?id=15&page=
-
-    - name: 世界银行
-      style: basic
-      url: http://www.shihang.org/
-
-    - name: 国家数据
-      style: basic
-      url: http://data.stats.gov.cn/
-
-    - name: 中国科学院
-      style: basic
-      url: http://www.csdb.cn/
-
-    - name: WS世界科学
-      style: basic
-      url: https://www.worldscientific.com/
-
-    - name: 中国生命科学
-      style: basic
-      url: http://www.cba.ac.cn/
-
-    - name: NASA生命科学
-      style: basic
-      url: https://lsda.jsc.nasa.gov/
-
-    - name: 上图发现
-      style: basic
-      url: http://en.shl.findplus.cn/
-
-    - name: 国家版权局
-      style: red
-      url: http://www.ncac.gov.cn/
-
-    - name: 文津搜素
-      style: basic
-      url: http://find.nlc.cn/
-
-  - category: 学术搜索
-    links:
-    - name: 百度学术
-      icon: 
-      style: basic
-      url: http://xueshu.baidu.com/
-
-    - name: 谷歌学术
-      icon: google
-      style: blue
-      url: https://scholar.google.com.hk/?hl=zh-CN
-
-    - name: 知网学术
-      icon: 
-      style: basic
-      url: http://scholar.cnki.net/new
-
-    - name: 美国专利
-      icon: 
-      style: basic
-      url: https://www.uspto.gov/blog/ebiz/
-
-    - name: 专利检索
-      icon: 
-      style: red
-      url: http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml
-
-    - name: 中国专利
-      style: basic
-      url: http://www.patent.com.cn/
-
-    - name: Pat专利
-      style: basic
-      url: https://www.patexplorer.com/
-
-    - name: Epo专利
-      style: basic
-      url: https://www.epo.org/index.html
-
-    - name: 谷歌专利
-      icon: google
-      style: basic
-      url:  https://www.google.com/?tbm=pts
-
-    - name: 谷歌图书
-      icon: google
-      style: basic
-      url: https://books.google.com/?hl=zh-CN
-
-    - name: Soopat专利
-      icon: search
-      style: basic
-      url: http://www2.soopat.com/Home/IIndex/
-
-    - name: 必应学术
-      icon: bold
-      style: basic
-      url: https://cn.bing.com/academic
-
-    - name: 维基百科
-      icon: wikipedia w black
-      style: basic
-      url: https://www.wikipedia.org/
-
-  - category: 公开课
+ - category: 公开课
     links:
     - name: TED
       icon: 
@@ -385,6 +262,129 @@
       icon: 
       style: blue
       url: https://www.zhihu.com/question/27952897
+
+  - category: 学术搜索
+    links:
+    - name: 百度学术
+      icon: 
+      style: basic
+      url: http://xueshu.baidu.com/
+
+    - name: 谷歌学术
+      icon: google
+      style: blue
+      url: https://scholar.google.com.hk/?hl=zh-CN
+
+    - name: 知网学术
+      icon: 
+      style: basic
+      url: http://scholar.cnki.net/new
+
+    - name: 美国专利
+      icon: 
+      style: basic
+      url: https://www.uspto.gov/blog/ebiz/
+
+    - name: 专利检索
+      icon: 
+      style: red
+      url: http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml
+
+    - name: 中国专利
+      style: basic
+      url: http://www.patent.com.cn/
+
+    - name: Pat专利
+      style: basic
+      url: https://www.patexplorer.com/
+
+    - name: Epo专利
+      style: basic
+      url: https://www.epo.org/index.html
+
+    - name: 谷歌专利
+      icon: google
+      style: basic
+      url:  https://www.google.com/?tbm=pts
+
+    - name: 谷歌图书
+      icon: google
+      style: basic
+      url: https://books.google.com/?hl=zh-CN
+
+    - name: Soopat专利
+      icon: search
+      style: basic
+      url: http://www2.soopat.com/Home/IIndex/
+
+    - name: 必应学术
+      icon: bold
+      style: basic
+      url: https://cn.bing.com/academic
+
+    - name: 维基百科
+      icon: wikipedia w black
+      style: basic
+      url: https://www.wikipedia.org/
+
+   - category: 学术数据
+    links:
+    - name: 万方
+      style: blue
+      url: http://g.wanfangdata.com.cn/index.html
+
+    - name: 超星
+      style: orange
+      url:  http://www.chaoxing.com/
+
+    - name: 知网
+      style: blue
+      url: http://www.cnki.net/
+
+    - name: 维普网
+      style: red
+      url:  http://www.cqvip.com/
+
+    - name: 标准网
+      icon: 
+      style: basic
+      url: http://www.standardcn.com/article/class_cx.asp?id=15&page=
+
+    - name: 世界银行
+      style: basic
+      url: http://www.shihang.org/
+
+    - name: 国家数据
+      style: basic
+      url: http://data.stats.gov.cn/
+
+    - name: 中国科学院
+      style: basic
+      url: http://www.csdb.cn/
+
+    - name: WS世界科学
+      style: basic
+      url: https://www.worldscientific.com/
+
+    - name: 中国生命科学
+      style: basic
+      url: http://www.cba.ac.cn/
+
+    - name: NASA生命科学
+      style: basic
+      url: https://lsda.jsc.nasa.gov/
+
+    - name: 上图发现
+      style: basic
+      url: http://en.shl.findplus.cn/
+
+    - name: 国家版权局
+      style: red
+      url: http://www.ncac.gov.cn/
+
+    - name: 文津搜素
+      style: basic
+      url: http://find.nlc.cn/
 
   - category: 学习
     links:
