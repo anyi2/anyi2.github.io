@@ -197,25 +197,25 @@
       url:  http://www.chaoxing.com/
 
     - name: 知网
-      style: red
+      style: blue
       url: http://www.cnki.net/
 
     - name: 维普网
-      style: gray
+      style: red
       url:  http://www.cqvip.com/
 
     - name: 标准网
       icon: 
-      style: red
-      url: http://www.standardcn.com/article/class_cx.asp?id=15&page=
-
-    - name: 香港大学
       style: basic
-      url: http://hub.hku.hk/advanced-search?location=crisdataset
+      url: http://www.standardcn.com/article/class_cx.asp?id=15&page=
 
     - name: 台湾论文
       style: basic
       url: https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=gFa.Gx/webmge?mode=basic
+
+    - name: 香港大学
+      style: basic
+      url: http://hub.hku.hk/advanced-search?location=crisdataset
 
     - name: 中国科学院
       style: basic
@@ -237,13 +237,13 @@
       style: basic
       url: http://en.shl.findplus.cn/
 
-    - name: 文津搜素
-      style: basic
-      url: http://find.nlc.cn/
-
     - name: 国家版权局
       style: red
       url: http://www.ncac.gov.cn/
+
+    - name: 文津搜素
+      style: basic
+      url: http://find.nlc.cn/
 
   - category: 学术搜索
     links:
