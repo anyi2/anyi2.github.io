@@ -326,6 +326,11 @@
       style: red
       url: https://www.yxgapp.com/
 
+    - name: MOOC
+      icon: 
+      style: basic
+      url: https://www.icourse163.org/
+
     - name: 网易公开课
       icon: 
       style: basic
@@ -341,6 +346,21 @@
       style: basic
       url: https://www.imooc.com/
 
+    - name: 可汗学院
+      icon: 
+      style: basic
+      url: https://www.khanacademy.org/
+
+    - name: Edx
+      icon: 
+      style: basic
+      url: https://www.edx.org/
+
+    - name: MIT
+      icon: 
+      style: basic
+      url: https://ocw.mit.edu/index.htm
+
     - name: 极客学院
       icon: 
       style: basic
@@ -350,11 +370,6 @@
       icon: 
       style: darkcyan
       url: http://open.nlc.cn/onlineedu/client/index.htm
-
-    - name: MOOC
-      icon: 
-      style: basic
-      url: https://www.icourse163.org/
 
     - name: 网易大学
       icon: 
