@@ -186,7 +186,7 @@
 
 - section: public
   categories:
- - category: 公开课
+  - category: 公开课
     links:
     - name: TED
       icon: 
