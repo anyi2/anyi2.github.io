@@ -386,44 +386,65 @@
       style: basic
       url: http://find.nlc.cn/
 
-  - category: 学习
+  - category: 期刊基金
     links:
-    - name: CSDN
+    - name: OAlib
       style: basic
-      url: https://edu.csdn.net/
+      url: http://www.oalib.com/
 
-    - name: MOOC
+    - name: 资源检索
       style: basic
-      url: http://mooc.org/
+      url: http://nav.sciinfo.cn/QiKan.aspx
 
-    - name: W3School
+    - name: 梅斯期刊
       style: basic
-      url: http://www.w3school.com.cn/
+      url: http://www.medsci.cn/sci/
 
-    - name: 新浪公开课
+    - name: CNKI期刊
       style: basic
-      url: https://open.sina.com.cn//
+      url: http://cb.cnki.net/
 
-    - name: 网易公开课
+    - name: SCI影响因子
       style: basic
       url: http://open.163.com/
-
-    - name: 全球500强
-      style: basic
-      url: http://brandirectory.com/league_tables/table/global-500-2018
 
     - name: Google Open Source
       icon: code blue
       style: basic
       url: https://opensource.google.com/
 
-    - name: 数字尾巴
+    - name: CAlis联合
       style: dgtle blue
-      url: http://www.dgtle.com/
+      url: http://opac.calis.edu.cn/opac/simpleSearch.do
 
-    - name: Topys创意
+    - name: CAlis高校
       style: baby blue
-      url: https://www.topys.cn/
+      url: http://www.calis.edu.cn/
+
+    - name: 诺贝尔基金
+      style: red
+      url: https://www.nobelprize.org/
+
+    - name: 阿贝尔
+      style: red
+      url: http://www.abelprize.no/
+
+    - name: 图灵奖
+      style: black
+      url: https://awards.acm.org/
+
+    - name: 邵逸夫
+      icon: code blue
+      style: basic
+      url: http://www.shawprize.org/en/
+
+    - name: IEEE荣誉奖章
+      style: dgtle blue
+      url: https://www.ieee.org/
+
+    - name: 突破奖
+      style: baby blue
+      url: https://breakthroughprize.org/
 
     - name: IT之家 软媒
       style: red
@@ -436,8 +457,7 @@
     - name: 投资界
       style: black
       url: http://www.pedaily.cn/
-
-
+      
   - category: 小工具
     links:
     - name: LinkedIn
