@@ -19,7 +19,7 @@
       url: http://www.nlc.gov.cn/
 
     - name: 世界数字图书馆
-      style: blankc
+      style: blank
       url: https://www.wdl.org/zh/
 
     - name: 剑桥数字图书馆
@@ -265,15 +265,42 @@
 
   - category: 学术文化
     links:
-    - name: LinkedIn
+    - name: 学信网
       icon: linkedin in blue
       style: basic
-      url: https://www.linkedin.com/
+      url: https://www.chsi.com.cn/
 
-    - name: 张大妈工资计算器
+    - name: 考试院
+      style: pink
+      url: http://www.hebeea.edu.cn/
+
+    - name: 教育厅
       style: basic
-      url: http://www.hizdm.cn
+      url: http://www.hee.gov.cn/
 
+    - name: 文化厅
+      style: basic
+      url: http://www.hebwh.gov.cn/
+
+    - name: 文博网
+      style: basic
+      url: http://www.wenbo.cc/
+
+    - name: 国家地理
+      style: basic
+      url: https://www.nationalgeographic.com/
+
+    - name: 网易探索
+      style: basic
+      url: http://discovery.163.com/
+
+    - name: BD影视网
+      style: basic
+      url: http://www.bd-film.co/
+
+    - name: FIX字幕侠
+      style: yellow
+      url: http://www.zimuxia.cn/
     - name: 提交链接请联系验证
       style: basic
       url: http://www.anyi.life/
@@ -430,6 +457,11 @@
     - name: CAlis高校
       style: baby blue
       url: http://www.calis.edu.cn/
+
+    - name: 中外电子文献资源导航
+      icon: code blue
+      style: basic
+      url: http://www.mynav.cn/shujuk/index.html
 
     - name: IEEE荣誉奖章
       style: dgtle blue
