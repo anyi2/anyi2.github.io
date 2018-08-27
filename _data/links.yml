@@ -290,6 +290,7 @@
       url:  https://www.google.com/?tbm=pts
 
     - name: Soopat专利
+      icon: search
       style: basic
       url: http://www2.soopat.com/Home/IIndex/
 
@@ -299,8 +300,8 @@
       url: https://books.google.com/?hl=zh-CN
 
     - name: 必应学术
-      icon: bing w black
-      style: basic
+      icon: bing
+      style: blue
       url: https://cn.bing.com/academic
 
     - name: 维基百科
