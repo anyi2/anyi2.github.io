@@ -301,20 +301,25 @@
 
   - category: 公开课
     links:
+    - name: TED
+      icon: 
+      style: red
+      url: https://www.ted.com/
+
     - name: 网易公开课
       icon: 
       style: basic
       url: https://open.163.com/
 
     - name: 新浪公开课
-      icon: sina red
+      icon: 
       style: zhihu blue
       url: http://open.sina.com.cn/
 
-    - name: 腾讯精品课
-      icon: qq blue
-      style: basic
-      url: http://class.qq.com/
+    - name: 国图公开课
+      icon: 
+      style: darkcyan
+      url: http://open.nlc.cn/onlineedu/client/index.htm
 
     - name: 慕课网
       icon: 
