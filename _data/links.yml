@@ -209,13 +209,13 @@
       style: basic
       url: http://www.standardcn.com/article/class_cx.asp?id=15&page=
 
-    - name: 台湾论文
+    - name: 世界银行
       style: basic
-      url: https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=gFa.Gx/webmge?mode=basic
+      url: http://www.shihang.org/
 
-    - name: 香港大学
+    - name: 国家数据
       style: basic
-      url: http://hub.hku.hk/advanced-search?location=crisdataset
+      url: http://data.stats.gov.cn/
 
     - name: 中国科学院
       style: basic
@@ -289,19 +289,19 @@
       style: basic
       url:  https://www.google.com/?tbm=pts
 
-    - name: Soopat专利
-      icon: search
-      style: basic
-      url: http://www2.soopat.com/Home/IIndex/
-
     - name: 谷歌图书
       icon: google
       style: basic
       url: https://books.google.com/?hl=zh-CN
 
+    - name: Soopat专利
+      icon: search
+      style: basic
+      url: http://www2.soopat.com/Home/IIndex/
+
     - name: 必应学术
-      icon: bing
-      style: blue
+      icon: bold
+      style: basic
       url: https://cn.bing.com/academic
 
     - name: 维基百科
@@ -336,11 +336,6 @@
       style: basic
       url: http://open.sina.com.cn/
 
-    - name: 国图公开课
-      icon: 
-      style: darkcyan
-      url: http://open.nlc.cn/onlineedu/client/index.htm
-
     - name: 慕课网
       icon: 
       style: basic
@@ -351,12 +346,15 @@
       style: basic
       url: http://www.jikexueyuan.com/
 
+    - name: 国图公开课
+      icon: 
+      style: darkcyan
+      url: http://open.nlc.cn/onlineedu/client/index.htm
+
     - name: MOOC
       icon: 
       style: basic
       url: https://www.icourse163.org/
-
-
 
     - name: 网易大学
       icon: 
@@ -365,7 +363,7 @@
 
     - name: 网易名校
       icon: 
-      style: red
+      style: basic
       url: https://open.163.com/ocw/
 
     - name: 知乎回答
