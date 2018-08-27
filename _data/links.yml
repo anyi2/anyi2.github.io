@@ -2,29 +2,29 @@
   categories:
   - category: 图书馆
     links:
-    - name: 国家图书馆
-      style: basic
-      url: http://www.nlc.gov.cn/
-
-    - name: 台湾图书馆
-      style: basic
-      url: https://www.ncl.edu.tw/
-
     - name: 大英图书馆
       style: basic
       url: https://www.bl.uk/
 
     - name: 法国图书馆
-      style: blue
+      style: basic
       url: https://gallica.bnf.fr/accueil/?mode=desktop
+
+    - name: 台湾图书馆
+      style: basic
+      url: https://www.ncl.edu.tw/
+
+    - name: 国家图书馆
+      style: basic
+      url: http://www.nlc.gov.cn/
+
+    - name: 世界数字图书馆
+      style: blankc
+      url: https://www.wdl.org/zh/
 
     - name: 剑桥数字图书馆
       style: basic
       url: http://cudl.lib.cam.ac.uk/
-
-    - name: 日本国会图书馆
-      style: basic
-      url: http://www.ndl.go.jp/jp/use/service/index.html
 
     - name: 柏林数字图书馆
       style: basic
@@ -50,16 +50,16 @@
       style: basic
       url: https://guides.library.harvard.edu/Chinese
 
-    - name: 世界数字图书馆
+    - name: 日本国会图书馆
       style: basic
-      url: https://www.wdl.org/zh/
+      url: http://www.ndl.go.jp/jp/use/service/index.html
 
     - name: 互联网档案馆
       style: red
       url: https://archive.org/
 
     - name: 中华文化总会
-      style: blue
+      style: white
       url: http://www.gacc.org.tw/
 
     - name: Literary youths are moving forward here!
