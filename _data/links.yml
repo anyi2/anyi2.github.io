@@ -263,6 +263,21 @@
       style: blue
       url: https://www.zhihu.com/question/27952897
 
+  - category: 学术文化
+    links:
+    - name: LinkedIn
+      icon: linkedin in blue
+      style: basic
+      url: https://www.linkedin.com/
+
+    - name: 张大妈工资计算器
+      style: basic
+      url: http://www.hizdm.cn
+
+    - name: 提交链接请联系验证
+      style: basic
+      url: http://www.anyi.life/
+
   - category: 学术搜索
     links:
     - name: 百度学术
@@ -448,21 +463,6 @@
     - name: 儒莲奖
       style: black
       url: https://zh.wikipedia.org/wiki/%E5%84%92%E8%8E%B2%E5%A5%96
-      
-  - category: 小工具
-    links:
-    - name: LinkedIn
-      icon: linkedin in blue
-      style: basic
-      url: https://www.linkedin.com/
-
-    - name: 张大妈工资计算器
-      style: basic
-      url: http://www.hizdm.cn
-
-    - name: 提交链接请联系验证
-      style: basic
-      url: http://www.anyi.life/
 
   - category: 娱乐
     links:
