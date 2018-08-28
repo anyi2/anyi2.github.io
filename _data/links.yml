@@ -225,11 +225,11 @@
       url: http://www.museivaticani.va/content/museivaticani/en/collezioni/musei.html
 
     - name: 东京大学综合馆
-      icon: google play
       style: basic
       url: http://www.um.u-tokyo.ac.jp/web_museum/database.html
 
     - name: 汉学资源丨蒋经国基金会
+      icon: google play
       style: basic
       url: http://www.cckf.org/zh/sino
 
@@ -239,7 +239,7 @@
     links:
     - name: TED
       icon: 
-      style: red
+      style: basic
       url: https://www.ted.com/
 
     - name: 网易TED
@@ -249,7 +249,7 @@
 
     - name: 译学馆
       icon: 
-      style: red
+      style: basic
       url: https://www.yxgapp.com/
 
     - name: MOOC
@@ -319,7 +319,7 @@
       url: https://www.chsi.com.cn/
 
     - name: 考试院
-      style: pink
+      style: basic
       url: http://www.hebeea.edu.cn/
 
     - name: 教育厅
