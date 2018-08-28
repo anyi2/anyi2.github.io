@@ -34,26 +34,15 @@
       style: basic
       url: http://dsr.nii.ac.jp/
 
-    - name: 孔夫子
-      style: basic
-      url: https://m.kongfz.com/shop/
-
-    - name: 有路网
-      style: basic
-      url: http://www.youlu.net/
-
     - name: 书伴
-      icon: google play
       style: basic
       url: https://bookfere.com/novice
 
     - name: 小书屋
-      icon: google play
       style: basic
       url: http://mebook.cc/
 
     - name: 周读
-      icon: google play
       style: basic
       url: http://ireadweek.com/index.php/Index/index.html
 
@@ -61,16 +50,21 @@
       style: basic
       url: http://forum.er07.com/
 
-    - name: 虫部落
+    - name: 有路网
+      icon: google play
       style: basic
-      url: http://www.chongbuluo.com/
+      url: http://www.youlu.net/
 
-    - name: 西林街
+    - name: 孔夫子
+      icon: google play
       style: basic
-      url: http://www.xilinjie.com/
+      url: https://m.kongfz.com/shop/
+
+    - name: 西历转换
+      style: basic
+      url: http://sinocal.sinica.edu.tw/
 
     - name: 道印
-      icon: google play
       style: basic
       url: https://www.daoon.com/
 
@@ -83,18 +77,14 @@
       style: basic
       url: https://shuge.org/
 
-    - name: 西历转换
-      style: basic
-      url: http://sinocal.sinica.edu.tw/
-
-    - name: 安逸餘生
-      icon: app weibo
-      style: basic
-      url: https://weibo.com/5592630806/profile?topnav=1&wvr=6&is_all=1
-
     - name: 中华珍宝馆
       style: basic
       url: http://ltfc.net/
+
+    - name: AnYi-Navi·学术导航
+      icon: book
+      style: basic
+      url: https://anyi.life/
 
     - name: 故宫Open Data
       icon: search
@@ -432,15 +422,15 @@
       url: https://lsda.jsc.nasa.gov/
 
     - name: 上图发现
-      style: basic
+      style: blue
       url: http://en.shl.findplus.cn/
 
     - name: 国家版权局
-      style: basic
+      style: red
       url: http://www.ncac.gov.cn/
 
     - name: 文津搜素
-      style: basic
+      style: blue
       url: http://find.nlc.cn/
 
     - name: 安逸丨世界的创新源于学术的探索！
@@ -677,7 +667,7 @@
       url: https://v.qq.com/x/search/?q=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&stag=txt.playpage.vppdesc
 
     - name: 古典舞《如梦令》
-      style: basic
+      style: blue
       url: https://www.bilibili.com/video/av16804529/
 
     - name: 党政办公室
@@ -749,11 +739,11 @@
       url: https://www.digital.archives.go.jp/index_e.html
 
     - name: 日本浮世绘资源
-      style: basic
+      style: teal
       url: https://ukiyo-e.org/
 
     - name: 日本国图数字馆
-      style: basic
+      style: blue
       url: http://dl.ndl.go.jp/
 
     - name: 世界数位图书馆
@@ -813,7 +803,7 @@
       url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5.html
 
     - name: 浏览结束，很抱歉让你看到下方的广告！
-      style: basic
+      style: black
       url: https://anyi.life/
 
     - name: The website is maintained by ANYI!
