@@ -165,19 +165,6 @@
       style: basic
       url: http://www.bmy.com.cn/2015new/index.htm
 
-    - name: 古籍保护网
-      style: blue
-      url: http://www.nlc.cn/pcab/
-
-    - name: 故宫博物院丨探索
-      style: basic
-      url: http://sinology.ascdc.sinica.edu.tw/index.html
-
-    - name: 故宫Open Data
-      icon: search
-      style: blue
-      url: http://ccs.ncl.edu.tw/sitemap.aspx
-
     - name: 东京大学综合馆
       icon: google play
       style: basic
@@ -292,17 +279,39 @@
       style: basic
       url: http://discovery.163.com/
 
-    - name: BD影视网
+    - name: 古籍保护网
       style: basic
-      url: http://www.bd-film.co/
+      url: http://www.nlc.cn/pcab/
 
-    - name: FIX字幕侠
-      style: yellow
-      url: http://www.zimuxia.cn/
-
-    - name: 提交收录及友链申请
+    - name: 汉学研究中心
       style: basic
-      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E.html
+      url: http://ccs.ncl.edu.tw/sitemap.aspx
+
+    - name: 名古屋研究室
+      style: basic
+      url: https://toyoshi.lit.nagoya-u.ac.jp/zh/subjects-zh/
+
+    - name: 故宫Open Data
+      icon: search
+      style: basic
+      url: http://ccs.ncl.edu.tw/sitemap.aspx
+
+    - name: 故宫博物院丨探索
+      icon: app store
+      style: basic
+      url: http://sinology.ascdc.sinica.edu.tw/index.html
+
+    - name: 汉学资源丨蒋经国基金会
+      style: basic
+      url: http://www.cckf.org/zh/sino
+
+    - name: 提交收录
+      style: black
+      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95.html
+
+    - name: 友链申请
+      style: black
+      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5.html
 
   - category: 学术搜索
     links:
