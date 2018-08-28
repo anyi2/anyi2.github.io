@@ -1,6 +1,6 @@
 - section: scholar
   categories:
-  - category: 冗杂之所
+  - category: 国风
     links:
     - name: 汉典
       style: basic
@@ -712,12 +712,8 @@
 
   - category: 古籍影像
     links:
-    - name: 古籍文献库检索
-      icon: app store
-      style: basic
-      url: http://rbook2.ncl.edu.tw/Search/Index/0
-
     - name: 先秦词汇资料库
+      icon: app store
       style: basic
       url: http://inscription.asdc.sinica.edu.tw/
 
@@ -728,6 +724,11 @@
     - name: 中国哲学书电子化
       style: basic
       url: https://ctext.org/zhs
+
+    - name: 古籍文献库检索
+      icon: app store
+      style: basic
+      url: http://rbook2.ncl.edu.tw/Search/Index/0
 
     - name: 郭店楚简资料库
       style: basic
@@ -752,11 +753,11 @@
       url: http://hanji.sinica.edu.tw/index.html
 
     - name: 柏林数字馆资源
+      icon: app store
       style: basic
       url: https://ctext.org/zhs
 
     - name: 东京大学善本库
-      icon: google play
       style: basic
       url: http://shanben.ioc.u-tokyo.ac.jp/list.php
 
@@ -764,10 +765,6 @@
       icon: app store
       style: basic
       url: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/imgsrv/takuhon/index.html
-
-    - name: 世界数位图书馆
-      style: basic
-      url: http://cul.sohu.com/
 
     - name: 日本数字档案馆
       style: basic
@@ -781,7 +778,11 @@
       style: basic
       url: http://dl.ndl.go.jp/
 
-  - category: 冗杂
+    - name: 世界数位图书馆
+      style: basic
+      url: http://cul.sohu.com/
+
+  - category: 冗杂之所
     links:
     - name: 好奇心
       style: basic
@@ -809,21 +810,39 @@
       style: basic
       url: https://shuge.org/
 
-    - name: 周读
+    - name: 小书屋
       icon: google play
       style: basic
-      url: http://ireadweek.com/index.php/Index/index.html
+      url: http://mebook.cc/
+
+    - name: 书伴
+      icon: google play
+      style: basic
+      url: https://bookfere.com/novice
+
+    - name: 书格
+      style: basic
+      url: https://shuge.org/
 
     - name: 安逸餘生
       icon: app weibo
       style: basic
       url: https://weibo.com/5592630806/profile?topnav=1&wvr=6&is_all=1
 
-    - name: 中华珍宝馆
+    - name: 提交收录网站
+      icon: envelope
       style: basic
-      url: http://ltfc.net/
+      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E.html
 
-    - name: 搜韵丨影印资源
-      icon: apple grey
+    - name: 申请友情链接
+      icon: envelope
       style: basic
-      url: https://sou-yun.com/index.aspx
+      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5.html
+
+    - name: 浏览结束，很抱歉让你看到下方的广告！
+      style: basic
+      url: https://anyi.life/
+
+    - name: The website is maintained by ANYI!
+      style: white
+      url: https://blog.anyi.life/
