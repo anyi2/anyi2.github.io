@@ -309,7 +309,7 @@
 
     - name: 知乎回答
       icon: 
-      style: blue
+      style: basic
       url: https://www.zhihu.com/question/27952897
 
   - category: 学术文化
@@ -371,7 +371,7 @@
 
     - name: 谷歌学术
       icon: google
-      style: blue
+      style: basic
       url: https://scholar.google.com.hk/?hl=zh-CN
 
     - name: 知网学术
@@ -386,7 +386,7 @@
 
     - name: 专利检索
       icon: 
-      style: red
+      style: basic
       url: http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml
 
     - name: 中国专利
@@ -425,6 +425,10 @@
       icon: wikipedia w black
       style: basic
       url: https://www.wikipedia.org/
+
+    - name: Mirror and proxy are here~
+      style: white
+      url: https://go.anyi.life
 
   - category: 学术数据
     links:
