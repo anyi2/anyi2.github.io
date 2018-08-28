@@ -80,6 +80,10 @@
       style: basic
       url: http://ltfc.net/
 
+    - name: 中华文史网
+      style: basic
+      url: http://www.historychina.net/#stepflow03
+
     - name: AnYi-Navi·学术导航
       icon: book
       style: black
@@ -219,7 +223,7 @@
 
     - name: 汉学资源丨蒋经国基金会
       icon: folder open
-      style: teal
+      style: red
       url: http://www.cckf.org/zh/sino
 
     - name: 台湾汉学数字导览
@@ -293,7 +297,7 @@
 
     - name: 国图公开课
       icon: 
-      style: white
+      style: orange
       url: http://open.nlc.cn/onlineedu/client/index.htm
 
     - name: 网易大学
@@ -551,7 +555,7 @@
       url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95.html
 
     - name: 安逸学术导航
-      style: red
+      style: teal
       url: https://anyi.life/
 
     - name: 友链申请
