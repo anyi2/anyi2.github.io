@@ -620,18 +620,6 @@
 
   - category: 古籍影像
     links:
-    - name: 汉典
-      style: basic
-      url: http://www.zdic.net/
-
-    - name: 词源
-      style: basic
-      url: http://www.zhongwen.com/
-
-    - name: 字源
-      style: basic
-      url: http://hanziyuan.net/
-
     - name: 丝绸之路
       style: red
       url: http://dsr.nii.ac.jp/
@@ -690,8 +678,56 @@
       style: basic
       url: http://ccs.ncl.edu.tw/DR/tw/index
 
+    - name: 东京大学善本库
+      icon: google play
+      style: black
+      url: http://shanben.ioc.u-tokyo.ac.jp/list.php
+
+    - name: 京都大学拓本库
+      icon: google play
+      style: black
+      url: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/imgsrv/takuhon/index.html
+
+    - name: 古籍文献库检索
+      icon: app store
+      style: basic
+      url: http://rbook2.ncl.edu.tw/Search/Index/0
+
+    - name: 先秦词汇资料库
+      style: basic
+      url: http://inscription.asdc.sinica.edu.tw/
+
+    - name: 汉籍电子文献库
+      style: basic
+      url: http://hanji.sinica.edu.tw/index.html
+
+    - name: 中国哲学书电子化
+      style: black
+      url: https://ctext.org/zhs
+
+    - name: 故宫Open Data
+      icon: search
+      style: basic
+      url: http://ccs.ncl.edu.tw/sitemap.aspx
+
+    - name: 故宫博物院丨探索
+      style: basic
+      url: http://sinology.ascdc.sinica.edu.tw/index.html
+
   - category: 冗杂之所
     links:
+    - name: 汉典
+      style: basic
+      url: http://www.zdic.net/
+
+    - name: 词源
+      style: basic
+      url: http://www.zhongwen.com/
+
+    - name: 字源
+      style: basic
+      url: http://hanziyuan.net/
+
     - name: 好奇心
       style: basic
       url: http://www.qdaily.com/
@@ -745,9 +781,9 @@
       style: basic
       url: https://shuge.org/
 
-    - name: 故宫
+    - name: 西历转换
       style: basic
-      url: https://theme.npm.edu.tw/opendata/
+      url: http://sinocal.sinica.edu.tw/
 
     - name: 中华珍宝馆
       style: basic
