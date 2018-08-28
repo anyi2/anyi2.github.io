@@ -33,10 +33,10 @@
       style: basic
       url: http://ireadweek.com/index.php/Index/index.html
 
-    - name: 故宫
-      icon: google play
+    - name: 安逸餘生
+      icon: app weibo
       style: basic
-      url: https://theme.npm.edu.tw/opendata/
+      url: https://weibo.com/5592630806/profile?topnav=1&wvr=6&is_all=1
 
     - name: 中华珍宝馆
       style: basic
@@ -114,70 +114,69 @@
 
   - category: 博物馆
     links:
+    - name: 卢浮宫
+      style: black
+      url: https://www.louvre.fr/
+
     - name: 东京国立
       style: basic
       url: https://www.tnm.jp/modules/r_free_page/index.php?id=162
-
-    - name: 中国国博
-      style: basic
-      url: http://www.chnmuseum.cn/default.aspx?AspxAutoDetectCookieSupport=1
-
-    - name: 上海博物馆
-      style: basic
-      url: http://www.shanghaimuseum.net/museum/frontend/collection/index.action
-
-    - name: 湖北博物馆
-      style: red
-      url: http://www.hbww.org/Views/CollectionIndex.aspx?PNo=Collection&No=Collection&type=Default
-
-    - name: 大英博物馆
-      style: blue
-      url: https://www.britishmuseum.org/research/collection_online/search.aspx
-
-    - name: 国立故宫博物院
-      icon: app store
-      style: black
-      url: http://south.npm.gov.tw/zh-TW/SiteMap
-
-    - name: 卢浮宫
-      icon: google play
-      style: black
-      url: https://www.louvre.fr/
 
     - name: 韩国国博
       icon: app store
       style: basic
       url: http://www.emuseum.go.kr/main
 
+    - name: 大英博物馆
+      style: basic
+      url: https://www.britishmuseum.org/research/collection_online/search.aspx
+
+    - name: 上海博物馆
+      style: basic
+      url: http://www.shanghaimuseum.net/museum/frontend/collection/index.action
+
+    - name: 湖北博物馆
+      style: basic
+      url: http://www.hbww.org/Views/CollectionIndex.aspx?PNo=Collection&No=Collection&type=Default
+
     - name: 河北博物院
       style: basic
       url: http://bwy.hbdjdz.com/
-
-    - name: 梵蒂冈博物馆
-      style: basic
-      url: http://www.museivaticani.va/content/museivaticani/en/collezioni/musei.html
 
     - name: 北京故宫博物院
       icon: app store
       style: black
       url: http://www.dpm.org.cn/explore/collections.html
 
+    - name: 国立故宫博物院
+      icon: app store
+      style: black
+      url: http://south.npm.gov.tw/zh-TW/SiteMap
+
+    - name: 中国国家博物馆
+      style: basic
+      url: http://www.chnmuseum.cn/default.aspx?AspxAutoDetectCookieSupport=1
+
+    - name: 梵蒂冈博物馆
+      style: basic
+      url: http://www.museivaticani.va/content/museivaticani/en/collezioni/musei.html
+
     - name: 秦始皇帝陵
       style: basic
       url: http://www.bmy.com.cn/2015new/index.htm
 
-    - name: 安逸餘生
-      icon: app weibo
-      style: basic
-      url: https://weibo.com/5592630806/profile?topnav=1&wvr=6&is_all=1
+    - name: 古籍保护网
+      style: blue
+      url: http://www.nlc.cn/pcab/
 
-    - name: 头条号
+    - name: 故宫博物院丨探索
       style: basic
-      url: https://mp.toutiao.com/login/?redirect_url=JTJGcHJvZmlsZV92MiUyRnB1Ymxpc2g=
+      url: http://sinology.ascdc.sinica.edu.tw/index.html
 
-    - name: 搜狐文化
-      style: basic
-      url: http://cul.sohu.com/
+    - name: 故宫Open Data
+      icon: search
+      style: blue
+      url: http://ccs.ncl.edu.tw/sitemap.aspx
 
     - name: 东京大学综合馆
       icon: google play
@@ -266,7 +265,6 @@
   - category: 学术文化
     links:
     - name: 学信网
-      icon: linkedin in blue
       style: basic
       url: https://www.chsi.com.cn/
 
@@ -301,9 +299,10 @@
     - name: FIX字幕侠
       style: yellow
       url: http://www.zimuxia.cn/
-    - name: 提交链接请联系验证
+
+    - name: 提交收录及友链申请
       style: basic
-      url: http://www.anyi.life/
+      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E.html
 
   - category: 学术搜索
     links:
