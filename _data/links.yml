@@ -608,35 +608,13 @@
       style: basic
       url: http://www.calis.edu.cn/
 
-    - name: IEEE荣誉奖章
-      style: basic
-      url: https://www.ieee.org/
-
-    - name: 诺贝尔基金
-      icon: code blue
-      style: basic
-      url: https://www.nobelprize.org/
-
-    - name: 阿贝尔
-      style: basic
-      url: http://www.abelprize.no/
-
     - name: 邵逸夫奖
-      icon: code blue
       style: basic
       url: http://www.shawprize.org/en/
 
-    - name: 图灵奖
+    - name: 诺贝尔基金
       style: basic
-      url: https://awards.acm.org/
-
-    - name: 唐奖
-      style: basic
-      url: http://www.tang-prize.org/first.php
-
-    - name: 儒莲奖
-      style: basic
-      url: https://zh.wikipedia.org/wiki/%E5%84%92%E8%8E%B2%E5%A5%96
+      url: https://www.nobelprize.org/
 
 - section: hyr
   categories:
@@ -784,45 +762,40 @@
 
   - category: 冗杂之所
     links:
-    - name: 好奇心
+    - name: 休闲
+      icon: music
       style: basic
-      url: http://www.qdaily.com/
+      url: https://vps.anyi.life
 
-    - name: 孔夫子
+    - name: 论坛
+      icon: user
       style: basic
-      url: https://m.kongfz.com/shop/
+      url: http://bbs.anyi.life/
 
-    - name: 有路网
+    - name: 搜索
+      icon: zoom-out
       style: basic
-      url: http://www.youlu.net/
+      url: https://so.anyi.life/
 
-    - name: 小书屋
-      icon: google play
+    - name: 镜像
+      icon: zoom-in
       style: basic
-      url: http://mebook.cc/
+      url: https://w.anyi.life/
 
-    - name: 书伴
-      icon: google play
+    - name: 探索
+      icon: google
       style: basic
-      url: https://bookfere.com/novice
+      url: https://go.anyi.life/
 
-    - name: 书格
+    - name: 安逸导航
+      icon: bookmark
       style: basic
-      url: https://shuge.org/
+      url: https://anyi.life/
 
-    - name: 小书屋
-      icon: google play
+    - name: 安逸博客
+      icon: bold
       style: basic
-      url: http://mebook.cc/
-
-    - name: 书伴
-      icon: google play
-      style: basic
-      url: https://bookfere.com/novice
-
-    - name: 书格
-      style: basic
-      url: https://shuge.org/
+      url: http://blog.anyi.life/
 
     - name: 安逸餘生
       icon: app weibo
