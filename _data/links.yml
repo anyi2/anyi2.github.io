@@ -229,9 +229,19 @@
       url: http://www.um.u-tokyo.ac.jp/web_museum/database.html
 
     - name: 汉学资源丨蒋经国基金会
-      icon: google play
-      style: basic
+      icon: folder open
+      style: white
       url: http://www.cckf.org/zh/sino
+
+    - name: 台湾汉学数字导览
+      icon: indent right
+      style: white
+      url: http://sinology.ascdc.sinica.edu.tw/index.html
+
+    - name: 国际汉学研究数字资源
+      icon: indent left
+      style: basic
+      url: http://ccs.ncl.edu.tw/DR/tw/index
 
 - section: public
   categories:
@@ -544,14 +554,14 @@
       style: basic
       url: http://www.abelprize.no/
 
+    - name: 邵逸夫奖
+      icon: code blue
+      style: basic
+      url: http://www.shawprize.org/en/
+
     - name: 图灵奖
       style: basic
       url: https://awards.acm.org/
-
-    - name: 邵逸夫
-      icon: code blue
-      style: black
-      url: http://www.shawprize.org/en/
 
     - name: 唐奖
       style: basic
@@ -687,12 +697,12 @@
     links:
     - name: 巴伐利亚数字库
       icon: app store
-      style: black
+      style: basic
       url: https://ostasien.digitale-sammlungen.de/;jsessionid=47DBECBC531FC5C93346818508B04D64?locale=zh_TW
 
     - name: 东京大学善本库
       icon: google play
-      style: black
+      style: basic
       url: http://shanben.ioc.u-tokyo.ac.jp/list.php
 
     - name: 京都大学拓本库
@@ -710,12 +720,8 @@
 
     - name: 澳门大学古籍影像
       icon: app store
-      style: black
-      url: http://libdigital.umac.mo/was5/digital/chinese_rarebook.jsp?iPage=1
-
-    - name: 台湾汉学数字导览
       style: basic
-      url: http://sinology.ascdc.sinica.edu.tw/index.html
+      url: http://libdigital.umac.mo/was5/digital/chinese_rarebook.jsp?iPage=1
 
     - name: 汉学研究中心
       icon: app weibo
@@ -726,19 +732,14 @@
       style: basic
       url: http://cul.sohu.com/
 
-    - name: 国际汉学研究数字资源
-      icon: google play
-      style: basic
-      url: http://ccs.ncl.edu.tw/DR/tw/index
-
     - name: 东京大学善本库
       icon: google play
-      style: black
+      style: basic
       url: http://shanben.ioc.u-tokyo.ac.jp/list.php
 
     - name: 京都大学拓本库
       icon: google play
-      style: black
+      style: basic
       url: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/imgsrv/takuhon/index.html
 
     - name: 古籍文献库检索
@@ -755,15 +756,15 @@
       url: http://hanji.sinica.edu.tw/index.html
 
     - name: 中国哲学书电子化
-      style: black
+      style: basic
       url: https://ctext.org/zhs
 
     - name: 日本数字档案馆
-      style: black
+      style: basic
       url: https://www.digital.archives.go.jp/index_e.html
 
     - name: 日本浮世绘资源
-      style: black
+      style: basic
       url: https://ukiyo-e.org/
 
     - name: 日本国图数字馆
@@ -775,16 +776,12 @@
       url: http://hanji.sinica.edu.tw/index.html
 
     - name: 柏林数字馆资源
-      style: black
+      style: basic
       url: https://ctext.org/zhs
 
     - name: 东京国立画像检索
       style: basic
       url: https://webarchives.tnm.jp/imgsearch/
-
-    - name: 汉学资源丨蒋经国基金会
-      style: basic
-      url: http://www.cckf.org/zh/sino
 
   - category: 冗杂
     links:
