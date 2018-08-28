@@ -2,9 +2,34 @@
   categories:
   - category: 冗杂之所
     links:
-    - name: 好奇心
+    - name: 汉典
       style: basic
-      url: http://www.qdaily.com/
+      url: http://www.zdic.net/
+
+    - name: 汉籍
+      style: basic
+      url: http://www.hanjilibrary.cn/
+
+    - name: 词源
+      style: basic
+      url: http://www.zhongwen.com/
+
+    - name: 字源
+      style: basic
+      url: http://hanziyuan.net/
+
+    - name: 古籍馆
+      style: basic
+      url: https://www.gujiguan.com/#
+
+    - name: 书同文
+      style: basic
+      url: http://guji.unihan.com.cn/
+
+    - name: 丝绸之路
+      style: basic
+      url: http://dsr.nii.ac.jp/
+
 
     - name: 孔夫子
       style: basic
@@ -14,38 +39,64 @@
       style: basic
       url: http://www.youlu.net/
 
-    - name: 小书屋
-      icon: google play
-      style: basic
-      url: http://mebook.cc/
-
     - name: 书伴
       icon: google play
       style: basic
       url: https://bookfere.com/novice
 
-    - name: 书格
+    - name: 小书屋
+      icon: google play
       style: basic
-      url: https://shuge.org/
+      url: http://mebook.cc/
 
     - name: 周读
       icon: google play
       style: basic
       url: http://ireadweek.com/index.php/Index/index.html
 
+    - name: 爱如生
+      style: basic
+      url: http://forum.er07.com/
+
+    - name: 爱如生
+      style: basic
+      url: http://er07.com/
+
+    - name: 虫部落
+      style: basic
+      url: http://www.chongbuluo.com/
+
+    - name: 西林街
+      style: basic
+      url: http://www.xilinjie.com/
+
     - name: 安逸餘生
       icon: app weibo
       style: basic
       url: https://weibo.com/5592630806/profile?topnav=1&wvr=6&is_all=1
 
+    - name: 道印
+      icon: google play
+      style: basic
+      url: https://www.daoon.com/
+
+    - name: 搜韵
+      style: basic
+      url: https://sou-yun.com/index.aspx
+
+    - name: 书格
+      icon: google play
+      style: basic
+      url: https://shuge.org/
+
+    - name: 西历转换
+      style: basic
+      url: http://sinocal.sinica.edu.tw/
+
     - name: 中华珍宝馆
       style: basic
       url: http://ltfc.net/
-
-    - name: 搜韵丨影印资源
-      icon: apple grey
-      style: basic
-      url: https://sou-yun.com/index.aspx
+ 
   - category: 图书馆
     links:
     - name: 大英图书馆
@@ -293,17 +344,13 @@
 
     - name: 故宫Open Data
       icon: search
-      style: basic
+      style: blue
       url: http://ccs.ncl.edu.tw/sitemap.aspx
 
     - name: 故宫博物院丨探索
       icon: app store
       style: basic
       url: http://sinology.ascdc.sinica.edu.tw/index.html
-
-    - name: 汉学资源丨蒋经国基金会
-      style: basic
-      url: http://www.cckf.org/zh/sino
 
     - name: 提交收录
       style: black
@@ -628,31 +675,6 @@
 
   - category: 古籍影像
     links:
-    - name: 古籍馆
-      style: basic
-      url: https://www.gujiguan.com/#
-
-    - name: 书同文
-      style: blue
-      url: http://guji.unihan.com.cn/
-
-    - name: 丝绸之路
-      style: basic
-      url: http://dsr.nii.ac.jp/
-
-    - name: 古籍保护网
-      style: blue
-      url: http://www.nlc.cn/pcab/
-
-    - name: 故宫博物院丨探索
-      style: basic
-      url: http://sinology.ascdc.sinica.edu.tw/index.html
-
-    - name: 故宫Open Data
-      icon: search
-      style: blue
-      url: http://ccs.ncl.edu.tw/sitemap.aspx
-
     - name: 巴伐利亚数字库
       icon: app store
       style: black
@@ -754,20 +776,12 @@
       style: basic
       url: https://webarchives.tnm.jp/imgsearch/
 
-  - category: 冗杂之所
+    - name: 汉学资源丨蒋经国基金会
+      style: basic
+      url: http://www.cckf.org/zh/sino
+
+ - category: 冗杂之所
     links:
-    - name: 汉典
-      style: basic
-      url: http://www.zdic.net/
-
-    - name: 词源
-      style: basic
-      url: http://www.zhongwen.com/
-
-    - name: 字源
-      style: basic
-      url: http://hanziyuan.net/
-
     - name: 好奇心
       style: basic
       url: http://www.qdaily.com/
@@ -780,50 +794,29 @@
       style: basic
       url: http://www.youlu.net/
 
+    - name: 小书屋
+      icon: google play
+      style: basic
+      url: http://mebook.cc/
+
     - name: 书伴
       icon: google play
       style: basic
       url: https://bookfere.com/novice
 
-    - name: 小书屋
-      icon: google play
+    - name: 书格
       style: basic
-      url: http://mebook.cc/
+      url: https://shuge.org/
 
     - name: 周读
       icon: google play
       style: basic
       url: http://ireadweek.com/index.php/Index/index.html
 
-    - name: 看国外
+    - name: 安逸餘生
+      icon: app weibo
       style: basic
-      url: http://www.kanguowai.com/
-
-    - name: 她社区
-      style: basic
-      url: http://www.j.cn/bbs/plazas.html
-
-    - name: 虫部落
-      style: basic
-      url: http://www.chongbuluo.com/
-
-    - name: 西林街
-      style: basic
-      url: http://www.xilinjie.com/
-
-    - name: 道印
-      icon: google play
-      style: basic
-      url: https://www.daoon.com/
-
-    - name: 书格
-      icon: google play
-      style: basic
-      url: https://shuge.org/
-
-    - name: 西历转换
-      style: basic
-      url: http://sinocal.sinica.edu.tw/
+      url: https://weibo.com/5592630806/profile?topnav=1&wvr=6&is_all=1
 
     - name: 中华珍宝馆
       style: basic
