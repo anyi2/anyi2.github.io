@@ -620,13 +620,30 @@
 
   - category: 古籍影像
     links:
+    - name: 古籍馆
+      style: basic
+      url: https://www.gujiguan.com/#
+
+    - name: 书同文
+      style: blue
+      url: http://guji.unihan.com.cn/
+
     - name: 丝绸之路
-      style: red
+      style: basic
       url: http://dsr.nii.ac.jp/
 
     - name: 古籍保护网
       style: blue
       url: http://www.nlc.cn/pcab/
+
+    - name: 故宫博物院丨探索
+      style: basic
+      url: http://sinology.ascdc.sinica.edu.tw/index.html
+
+    - name: 故宫Open Data
+      icon: search
+      style: blue
+      url: http://ccs.ncl.edu.tw/sitemap.aspx
 
     - name: 巴伐利亚数字库
       icon: app store
@@ -705,14 +722,29 @@
       style: black
       url: https://ctext.org/zhs
 
-    - name: 故宫Open Data
-      icon: search
-      style: basic
-      url: http://ccs.ncl.edu.tw/sitemap.aspx
+    - name: 日本数字档案馆
+      style: black
+      url: https://www.digital.archives.go.jp/index_e.html
 
-    - name: 故宫博物院丨探索
+    - name: 日本浮世绘资源
+      style: black
+      url: https://ukiyo-e.org/
+
+    - name: 日本国图数字馆
+      style: black
+      url: http://dl.ndl.go.jp/
+
+    - name: 普林斯顿数字馆
       style: basic
-      url: http://sinology.ascdc.sinica.edu.tw/index.html
+      url: http://hanji.sinica.edu.tw/index.html
+
+    - name: 柏林数字馆资源
+      style: black
+      url: https://ctext.org/zhs
+
+    - name: 东京国立画像检索
+      style: basic
+      url: https://webarchives.tnm.jp/imgsearch/
 
   - category: 冗杂之所
     links:
