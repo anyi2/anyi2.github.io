@@ -54,6 +54,7 @@
 - id: googletranslate
   name: 谷歌翻译
   url: https://translate.google.cn/#zh-CN/en/
+  shortcut: 翻译
 
 - id: wikipedia
   name: 维基
@@ -125,7 +126,6 @@
   name: Archive
   url: https://go.anyi.life/Files/index.php?q=oNitoKxvYWSSpZvLzq3KktLTl5TWmcbVxZlhp8ymcdStyaupdg
   suffix: "&sin=TXT"
-  shortcut: 档案
   style: black
 
 - id: Librivox
