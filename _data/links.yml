@@ -115,7 +115,7 @@
       url: http://www.nlc.gov.cn/
 
     - name: 世界数字图书馆
-      style: blank
+      style: basic
       url: https://www.wdl.org/zh/
 
     - name: 剑桥数字图书馆
@@ -151,7 +151,7 @@
       url: http://www.ndl.go.jp/jp/use/service/index.html
 
     - name: 互联网档案馆
-      style: red
+      style: basic
       url: https://archive.org/
 
     - name: 中华文化总会
