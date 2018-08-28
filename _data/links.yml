@@ -545,13 +545,13 @@
       style: basic
       url: https://doc.mbalib.com/
 
+    - name: 双红堂
+      style: basic
+      url: http://hong.ioc.u-tokyo.ac.jp/list.php
+
     - name: IT168文库
       style: basic
       url: http://wenku.it168.com/
-
-    - name: 双红堂文库
-      style: basic
-      url: http://hong.ioc.u-tokyo.ac.jp/list.php
 
     - name: 中国课件网
       style: basic
@@ -561,7 +561,7 @@
       style: basic
       url: http://www.lunwencloud.com/
 
-    - name: 感谢诸位的到来 为你提供最好的传送门
+    - name: Free academic exploration~
       style: white
       url: https://anyi98.github.io/
 
