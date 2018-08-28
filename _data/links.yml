@@ -114,56 +114,57 @@
 
   - category: 博物馆
     links:
-    - name: 猴岛论坛
-      url: https://bbs.houdao.com/
-
-    - name: 富贵论坛
+    - name: 东京国立
       style: basic
-      url: http://www.fugui.co/
+      url: https://www.tnm.jp/modules/r_free_page/index.php?id=162
 
-    - name: 吾爱破解
+    - name: 中国国博
       style: basic
-      url: https://www.52pojie.cn/
+      url: http://www.chnmuseum.cn/default.aspx?AspxAutoDetectCookieSupport=1
 
-    - name: 小米论坛
+    - name: 上海博物馆
+      style: basic
+      url: http://www.shanghaimuseum.net/museum/frontend/collection/index.action
+
+    - name: 湖北博物馆
       style: red
-      url: http://bbs.xiaomi.cn/
+      url: http://www.hbww.org/Views/CollectionIndex.aspx?PNo=Collection&No=Collection&type=Default
 
-    - name: 智友论坛
+    - name: 大英博物馆
       style: blue
-      url: http://bbs.zhiyoo.com/
+      url: https://www.britishmuseum.org/research/collection_online/search.aspx
 
-    - name: 简书
+    - name: 国立故宫博物院
       icon: app store
       style: black
-      url: https://www.jianshu.com/
+      url: http://south.npm.gov.tw/zh-TW/SiteMap
 
-    - name: 豆瓣
+    - name: 卢浮宫
       icon: google play
       style: black
-      url: https://www.douban.com/
+      url: https://www.louvre.fr/
 
-    - name: 抽屉
+    - name: 韩国国博
       icon: app store
       style: basic
-      url: https://dig.chouti.com/
+      url: http://www.emuseum.go.kr/main
 
-    - name: VK新闻
+    - name: 河北博物院
       style: basic
-      url: https://vk.com/al_feed.php
+      url: http://bwy.hbdjdz.com/
 
-    - name: yahoo资讯
+    - name: 梵蒂冈博物馆
       style: basic
-      url: https://www.yahoo.com/
+      url: http://www.museivaticani.va/content/museivaticani/en/collezioni/musei.html
 
-    - name: 果壳网
+    - name: 北京故宫博物院
       icon: app store
       style: black
-      url: https://www.guokr.com/
+      url: http://www.dpm.org.cn/explore/collections.html
 
-    - name: 天涯论坛
+    - name: 秦始皇帝陵
       style: basic
-      url: http://bbs.tianya.cn/list-no05-1.shtml
+      url: http://www.bmy.com.cn/2015new/index.htm
 
     - name: 安逸餘生
       icon: app weibo
@@ -178,10 +179,10 @@
       style: basic
       url: http://cul.sohu.com/
 
-    - name: 一览热推
+    - name: 东京大学综合馆
       icon: google play
       style: basic
-      url: http://www.yilan.io/home/?category=_recommend
+      url: http://www.um.u-tokyo.ac.jp/web_museum/database.html
 
 - section: public
   categories:
@@ -617,76 +618,77 @@
       style: white
       url: https://anyi98.github.io/
 
-  - category: 论坛
+  - category: 古籍影像
     links:
-    - name: 猴岛论坛
-      url: https://bbs.houdao.com/
-
-    - name: 富贵论坛
+    - name: 汉典
       style: basic
-      url: http://www.fugui.co/
+      url: http://www.zdic.net/
 
-    - name: 吾爱破解
+    - name: 词源
       style: basic
-      url: https://www.52pojie.cn/
+      url: http://www.zhongwen.com/
 
-    - name: 小米论坛
+    - name: 字源
+      style: basic
+      url: http://hanziyuan.net/
+
+    - name: 丝绸之路
       style: red
-      url: http://bbs.xiaomi.cn/
+      url: http://dsr.nii.ac.jp/
 
-    - name: 智友论坛
+    - name: 古籍保护网
       style: blue
-      url: http://bbs.zhiyoo.com/
+      url: http://www.nlc.cn/pcab/
 
-    - name: 简书
+    - name: 巴伐利亚数字库
       icon: app store
       style: black
-      url: https://www.jianshu.com/
+      url: https://ostasien.digitale-sammlungen.de/;jsessionid=47DBECBC531FC5C93346818508B04D64?locale=zh_TW
 
-    - name: 豆瓣
+    - name: 东京大学善本库
       icon: google play
       style: black
-      url: https://www.douban.com/
+      url: http://shanben.ioc.u-tokyo.ac.jp/list.php
 
-    - name: 抽屉
+    - name: 京都大学拓本库
       icon: app store
       style: basic
-      url: https://dig.chouti.com/
+      url: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/imgsrv/takuhon/index.html
 
-    - name: VK新闻
+    - name: 名古屋研究室
       style: basic
-      url: https://vk.com/al_feed.php
+      url: https://toyoshi.lit.nagoya-u.ac.jp/zh/subjects-zh/
 
-    - name: yahoo资讯
+    - name: 郭店楚简资料库
       style: basic
-      url: https://www.yahoo.com/
+      url: http://bamboo.lib.cuhk.edu.hk/
 
-    - name: 果壳网
+    - name: 澳门大学古籍影像
       icon: app store
       style: black
-      url: https://www.guokr.com/
+      url: http://libdigital.umac.mo/was5/digital/chinese_rarebook.jsp?iPage=1
 
-    - name: 天涯论坛
+    - name: 台湾汉学数字导览
       style: basic
-      url: http://bbs.tianya.cn/list-no05-1.shtml
+      url: http://sinology.ascdc.sinica.edu.tw/index.html
 
-    - name: 安逸餘生
+    - name: 汉学研究中心
       icon: app weibo
       style: basic
-      url: https://weibo.com/5592630806/profile?topnav=1&wvr=6&is_all=1
+      url: http://ccs.ncl.edu.tw/sitemap.aspx
 
-    - name: 头条号
+    - name: 汉学资源丨蒋经国基金会
       style: basic
-      url: https://mp.toutiao.com/login/?redirect_url=JTJGcHJvZmlsZV92MiUyRnB1Ymxpc2g=
+      url: http://www.cckf.org/zh/sino
 
-    - name: 搜狐文化
+    - name: 世界数位图书馆
       style: basic
       url: http://cul.sohu.com/
 
-    - name: 一览热推
+    - name: 国际汉学研究数字资源
       icon: google play
       style: basic
-      url: http://www.yilan.io/home/?category=_recommend
+      url: http://ccs.ncl.edu.tw/DR/tw/index
 
   - category: 冗杂之所
     links:
