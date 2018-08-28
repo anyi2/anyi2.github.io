@@ -26,6 +26,10 @@
       style: basic
       url: http://guji.unihan.com.cn/
 
+    - name: 爱如生
+      style: basic
+      url: http://er07.com/
+
     - name: 丝绸之路
       style: basic
       url: http://dsr.nii.ac.jp/
@@ -57,10 +61,6 @@
       style: basic
       url: http://forum.er07.com/
 
-    - name: 爱如生
-      style: basic
-      url: http://er07.com/
-
     - name: 虫部落
       style: basic
       url: http://www.chongbuluo.com/
@@ -68,11 +68,6 @@
     - name: 西林街
       style: basic
       url: http://www.xilinjie.com/
-
-    - name: 安逸餘生
-      icon: app weibo
-      style: basic
-      url: https://weibo.com/5592630806/profile?topnav=1&wvr=6&is_all=1
 
     - name: 道印
       icon: google play
@@ -91,6 +86,11 @@
     - name: 西历转换
       style: basic
       url: http://sinocal.sinica.edu.tw/
+
+    - name: 安逸餘生
+      icon: app weibo
+      style: basic
+      url: https://weibo.com/5592630806/profile?topnav=1&wvr=6&is_all=1
 
     - name: 中华珍宝馆
       style: basic
