@@ -220,6 +220,11 @@
       style: basic
       url: http://www.bmy.com.cn/2015new/index.htm
 
+    - name: 汉学资源丨蒋经国基金会
+      icon: folder open
+      style: white
+      url: http://www.cckf.org/zh/sino
+
     - name: 梵蒂冈博物馆
       style: basic
       url: http://www.museivaticani.va/content/museivaticani/en/collezioni/musei.html
@@ -228,14 +233,9 @@
       style: basic
       url: http://www.um.u-tokyo.ac.jp/web_museum/database.html
 
-    - name: 汉学资源丨蒋经国基金会
-      icon: folder open
-      style: white
-      url: http://www.cckf.org/zh/sino
-
     - name: 台湾汉学数字导览
       icon: indent right
-      style: white
+      style: basic
       url: http://sinology.ascdc.sinica.edu.tw/index.html
 
     - name: 国际汉学研究数字资源
@@ -456,19 +456,19 @@
       url: http://data.stats.gov.cn/
 
     - name: 万方
-      style: blue
+      style: white
       url: http://g.wanfangdata.com.cn/index.html
 
     - name: 超星
-      style: orange
+      style: white
       url:  http://www.chaoxing.com/
 
     - name: 知网
-      style: blue
+      style: white
       url: http://www.cnki.net/
 
     - name: 维普网
-      style: red
+      style: white
       url:  http://www.cqvip.com/
 
     - name: 中国科学院
@@ -492,14 +492,64 @@
       url: http://en.shl.findplus.cn/
 
     - name: 国家版权局
-      style: red
+      style: white
       url: http://www.ncac.gov.cn/
 
     - name: 文津搜素
       style: basic
       url: http://find.nlc.cn/
 
-    - name: 世界的创新源于学术的探索！
+    - name: 安逸丨世界的创新源于学术的探索！
+      style: white
+      url: https://anyi98.github.io/
+
+  - category: 娱乐
+    links:
+    - name: 9GAG
+      style: basic
+      url: https://9gag.com/
+
+    - name: Reddit
+      style: basic
+      url: https://www.reddit.com/
+
+    - name: Rabbit
+      style: basic
+      url: https://www.rabb.it/
+
+    - name: fancy
+      style: basic
+      url: https://fancy.com/
+
+    - name: 哔哩哔哩
+      style: pink
+      url: https://www.bilibili.com/
+
+    - name: NO视频
+      style: basic
+      url: http://www.novipnoad.com/
+
+    - name: Find video
+      style: basic
+      url: https://embedy.cc/
+
+    - name: 美剧天堂
+      style: basic
+      url: http://www.meijutt.com/
+
+    - name: 6V电影网
+      style: basic
+      url: http://www.6vhao.tv/
+
+    - name: BD影视网
+      style: basic
+      url: http://www.bd-film.co/
+
+    - name: FIX字幕侠
+      style: yellow
+      url: http://www.zimuxia.cn/
+
+    - name: 感谢诸位的到来 为你提供最好的传送门
       style: white
       url: https://anyi98.github.io/
 
@@ -570,56 +620,6 @@
     - name: 儒莲奖
       style: basic
       url: https://zh.wikipedia.org/wiki/%E5%84%92%E8%8E%B2%E5%A5%96
-
-  - category: 娱乐
-    links:
-    - name: 9GAG
-      style: basic
-      url: https://9gag.com/
-
-    - name: Reddit
-      style: basic
-      url: https://www.reddit.com/
-
-    - name: Rabbit
-      style: basic
-      url: https://www.rabb.it/
-
-    - name: fancy
-      style: basic
-      url: https://fancy.com/
-
-    - name: 哔哩哔哩
-      style: pink
-      url: https://www.bilibili.com/
-
-    - name: NO视频
-      style: basic
-      url: http://www.novipnoad.com/
-
-    - name: Find video
-      style: basic
-      url: https://embedy.cc/
-
-    - name: 美剧天堂
-      style: basic
-      url: http://www.meijutt.com/
-
-    - name: 6V电影网
-      style: basic
-      url: http://www.6vhao.tv/
-
-    - name: BD影视网
-      style: basic
-      url: http://www.bd-film.co/
-
-    - name: FIX字幕侠
-      style: yellow
-      url: http://www.zimuxia.cn/
-
-    - name: 感谢诸位的到来 为你提供最好的传送门
-      style: white
-      url: https://anyi98.github.io/
 
 - section: hyr
   categories:
