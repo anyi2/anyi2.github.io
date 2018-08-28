@@ -43,22 +43,21 @@
       url: http://mebook.cc/
 
     - name: 周读
-      style: basic
+      icon: google play
       url: http://ireadweek.com/index.php/Index/index.html
 
     - name: 爱如生
       style: teal
       url: http://forum.er07.com/
 
-    - name: 有路网
-      icon: google play
-      style: basic
-      url: http://www.youlu.net/
-
     - name: 孔夫子
       icon: google play
       style: basic
       url: https://m.kongfz.com/shop/
+
+    - name: 有路网
+      style: basic
+      url: http://www.youlu.net/
 
     - name: 西历转换
       style: basic
@@ -83,18 +82,18 @@
 
     - name: AnYi-Navi·学术导航
       icon: book
-      style: basic
+      style: black
       url: https://anyi.life/
-
-    - name: 故宫Open Data
-      icon: twitter
-      style: snow
-      url: http://ccs.ncl.edu.tw/sitemap.aspx
 
     - name: 故宫博物院丨探索
       icon: app store
       style: basic
       url: http://sinology.ascdc.sinica.edu.tw/index.html
+
+    - name: 故宫 Open Data
+      icon: twitter
+      style: basic
+      url: http://ccs.ncl.edu.tw/sitemap.aspx
 
   - category: 图书馆
     links:
@@ -106,13 +105,13 @@
       style: basic
       url: https://gallica.bnf.fr/accueil/?mode=desktop
 
+    - name: 国家图书馆
+      style: blue
+      url: http://www.nlc.gov.cn/
+
     - name: 台湾图书馆
       style: basic
       url: https://www.ncl.edu.tw/
-
-    - name: 国家图书馆
-      style: basic
-      url: http://www.nlc.gov.cn/
 
     - name: 世界数字图书馆
       style: basic
@@ -143,7 +142,7 @@
       url: https://library.harvard.edu/
 
     - name: 哈佛丨中国研究
-      style: basic
+      style: orange
       url: https://guides.library.harvard.edu/Chinese
 
     - name: 日本国会图书馆
@@ -212,7 +211,7 @@
 
     - name: 汉学资源丨蒋经国基金会
       icon: folder open
-      style: basic
+      style: teal
       url: http://www.cckf.org/zh/sino
 
     - name: 梵蒂冈博物馆
@@ -294,7 +293,7 @@
 
     - name: 国图公开课
       icon: 
-      style: white
+      style: blue
       url: http://open.nlc.cn/onlineedu/client/index.htm
 
     - name: 网易大学
@@ -603,6 +602,7 @@
       url: http://www.shawprize.org/en/
 
     - name: 诺贝尔基金
+      icon: heart empty
       style: basic
       url: https://www.nobelprize.org/
 
@@ -667,7 +667,7 @@
       url: https://v.qq.com/x/search/?q=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&stag=txt.playpage.vppdesc
 
     - name: 古典舞《如梦令》
-      style: blue
+      style: pink
       url: https://www.bilibili.com/video/av16804529/
 
     - name: 党政办公室
@@ -802,7 +802,7 @@
       style: basic
       url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5.html
 
-    - name: 浏览结束，很抱歉让你看到下方的广告！
+    - name: 本站所收录网站至此完结，欢迎提交收录。另外，很抱歉让你看到下方的广告！
       style: black
       url: https://anyi.life/
 
