@@ -322,59 +322,130 @@
       style: basic
       url: https://www.zhihu.com/question/27952897
 
-  - category: 学术文化
+  - category: 学术文库
     links:
-    - name: 学信网
+    - name: 豆丁
       style: basic
-      url: https://www.chsi.com.cn/
+      url: http://www.docin.com/
 
-    - name: 考试院
+    - name: 360doc
       style: basic
-      url: http://www.hebeea.edu.cn/
+      url: http://www.360doc.com/index.html
 
-    - name: 教育厅
+    - name: 道客巴巴
       style: basic
-      url: http://www.hee.gov.cn/
+      url: http://www.doc88.com/
 
-    - name: 文化厅
+    - name: 爱问共享
       style: basic
-      url: http://www.hebwh.gov.cn/
+      url: http://ishare.iask.sina.com.cn/
 
-    - name: 文博网
+    - name: 科学文库
       style: basic
-      url: http://www.wenbo.cc/
+      url: http://book.sciencereading.cn/shop/main/Login/shopFrame.do
 
-    - name: 国家地理
+    - name: 丁香文档
       style: basic
-      url: https://www.nationalgeographic.com/
+      url: http://d.mdnews.cn/
 
-    - name: 网易探索
+    - name: 中商文库
       style: basic
-      url: http://discovery.163.com/
+      url: https://embedy.cc/http://wk.askci.com/
 
-    - name: 古籍保护网
+    - name: 百度文库
       style: basic
-      url: http://www.nlc.cn/pcab/
+      url: https://wenku.baidu.com/
 
-    - name: 汉学研究中心
+    - name: 维基文库
       style: basic
-      url: http://ccs.ncl.edu.tw/sitemap.aspx
+      url: https://zh.wikisource.org/zh-hans/Wikisource:%E9%A6%96%E9%A1%B5
 
-    - name: 名古屋研究室
+    - name: MNA智库
       style: basic
-      url: https://toyoshi.lit.nagoya-u.ac.jp/zh/subjects-zh/
+      url: https://doc.mbalib.com/
 
-    - name: 提交收录
-      style: black
-      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95.html
+    - name: 双红堂
+      style: basic
+      url: http://hong.ioc.u-tokyo.ac.jp/list.php
 
-    - name: 友链申请
-      style: black
-      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5.html
+    - name: IT168文库
+      style: basic
+      url: http://wenku.it168.com/
 
-    - name: 秉国风之宗旨立学术之文化！
+    - name: 中国课件网
+      style: basic
+      url: http://www.cnkjz.com/
+
+    - name: 中国论文网
+      style: basic
+      url: http://www.lunwencloud.com/
+
+    - name: Free academic exploration~
       style: white
-      url: https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%A2%A8_(%E5%AD%B8%E8%A1%93%E6%96%87%E5%8C%96)
+      url: https://anyi98.github.io/
+
+  - category: 学术数据
+    links:
+    - name: 标准网
+      icon: 
+      style: basic
+      url: http://www.standardcn.com/article/class_cx.asp?id=15&page=
+
+    - name: 世界银行
+      style: basic
+      url: http://www.shihang.org/
+
+    - name: 国家数据
+      style: basic
+      url: http://data.stats.gov.cn/
+
+    - name: 万方
+      style: white
+      url: http://g.wanfangdata.com.cn/index.html
+
+    - name: 超星
+      style: white
+      url:  http://www.chaoxing.com/
+
+    - name: 知网
+      style: white
+      url: http://www.cnki.net/
+
+    - name: 维普网
+      style: white
+      url:  http://www.cqvip.com/
+
+    - name: 中国科学院
+      style: basic
+      url: http://www.csdb.cn/
+
+    - name: WS世界科学
+      style: basic
+      url: https://www.worldscientific.com/
+
+    - name: 中国生命科学
+      style: basic
+      url: http://www.cba.ac.cn/
+
+    - name: NASA生命科学
+      style: basic
+      url: https://lsda.jsc.nasa.gov/
+
+    - name: 上图发现
+      style: basic
+      url: http://en.shl.findplus.cn/
+
+    - name: 国家版权局
+      style: basic
+      url: http://www.ncac.gov.cn/
+
+    - name: 文津搜素
+      style: basic
+      url: http://find.nlc.cn/
+
+    - name: 安逸丨世界的创新源于学术的探索！
+      style: white
+      url: https://anyi98.github.io/
 
   - category: 学术搜索
     links:
@@ -444,130 +515,59 @@
       style: white
       url: https://go.anyi.life
 
-  - category: 学术数据
+  - category: 学术文化
     links:
-    - name: 标准网
-      icon: 
+    - name: 学信网
       style: basic
-      url: http://www.standardcn.com/article/class_cx.asp?id=15&page=
+      url: https://www.chsi.com.cn/
 
-    - name: 世界银行
+    - name: 考试院
       style: basic
-      url: http://www.shihang.org/
+      url: http://www.hebeea.edu.cn/
 
-    - name: 国家数据
+    - name: 教育厅
       style: basic
-      url: http://data.stats.gov.cn/
+      url: http://www.hee.gov.cn/
 
-    - name: 万方
+    - name: 文化厅
+      style: basic
+      url: http://www.hebwh.gov.cn/
+
+    - name: 文博网
+      style: basic
+      url: http://www.wenbo.cc/
+
+    - name: 国家地理
+      style: basic
+      url: https://www.nationalgeographic.com/
+
+    - name: 网易探索
+      style: basic
+      url: http://discovery.163.com/
+
+    - name: 古籍保护网
+      style: basic
+      url: http://www.nlc.cn/pcab/
+
+    - name: 汉学研究中心
+      style: basic
+      url: http://ccs.ncl.edu.tw/sitemap.aspx
+
+    - name: 名古屋研究室
+      style: basic
+      url: https://toyoshi.lit.nagoya-u.ac.jp/zh/subjects-zh/
+
+    - name: 提交收录
+      style: black
+      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95.html
+
+    - name: 友链申请
+      style: black
+      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5.html
+
+    - name: 秉国风之宗旨立学术之文化！
       style: white
-      url: http://g.wanfangdata.com.cn/index.html
-
-    - name: 超星
-      style: white
-      url:  http://www.chaoxing.com/
-
-    - name: 知网
-      style: white
-      url: http://www.cnki.net/
-
-    - name: 维普网
-      style: white
-      url:  http://www.cqvip.com/
-
-    - name: 中国科学院
-      style: basic
-      url: http://www.csdb.cn/
-
-    - name: WS世界科学
-      style: basic
-      url: https://www.worldscientific.com/
-
-    - name: 中国生命科学
-      style: basic
-      url: http://www.cba.ac.cn/
-
-    - name: NASA生命科学
-      style: basic
-      url: https://lsda.jsc.nasa.gov/
-
-    - name: 上图发现
-      style: basic
-      url: http://en.shl.findplus.cn/
-
-    - name: 国家版权局
-      style: basic
-      url: http://www.ncac.gov.cn/
-
-    - name: 文津搜素
-      style: basic
-      url: http://find.nlc.cn/
-
-    - name: 安逸丨世界的创新源于学术的探索！
-      style: white
-      url: https://anyi98.github.io/
-
-  - category: 学术文库
-    links:
-    - name: 豆丁
-      style: basic
-      url: http://www.docin.com/
-
-    - name: 360doc
-      style: basic
-      url: http://www.360doc.com/index.html
-
-    - name: 道客巴巴
-      style: basic
-      url: http://www.doc88.com/
-
-    - name: 爱问共享
-      style: basic
-      url: http://ishare.iask.sina.com.cn/
-
-    - name: 科学文库
-      style: basic
-      url: http://book.sciencereading.cn/shop/main/Login/shopFrame.do
-
-    - name: 丁香文档
-      style: basic
-      url: http://d.mdnews.cn/
-
-    - name: 中商文库
-      style: basic
-      url: https://embedy.cc/http://wk.askci.com/
-
-    - name: 百度文库
-      style: basic
-      url: https://wenku.baidu.com/
-
-    - name: 维基文库
-      style: basic
-      url: https://zh.wikisource.org/zh-hans/Wikisource:%E9%A6%96%E9%A1%B5
-
-    - name: MNA智库
-      style: basic
-      url: https://doc.mbalib.com/
-
-    - name: 双红堂
-      style: basic
-      url: http://hong.ioc.u-tokyo.ac.jp/list.php
-
-    - name: IT168文库
-      style: basic
-      url: http://wenku.it168.com/
-
-    - name: 中国课件网
-      style: basic
-      url: http://www.cnkjz.com/
-
-    - name: 中国论文网
-      style: basic
-      url: http://www.lunwencloud.com/
-
-    - name: Free academic exploration~
-      style: white
-      url: https://anyi98.github.io/
+      url: https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%A2%A8_(%E5%AD%B8%E8%A1%93%E6%96%87%E5%8C%96)
 
   - category: 期刊基金
     links:
