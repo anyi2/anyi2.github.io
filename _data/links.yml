@@ -503,51 +503,63 @@
       style: white
       url: https://anyi98.github.io/
 
-  - category: 娱乐
+  - category: 学术文库
     links:
-    - name: 9GAG
+    - name: 豆丁
       style: basic
-      url: https://9gag.com/
+      url: http://www.docin.com/
 
-    - name: Reddit
+    - name: 360doc
       style: basic
-      url: https://www.reddit.com/
+      url: http://www.360doc.com/index.html
 
-    - name: Rabbit
+    - name: 道客巴巴
       style: basic
-      url: https://www.rabb.it/
+      url: http://www.doc88.com/
 
-    - name: fancy
+    - name: 爱问共享
       style: basic
-      url: https://fancy.com/
+      url: http://ishare.iask.sina.com.cn/
 
-    - name: 哔哩哔哩
-      style: pink
-      url: https://www.bilibili.com/
-
-    - name: NO视频
+    - name: 科学文库
       style: basic
-      url: http://www.novipnoad.com/
+      url: http://book.sciencereading.cn/shop/main/Login/shopFrame.do
 
-    - name: Find video
+    - name: 丁香文档
       style: basic
-      url: https://embedy.cc/
+      url: http://d.mdnews.cn/
 
-    - name: 美剧天堂
+    - name: 中商文库
       style: basic
-      url: http://www.meijutt.com/
+      url: https://embedy.cc/http://wk.askci.com/
 
-    - name: 6V电影网
+    - name: 百度文库
       style: basic
-      url: http://www.6vhao.tv/
+      url: https://wenku.baidu.com/
 
-    - name: BD影视网
+    - name: 维基文库
       style: basic
-      url: http://www.bd-film.co/
+      url: https://zh.wikisource.org/zh-hans/Wikisource:%E9%A6%96%E9%A1%B5
 
-    - name: FIX字幕侠
-      style: yellow
-      url: http://www.zimuxia.cn/
+    - name: MNA智库
+      style: basic
+      url: https://doc.mbalib.com/
+
+    - name: IT168文库
+      style: basic
+      url: http://wenku.it168.com/
+
+    - name: 双红堂文库
+      style: basic
+      url: http://hong.ioc.u-tokyo.ac.jp/list.php
+
+    - name: 中国课件网
+      style: basic
+      url: http://www.cnkjz.com/
+
+    - name: 中国论文网
+      style: basic
+      url: http://www.lunwencloud.com/
 
     - name: 感谢诸位的到来 为你提供最好的传送门
       style: white
@@ -567,6 +579,11 @@
       style: basic
       url: http://www.medsci.cn/sci/
 
+    - name: 中外电子文献资源导航
+      icon: code blue
+      style: basic
+      url: http://www.mynav.cn/shujuk/index.html
+
     - name: CNKI期刊
       style: basic
       url: http://cb.cnki.net/
@@ -576,29 +593,25 @@
       url: http://open.163.com/
 
     - name: CAlis联合
-      style: dgtle blue
+      style: basic
       url: http://opac.calis.edu.cn/opac/simpleSearch.do
 
     - name: 突破奖
-      style: baby blue
+      style: basic
       url: https://breakthroughprize.org/
 
     - name: CAlis高校
-      style: baby blue
+      style: basic
       url: http://www.calis.edu.cn/
 
-    - name: 中外电子文献资源导航
+    - name: 诺贝尔基金
       icon: code blue
       style: basic
-      url: http://www.mynav.cn/shujuk/index.html
+      url: https://www.nobelprize.org/
 
     - name: IEEE荣誉奖章
       style: basic
       url: https://www.ieee.org/
-
-    - name: 诺贝尔基金
-      style: basic
-      url: https://www.nobelprize.org/
 
     - name: 阿贝尔
       style: basic
