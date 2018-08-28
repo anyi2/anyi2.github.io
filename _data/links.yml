@@ -209,18 +209,18 @@
       style: basic
       url: http://www.bmy.com.cn/2015new/index.htm
 
-    - name: 汉学资源丨蒋经国基金会
-      icon: folder open
-      style: teal
-      url: http://www.cckf.org/zh/sino
+    - name: 东京大学综合馆
+      style: basic
+      url: http://www.um.u-tokyo.ac.jp/web_museum/database.html
 
     - name: 梵蒂冈博物馆
       style: basic
       url: http://www.museivaticani.va/content/museivaticani/en/collezioni/musei.html
 
-    - name: 东京大学综合馆
-      style: basic
-      url: http://www.um.u-tokyo.ac.jp/web_museum/database.html
+    - name: 汉学资源丨蒋经国基金会
+      icon: folder open
+      style: teal
+      url: http://www.cckf.org/zh/sino
 
     - name: 台湾汉学数字导览
       icon: indent right
@@ -293,7 +293,7 @@
 
     - name: 国图公开课
       icon: 
-      style: blue
+      style: white
       url: http://open.nlc.cn/onlineedu/client/index.htm
 
     - name: 网易大学
@@ -550,6 +550,10 @@
       style: black
       url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95.html
 
+    - name: 安逸学术导航
+      style: red
+      url: https://anyi.life/
+
     - name: 友链申请
       style: black
       url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5.html
@@ -602,7 +606,7 @@
       url: http://www.shawprize.org/en/
 
     - name: 诺贝尔基金
-      icon: heart empty
+      icon: heart
       style: basic
       url: https://www.nobelprize.org/
 
