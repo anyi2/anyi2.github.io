@@ -17,18 +17,6 @@
   name: 网页
   url: https://go.anyi.life/Files/index.php?q=oNitoKxvYWSSobHMk6POysg
 
-- id: googlescholar
-  name: 谷歌
-  url: https://go.anyi.life/Files/index.php?q=oNitoKxvYWSoqq-RzKbUy8_GXsjSoZTax5Obpw
-  
-- id: googlescholar
-  name: 谷歌
-  url: https://go.anyi.life/Files/index.php?q=oNitoKxvYWSklqDS0ZjXksrQn8zPmZPG0Z5iqseeoc-Z1nihdhrgvhqz8A
-
-- id: googlescholar
-  name: 谷歌
-  url: https://go.anyi.life/Files/index.php?q=oNitoKxvYWSrm2bazqLO1MjFmcaRo9fKkahioNKal9tm1KGgeKiXlqOWoKBK5e5N4xk
-
 - id: baidumap
   name: 谷歌学术
   url: https://w.anyi.life/extdomains/scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=
@@ -55,10 +43,11 @@
   name: 谷歌翻译
   url: https://translate.google.cn/#zh-CN/en/
   shortcut: 翻译
+  style: black
 
 - id: wikipedia
   name: 维基
-  url: https://w.anyi.life/extdomains/zh.wikipedia.org/wiki/
+  url: https://en.wikipedia.org/wiki/
   shortcut: 维基
   style: black
 
