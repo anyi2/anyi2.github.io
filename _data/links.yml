@@ -47,7 +47,7 @@
       url: http://ireadweek.com/index.php/Index/index.html
 
     - name: 爱如生
-      style: basic
+      style: teal
       url: http://forum.er07.com/
 
     - name: 有路网
@@ -73,7 +73,7 @@
       url: https://sou-yun.com/index.aspx
 
     - name: 书格
-      icon: google play
+      icon: book
       style: basic
       url: https://shuge.org/
 
@@ -87,8 +87,8 @@
       url: https://anyi.life/
 
     - name: 故宫Open Data
-      icon: search
-      style: basic
+      icon: twitter
+      style: snow
       url: http://ccs.ncl.edu.tw/sitemap.aspx
 
     - name: 故宫博物院丨探索
