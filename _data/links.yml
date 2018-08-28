@@ -397,14 +397,14 @@
       style: basic
       url: https://www.patexplorer.com/
 
-    - name: Epo专利
-      style: basic
-      url: https://www.epo.org/index.html
-
     - name: 谷歌专利
       icon: google
       style: basic
       url:  https://www.google.com/?tbm=pts
+
+    - name: Epo专利
+      style: basic
+      url: https://www.epo.org/index.html
 
     - name: 谷歌图书
       icon: google
@@ -432,6 +432,19 @@
 
   - category: 学术数据
     links:
+    - name: 标准网
+      icon: 
+      style: basic
+      url: http://www.standardcn.com/article/class_cx.asp?id=15&page=
+
+    - name: 世界银行
+      style: basic
+      url: http://www.shihang.org/
+
+    - name: 国家数据
+      style: basic
+      url: http://data.stats.gov.cn/
+
     - name: 万方
       style: blue
       url: http://g.wanfangdata.com.cn/index.html
@@ -447,19 +460,6 @@
     - name: 维普网
       style: red
       url:  http://www.cqvip.com/
-
-    - name: 标准网
-      icon: 
-      style: basic
-      url: http://www.standardcn.com/article/class_cx.asp?id=15&page=
-
-    - name: 世界银行
-      style: basic
-      url: http://www.shihang.org/
-
-    - name: 国家数据
-      style: basic
-      url: http://data.stats.gov.cn/
 
     - name: 中国科学院
       style: basic
@@ -489,6 +489,10 @@
       style: basic
       url: http://find.nlc.cn/
 
+    - name: 世界的创新源于学术的探索！
+      style: white
+      url: https://anyi98.github.io/
+
   - category: 期刊基金
     links:
     - name: OAlib
@@ -515,6 +519,10 @@
       style: dgtle blue
       url: http://opac.calis.edu.cn/opac/simpleSearch.do
 
+    - name: 突破奖
+      style: baby blue
+      url: https://breakthroughprize.org/
+
     - name: CAlis高校
       style: baby blue
       url: http://www.calis.edu.cn/
@@ -525,36 +533,32 @@
       url: http://www.mynav.cn/shujuk/index.html
 
     - name: IEEE荣誉奖章
-      style: dgtle blue
+      style: basic
       url: https://www.ieee.org/
 
     - name: 诺贝尔基金
-      style: red
+      style: basic
       url: https://www.nobelprize.org/
 
     - name: 阿贝尔
-      style: red
+      style: basic
       url: http://www.abelprize.no/
 
     - name: 图灵奖
-      style: black
+      style: basic
       url: https://awards.acm.org/
 
     - name: 邵逸夫
       icon: code blue
-      style: basic
+      style: black
       url: http://www.shawprize.org/en/
 
-    - name: 突破奖
-      style: baby blue
-      url: https://breakthroughprize.org/
-
     - name: 唐奖
-      style: red
+      style: basic
       url: http://www.tang-prize.org/first.php
 
     - name: 儒莲奖
-      style: black
+      style: basic
       url: https://zh.wikipedia.org/wiki/%E5%84%92%E8%8E%B2%E5%A5%96
 
   - category: 娱乐
@@ -624,7 +628,7 @@
       url: http://www.hebart.com/jwc/
 
     - name: 招生网
-      style: blue
+      style: basic
       url: http://www.hebart.com/zsw/
 
     - name: 文管系
