@@ -95,7 +95,17 @@
     - name: 中华珍宝馆
       style: basic
       url: http://ltfc.net/
- 
+
+    - name: 故宫Open Data
+      icon: search
+      style: basic
+      url: http://ccs.ncl.edu.tw/sitemap.aspx
+
+    - name: 故宫博物院丨探索
+      icon: app store
+      style: basic
+      url: http://sinology.ascdc.sinica.edu.tw/index.html
+
   - category: 图书馆
     links:
     - name: 大英图书馆
@@ -165,7 +175,7 @@
   - category: 博物馆
     links:
     - name: 卢浮宫
-      style: black
+      style: basic
       url: https://www.louvre.fr/
 
     - name: 东京国立
@@ -173,7 +183,6 @@
       url: https://www.tnm.jp/modules/r_free_page/index.php?id=162
 
     - name: 韩国国博
-      icon: app store
       style: basic
       url: http://www.emuseum.go.kr/main
 
@@ -195,30 +204,34 @@
 
     - name: 北京故宫博物院
       icon: app store
-      style: black
+      style: basic
       url: http://www.dpm.org.cn/explore/collections.html
 
     - name: 国立故宫博物院
       icon: app store
-      style: black
+      style: basic
       url: http://south.npm.gov.tw/zh-TW/SiteMap
 
     - name: 中国国家博物馆
       style: basic
       url: http://www.chnmuseum.cn/default.aspx?AspxAutoDetectCookieSupport=1
 
-    - name: 梵蒂冈博物馆
-      style: basic
-      url: http://www.museivaticani.va/content/museivaticani/en/collezioni/musei.html
-
     - name: 秦始皇帝陵
       style: basic
       url: http://www.bmy.com.cn/2015new/index.htm
+
+    - name: 梵蒂冈博物馆
+      style: basic
+      url: http://www.museivaticani.va/content/museivaticani/en/collezioni/musei.html
 
     - name: 东京大学综合馆
       icon: google play
       style: basic
       url: http://www.um.u-tokyo.ac.jp/web_museum/database.html
+
+    - name: 汉学资源丨蒋经国基金会
+      style: basic
+      url: http://www.cckf.org/zh/sino
 
 - section: public
   categories:
@@ -340,16 +353,6 @@
     - name: 名古屋研究室
       style: basic
       url: https://toyoshi.lit.nagoya-u.ac.jp/zh/subjects-zh/
-
-    - name: 故宫Open Data
-      icon: search
-      style: blue
-      url: http://ccs.ncl.edu.tw/sitemap.aspx
-
-    - name: 故宫博物院丨探索
-      icon: app store
-      style: basic
-      url: http://sinology.ascdc.sinica.edu.tw/index.html
 
     - name: 提交收录
       style: black
@@ -668,7 +671,7 @@
       style: red
       url: http://www.hebart.com/dzb/
 
-    - name: 寥寥无几，何以隽永？
+    - name: Literary youths are moving forward here!
       style: white
       url: https://anyi98.github.io/
 
@@ -710,10 +713,6 @@
       icon: app weibo
       style: basic
       url: http://ccs.ncl.edu.tw/sitemap.aspx
-
-    - name: 汉学资源丨蒋经国基金会
-      style: basic
-      url: http://www.cckf.org/zh/sino
 
     - name: 世界数位图书馆
       style: basic
