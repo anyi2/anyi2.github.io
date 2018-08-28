@@ -222,7 +222,7 @@
 
     - name: 汉学资源丨蒋经国基金会
       icon: folder open
-      style: white
+      style: basic
       url: http://www.cckf.org/zh/sino
 
     - name: 梵蒂冈博物馆
@@ -496,7 +496,7 @@
       url: http://en.shl.findplus.cn/
 
     - name: 国家版权局
-      style: white
+      style: basic
       url: http://www.ncac.gov.cn/
 
     - name: 文津搜素
@@ -608,14 +608,14 @@
       style: basic
       url: http://www.calis.edu.cn/
 
+    - name: IEEE荣誉奖章
+      style: basic
+      url: https://www.ieee.org/
+
     - name: 诺贝尔基金
       icon: code blue
       style: basic
       url: https://www.nobelprize.org/
-
-    - name: IEEE荣誉奖章
-      style: basic
-      url: https://www.ieee.org/
 
     - name: 阿贝尔
       style: basic
@@ -703,7 +703,7 @@
       url: https://www.bilibili.com/video/av16804529/
 
     - name: 党政办公室
-      style: red
+      style: basic
       url: http://www.hebart.com/dzb/
 
     - name: Literary youths are moving forward here!
@@ -712,53 +712,6 @@
 
   - category: 古籍影像
     links:
-    - name: 巴伐利亚数字库
-      icon: app store
-      style: basic
-      url: https://ostasien.digitale-sammlungen.de/;jsessionid=47DBECBC531FC5C93346818508B04D64?locale=zh_TW
-
-    - name: 东京大学善本库
-      icon: google play
-      style: basic
-      url: http://shanben.ioc.u-tokyo.ac.jp/list.php
-
-    - name: 京都大学拓本库
-      icon: app store
-      style: basic
-      url: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/imgsrv/takuhon/index.html
-
-    - name: 名古屋研究室
-      style: basic
-      url: https://toyoshi.lit.nagoya-u.ac.jp/zh/subjects-zh/
-
-    - name: 郭店楚简资料库
-      style: basic
-      url: http://bamboo.lib.cuhk.edu.hk/
-
-    - name: 澳门大学古籍影像
-      icon: app store
-      style: basic
-      url: http://libdigital.umac.mo/was5/digital/chinese_rarebook.jsp?iPage=1
-
-    - name: 汉学研究中心
-      icon: app weibo
-      style: basic
-      url: http://ccs.ncl.edu.tw/sitemap.aspx
-
-    - name: 世界数位图书馆
-      style: basic
-      url: http://cul.sohu.com/
-
-    - name: 东京大学善本库
-      icon: google play
-      style: basic
-      url: http://shanben.ioc.u-tokyo.ac.jp/list.php
-
-    - name: 京都大学拓本库
-      icon: google play
-      style: basic
-      url: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/imgsrv/takuhon/index.html
-
     - name: 古籍文献库检索
       icon: app store
       style: basic
@@ -776,17 +729,23 @@
       style: basic
       url: https://ctext.org/zhs
 
-    - name: 日本数字档案馆
+    - name: 郭店楚简资料库
       style: basic
-      url: https://www.digital.archives.go.jp/index_e.html
+      url: http://bamboo.lib.cuhk.edu.hk/
 
-    - name: 日本浮世绘资源
+    - name: 巴伐利亚数字库
+      icon: app store
       style: basic
-      url: https://ukiyo-e.org/
+      url: https://ostasien.digitale-sammlungen.de/;jsessionid=47DBECBC531FC5C93346818508B04D64?locale=zh_TW
 
-    - name: 日本国图数字馆
-      style: black
-      url: http://dl.ndl.go.jp/
+    - name: 东京国立画像检索
+      style: basic
+      url: https://webarchives.tnm.jp/imgsearch/
+
+    - name: 澳门大学古籍影像
+      icon: app store
+      style: basic
+      url: http://libdigital.umac.mo/was5/digital/chinese_rarebook.jsp?iPage=1
 
     - name: 普林斯顿数字馆
       style: basic
@@ -796,9 +755,31 @@
       style: basic
       url: https://ctext.org/zhs
 
-    - name: 东京国立画像检索
+    - name: 东京大学善本库
+      icon: google play
       style: basic
-      url: https://webarchives.tnm.jp/imgsearch/
+      url: http://shanben.ioc.u-tokyo.ac.jp/list.php
+
+    - name: 京都大学拓本库
+      icon: app store
+      style: basic
+      url: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/imgsrv/takuhon/index.html
+
+    - name: 世界数位图书馆
+      style: basic
+      url: http://cul.sohu.com/
+
+    - name: 日本数字档案馆
+      style: basic
+      url: https://www.digital.archives.go.jp/index_e.html
+
+    - name: 日本浮世绘资源
+      style: basic
+      url: https://ukiyo-e.org/
+
+    - name: 日本国图数字馆
+      style: basic
+      url: http://dl.ndl.go.jp/
 
   - category: 冗杂
     links:
