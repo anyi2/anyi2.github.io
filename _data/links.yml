@@ -73,6 +73,16 @@
       style: basic
       url: http://dsr.nii.ac.jp/
 
+    - name: 上图发现
+      style: basic
+      url: http://en.shl.findplus.cn/
+      
+    - name: 文津搜素
+      style: basic
+      url: http://find.nlc.cn/
+
+
+
   - category: 图书馆
     links:
     - name: 大英图书馆
@@ -92,7 +102,7 @@
       url: https://www.ncl.edu.tw/
 
     - name: 世界数字图书馆
-      icon: institution black
+      icon: bank black
       style: basic
       url: https://www.wdl.org/zh/
 
@@ -556,7 +566,7 @@
       url: http://opac.calis.edu.cn/opac/simpleSearch.do
 
     - name: 突破奖
-      style: basic
+      style: teal
       url: https://breakthroughprize.org/
 
     - name: CAlis高校
@@ -564,11 +574,12 @@
       url: http://www.calis.edu.cn/
 
     - name: 邵逸夫奖
+      icon: user o
       style: basic
       url: http://www.shawprize.org/en/
 
     - name: 诺贝尔基金
-      icon: heart
+      icon: heart red
       style: basic
       url: https://www.nobelprize.org/
 
@@ -607,10 +618,6 @@
     - name: 河艺贴吧
       style: basic
       url: http://dq.tieba.com/f?kw=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&fr=home
-
-    - name: 河艺脸书
-      style: basic
-      url: https://www.facebook.com/pages/河北艺术职业学院/168319443197715
 
     - name: 河艺领英
       style: basic
