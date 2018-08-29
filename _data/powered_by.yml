@@ -1,20 +1,17 @@
-- name: Jekyll
-  url: https://jekyllrb.com/
+- name: 搜素
+  url: https://so.anyi.life/
 
-- name: Matomo
-  url: https://matomo.org/
+- name: 休闲
+  url: https://vps.anyi.life/
 
-- name: Hitokoto
-  url: https://hitokoto.cn/api
+- name: 探索
+  url: https://go.anyi.life/
 
-- name: Shields.io
-  url: https://shields.io/
+- name: 安逸博客
+  url: https://blog.anyi.life/
 
-- name: GitHub Pages
-  url: https://pages.github.com/
+- name: Tumblr
+  url: https://www.ay-doug.tumblr.com
 
-- name: Open source comes from
-  url: https://github.com/BYR-Navi/BYR-Navi
-
-- name: Here is BYR"s home page
-  url: https://github.com/BYR-Navi/BYR-Navi
+- name: Twitter
+  url: https://twitter.com/g30711
