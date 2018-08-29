@@ -10,6 +10,16 @@
       style: basic
       url: http://www.hanjilibrary.cn/
 
+  - category: 国风
+    links:
+    - name: 汉典
+      style: basic
+      url: http://www.zdic.net/
+
+    - name: 汉籍
+      style: basic
+      url: http://www.hanjilibrary.cn/
+
     - name: 词源
       style: basic
       url: http://www.zhongwen.com/
