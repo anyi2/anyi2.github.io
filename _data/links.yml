@@ -92,7 +92,7 @@
       url: https://www.ncl.edu.tw/
 
     - name: 世界数字图书馆
-      icon:  institution
+      icon: institution black
       style: basic
       url: https://www.wdl.org/zh/
 
@@ -138,11 +138,7 @@
       style: basic
       url: https://www.louvre.fr/
 
-    - name: 东京国立
-      style: basic
-      url: https://www.tnm.jp/modules/r_free_page/index.php?id=162
-
-    - name: 秦始皇帝陵
+    - name: 秦皇陵
       style: basic
       url: http://www.bmy.com.cn/2015new/index.htm
 
@@ -184,21 +180,6 @@
       style: basic
       url: http://www.um.u-tokyo.ac.jp/web_museum/database.html
 
-    - name: 汉学资源丨蒋经国基金会
-      icon: folder open
-      style: red
-      url: http://www.cckf.org/zh/sino
-
-    - name: 台湾汉学数字导览
-      icon: indent right
-      style: basic
-      url: http://sinology.ascdc.sinica.edu.tw/index.html
-
-    - name: 国际汉学研究数字资源
-      icon: indent left
-      style: basic
-      url: http://ccs.ncl.edu.tw/DR/tw/index
-
   - category: 学衡
     links:
     - name: 双红堂
@@ -222,23 +203,33 @@
       url: http://www.historychina.net/#stepflow03
 
     - name: 中华文化总会
-      style: white
+      style: basic
       url: http://www.gacc.org.tw/
 
-    - name: AnYi-Navi·学术导航
-      icon: book
-      style: black
-      url: https://anyi.life/
+    - name: 汉学资源丨蒋经国基金会
+      icon: folder open
+      style: basic
+      url: http://www.cckf.org/zh/sino
 
-    - name: 故宫博物院丨探索
+    - name: 故宫丨探索
       icon: app store
       style: basic
       url: http://sinology.ascdc.sinica.edu.tw/index.html
 
     - name: 故宫 Open Data
-      icon: twitter
+      icon: twitter black
       style: basic
       url: http://ccs.ncl.edu.tw/sitemap.aspx
+
+    - name: 台湾汉学数字导览
+      icon: indent right
+      style: basic
+      url: http://sinology.ascdc.sinica.edu.tw/index.html
+
+    - name: 国际汉学研究数字资源
+      icon: indent left
+      style: basic
+      url: http://ccs.ncl.edu.tw/DR/tw/index
 
 - section: public
   categories:
@@ -440,7 +431,7 @@
       url: http://xueshu.baidu.com/
 
     - name: 谷歌学术
-      icon: google
+      icon: google blue
       style: basic
       url: https://scholar.google.com.hk/?hl=zh-CN
 
@@ -463,23 +454,18 @@
       style: basic
       url: http://www.patent.com.cn/
 
+    - name: Epo专利
+      style: basic
+      url: https://www.epo.org/index.html
+
     - name: Pat专利
       style: basic
       url: https://www.patexplorer.com/
 
     - name: 谷歌专利
-      icon: google
+      icon: google red
       style: basic
       url:  https://www.google.com/?tbm=pts
-
-    - name: Epo专利
-      style: basic
-      url: https://www.epo.org/index.html
-
-    - name: 谷歌图书
-      icon: google
-      style: basic
-      url: https://books.google.com/?hl=zh-CN
 
     - name: Soopat专利
       icon: search
