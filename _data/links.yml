@@ -92,6 +92,7 @@
       url: https://www.ncl.edu.tw/
 
     - name: 世界数字图书馆
+      icon: bank (alias)
       style: basic
       url: https://www.wdl.org/zh/
 
