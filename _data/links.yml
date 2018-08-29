@@ -407,17 +407,9 @@
       style: basic
       url: https://lsda.jsc.nasa.gov/
 
-    - name: 上图发现
-      style: blue
-      url: http://en.shl.findplus.cn/
-
     - name: 国家版权局
       style: red
       url: http://www.ncac.gov.cn/
-
-    - name: 文津搜素
-      style: blue
-      url: http://find.nlc.cn/
 
     - name: 安逸丨世界的创新源于学术的探索！
       style: white
@@ -479,7 +471,7 @@
 
     - name: 维基百科
       icon: wikipedia w black
-      style: basic
+      style: blue
       url: https://www.wikipedia.org/
 
     - name: Mirror and proxy are here~
@@ -608,10 +600,6 @@
       style: basic
       url: http://www.hebart.com/wdx/
 
-    - name: 文化管理系
-      style: basic
-      url: http://www.hebart.com/whgl/
-
     - name: 百科详情
       style: basic
       url: https://baike.baidu.com/item/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2
@@ -627,14 +615,6 @@
     - name: 河艺领英
       style: basic
       url: https://www.linkedin.com/school/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2/
-
-    - name: Apple APP
-      style: basic
-      url: https://itunes.apple.com/cn/app/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2/id1273630272?mt=8
-
-    - name: 小米商店 APP
-      style: basic
-      url: http://app.mi.com/details?id=com.yunzainfo.hebeiyishu
 
     - name: 腾讯视频 相关
       style: basic
