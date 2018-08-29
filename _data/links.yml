@@ -190,6 +190,10 @@
       style: basic
       url: http://www.um.u-tokyo.ac.jp/web_museum/database.html
 
+    - name: 链接失效或与内容不符，请联系修改
+      style: white
+      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E.html
+
   - category: 学衡
     links:
     - name: 双红堂
@@ -228,7 +232,7 @@
 
     - name: 故宫 Open Data
       icon: twitter black
-      style: basic
+      style: red
       url: http://ccs.ncl.edu.tw/sitemap.aspx
 
     - name: 台湾汉学数字导览
@@ -481,7 +485,7 @@
 
     - name: 维基百科
       icon: wikipedia w black
-      style: blue
+      style: basic
       url: https://www.wikipedia.org/
 
     - name: Mirror and proxy are here~
@@ -681,11 +685,6 @@
       style: basic
       url: http://hanji.sinica.edu.tw/index.html
 
-    - name: 柏林数字馆资源
-      icon: app store
-      style: basic
-      url: https://ctext.org/zhs
-
     - name: 东京大学善本库
       style: basic
       url: http://shanben.ioc.u-tokyo.ac.jp/list.php
@@ -695,10 +694,6 @@
       style: basic
       url: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/imgsrv/takuhon/index.html
 
-    - name: 日本数字档案馆
-      style: basic
-      url: https://www.digital.archives.go.jp/index_e.html
-
     - name: 日本浮世绘资源
       style: teal
       url: https://ukiyo-e.org/
@@ -707,9 +702,9 @@
       style: blue
       url: http://dl.ndl.go.jp/
 
-    - name: 世界数位图书馆
+    - name: 日本数字档案馆
       style: basic
-      url: http://cul.sohu.com/
+      url: https://www.digital.archives.go.jp/index_e.html
 
   - category: 冗杂之所
     links:
