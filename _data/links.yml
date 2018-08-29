@@ -36,7 +36,7 @@
 
     - name: 小书屋
       icon: home
-      style: basic
+      style: blue
       url: http://mebook.cc/
 
     - name: 爱如生
@@ -92,7 +92,7 @@
       url: https://www.ncl.edu.tw/
 
     - name: 世界数字图书馆
-      icon: bank
+      icon:  institution
       style: basic
       url: https://www.wdl.org/zh/
 
