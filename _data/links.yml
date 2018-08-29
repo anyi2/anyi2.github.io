@@ -30,35 +30,22 @@
       style: basic
       url: http://er07.com/
 
-    - name: 丝绸之路
-      style: basic
-      url: http://dsr.nii.ac.jp/
-
     - name: 书伴
       style: basic
       url: https://bookfere.com/novice
 
     - name: 小书屋
+      icon: home
       style: basic
       url: http://mebook.cc/
 
-    - name: 周读
-      icon: google play
-      style: basic
-      url: http://ireadweek.com/index.php/Index/index.html
-
     - name: 爱如生
-      style: blue
+      style: basic
       url: http://forum.er07.com/
 
-    - name: 孔夫子
-      icon: google play
+    - name: 周读
       style: basic
-      url: https://m.kongfz.com/shop/
-
-    - name: 有路网
-      style: basic
-      url: http://www.youlu.net/
+      url: http://ireadweek.com/index.php/Index/index.html
 
     - name: 道印
       style: basic
@@ -72,6 +59,19 @@
       icon: book
       style: basic
       url: https://shuge.org/
+
+    - name: 有路网
+      style: basic
+      url: http://www.youlu.net/
+
+    - name: 孔夫子
+      icon: google play
+      style: basic
+      url: https://m.kongfz.com/shop/
+
+    - name: 丝绸之路
+      style: basic
+      url: http://dsr.nii.ac.jp/
 
   - category: 图书馆
     links:
@@ -92,7 +92,7 @@
       url: https://www.ncl.edu.tw/
 
     - name: 世界数字图书馆
-      icon: bank (alias)
+      icon: bank
       style: basic
       url: https://www.wdl.org/zh/
 
