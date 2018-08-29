@@ -108,13 +108,17 @@
       style: basic
       url: https://www.bl.uk/catalogues-and-collections/digital-collections
 
+    - name: 哈佛图书馆
+      style: basic
+      url: https://library.harvard.edu/
+
     - name: 牛津大学图书馆
       style: basic
       url: http://digital.bodleian.ox.ac.uk/
 
-    - name: 哈佛图书馆
+    - name: 互联网档案馆
       style: basic
-      url: https://library.harvard.edu/
+      url: https://archive.org/
 
     - name: 哈佛丨中国研究
       style: orange
@@ -123,10 +127,6 @@
     - name: 日本国会图书馆
       style: basic
       url: http://www.ndl.go.jp/jp/use/service/index.html
-
-    - name: 互联网档案馆
-      style: basic
-      url: https://archive.org/
 
     - name: Literary youths are moving forward here!
       style: white
@@ -142,13 +142,25 @@
       style: basic
       url: https://www.tnm.jp/modules/r_free_page/index.php?id=162
 
-    - name: 韩国国博
+    - name: 秦始皇帝陵
       style: basic
-      url: http://www.emuseum.go.kr/main
+      url: http://www.bmy.com.cn/2015new/index.htm
 
     - name: 大英博物馆
       style: basic
       url: https://www.britishmuseum.org/research/collection_online/search.aspx
+
+    - name: 梵蒂冈博物馆
+      style: basic
+      url: http://www.museivaticani.va/content/museivaticani/en/collezioni/musei.html
+
+    - name: 中国国家博物馆
+      style: basic
+      url: http://www.chnmuseum.cn/default.aspx?AspxAutoDetectCookieSupport=1
+
+    - name: 河北博物院
+      style: basic
+      url: http://bwy.hbdjdz.com/
 
     - name: 上海博物馆
       style: basic
@@ -158,35 +170,19 @@
       style: basic
       url: http://www.hbww.org/Views/CollectionIndex.aspx?PNo=Collection&No=Collection&type=Default
 
-    - name: 河北博物院
-      style: basic
-      url: http://bwy.hbdjdz.com/
-
     - name: 北京故宫博物院
       icon: app store
       style: basic
       url: http://www.dpm.org.cn/explore/collections.html
 
-    - name: 国立故宫博物院
-      icon: app store
+    - name: 台北国立故宫博物院
+      icon: app store red
       style: basic
       url: http://south.npm.gov.tw/zh-TW/SiteMap
-
-    - name: 中国国家博物馆
-      style: basic
-      url: http://www.chnmuseum.cn/default.aspx?AspxAutoDetectCookieSupport=1
-
-    - name: 秦始皇帝陵
-      style: basic
-      url: http://www.bmy.com.cn/2015new/index.htm
 
     - name: 东京大学综合馆
       style: basic
       url: http://www.um.u-tokyo.ac.jp/web_museum/database.html
-
-    - name: 梵蒂冈博物馆
-      style: basic
-      url: http://www.museivaticani.va/content/museivaticani/en/collezioni/musei.html
 
     - name: 汉学资源丨蒋经国基金会
       icon: folder open
