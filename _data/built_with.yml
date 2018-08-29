@@ -1,23 +1,8 @@
-- name: url.js
-  url: https://github.com/websanova/js-url
+- name: 北邮人
+  url: https://byr-navi.com/
 
-- name: jQuery
-  url: https://jquery.com/
+- name: 钛导航
+  url: https://web.geekji.cn/
 
-- name: Moment.js
-  url: https://momentjs.com/
-
-- name: ECharts
-  url: http://echarts.baidu.com/
-
-- name: CountUp.js
-  url: https://inorganik.github.io/countUp.js/
-
-- name: Fomantic UI
-  url: https://fomantic-ui.com/
-
-- name: JavaScript Cookie
-  url: https://github.com/js-cookie/js-cookie
-
-- name: jQuery.countdown
-  url: https://hilios.github.io/jQuery.countdown/
+- name: 安逸博客
+  url: https://blog.anyi.life/
