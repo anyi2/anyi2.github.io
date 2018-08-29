@@ -10,16 +10,6 @@
       style: basic
       url: http://www.hanjilibrary.cn/
 
-  - category: 国风
-    links:
-    - name: 汉典
-      style: basic
-      url: http://www.zdic.net/
-
-    - name: 汉籍
-      style: basic
-      url: http://www.hanjilibrary.cn/
-
     - name: 词源
       style: basic
       url: http://www.zhongwen.com/
@@ -54,10 +44,11 @@
 
     - name: 周读
       icon: google play
+      style: basic
       url: http://ireadweek.com/index.php/Index/index.html
 
     - name: 爱如生
-      style: teal
+      style: blue
       url: http://forum.er07.com/
 
     - name: 孔夫子
@@ -68,10 +59,6 @@
     - name: 有路网
       style: basic
       url: http://www.youlu.net/
-
-    - name: 西历转换
-      style: basic
-      url: http://sinocal.sinica.edu.tw/
 
     - name: 道印
       style: basic
@@ -85,29 +72,6 @@
       icon: book
       style: basic
       url: https://shuge.org/
-
-    - name: 中华珍宝馆
-      style: basic
-      url: http://ltfc.net/
-
-    - name: 中华文史网
-      style: basic
-      url: http://www.historychina.net/#stepflow03
-
-    - name: AnYi-Navi·学术导航
-      icon: book
-      style: black
-      url: https://anyi.life/
-
-    - name: 故宫博物院丨探索
-      icon: app store
-      style: basic
-      url: http://sinology.ascdc.sinica.edu.tw/index.html
-
-    - name: 故宫 Open Data
-      icon: twitter
-      style: basic
-      url: http://ccs.ncl.edu.tw/sitemap.aspx
 
   - category: 图书馆
     links:
@@ -147,10 +111,6 @@
       style: basic
       url: http://digital.bodleian.ox.ac.uk/
 
-    - name: 古登堡中文
-      style: basic
-      url: http://www.gutenberg.org/browse/languages/zh
-
     - name: 哈佛图书馆
       style: basic
       url: https://library.harvard.edu/
@@ -166,10 +126,6 @@
     - name: 互联网档案馆
       style: basic
       url: https://archive.org/
-
-    - name: 中华文化总会
-      style: white
-      url: http://www.gacc.org.tw/
 
     - name: Literary youths are moving forward here!
       style: white
@@ -245,6 +201,47 @@
       icon: indent left
       style: basic
       url: http://ccs.ncl.edu.tw/DR/tw/index
+
+  - category: 学衡
+    links:
+    - name: 双红堂
+      style: basic
+      url: http://hong.ioc.u-tokyo.ac.jp/list.php
+
+    - name: 西历转换
+      style: basic
+      url: http://sinocal.sinica.edu.tw/
+
+    - name: 古登堡中文
+      style: basic
+      url: http://www.gutenberg.org/browse/languages/zh
+
+    - name: 中华珍宝馆
+      style: basic
+      url: http://ltfc.net/
+
+    - name: 中华文史网
+      style: basic
+      url: http://www.historychina.net/#stepflow03
+
+    - name: 中华文化总会
+      style: white
+      url: http://www.gacc.org.tw/
+
+    - name: AnYi-Navi·学术导航
+      icon: book
+      style: black
+      url: https://anyi.life/
+
+    - name: 故宫博物院丨探索
+      icon: app store
+      style: basic
+      url: http://sinology.ascdc.sinica.edu.tw/index.html
+
+    - name: 故宫 Open Data
+      icon: twitter
+      style: basic
+      url: http://ccs.ncl.edu.tw/sitemap.aspx
 
 - section: public
   categories:
@@ -367,21 +364,9 @@
       style: basic
       url: https://doc.mbalib.com/
 
-    - name: 双红堂
-      style: basic
-      url: http://hong.ioc.u-tokyo.ac.jp/list.php
-
     - name: IT168文库
       style: basic
       url: http://wenku.it168.com/
-
-    - name: 中国课件网
-      style: basic
-      url: http://www.cnkjz.com/
-
-    - name: 中国论文网
-      style: basic
-      url: http://www.lunwencloud.com/
 
     - name: Free academic exploration~
       style: white
@@ -559,18 +544,6 @@
     - name: 名古屋研究室
       style: basic
       url: https://toyoshi.lit.nagoya-u.ac.jp/zh/subjects-zh/
-
-    - name: 提交收录
-      style: black
-      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95.html
-
-    - name: 安逸学术导航
-      style: teal
-      url: https://anyi.life/
-
-    - name: 友链申请
-      style: black
-      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5.html
 
     - name: 秉国风之宗旨立学术之文化！
       style: white
@@ -770,11 +743,6 @@
 
   - category: 冗杂之所
     links:
-    - name: 休闲
-      icon: music
-      style: basic
-      url: https://vps.anyi.life
-
     - name: 论坛
       icon: user
       style: basic
@@ -785,30 +753,10 @@
       style: basic
       url: https://so.anyi.life/
 
-    - name: 镜像
-      icon: zoom-in
-      style: basic
-      url: https://w.anyi.life/
-
     - name: 探索
       icon: google
       style: basic
       url: https://go.anyi.life/
-
-    - name: 安逸导航
-      icon: bookmark
-      style: basic
-      url: https://anyi.life/
-
-    - name: 安逸博客
-      icon: bold
-      style: basic
-      url: http://blog.anyi.life/
-
-    - name: 安逸餘生
-      icon: app weibo
-      style: basic
-      url: https://weibo.com/5592630806/profile?topnav=1&wvr=6&is_all=1
 
     - name: 提交收录网站
       icon: envelope
@@ -821,7 +769,8 @@
       url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5.html
 
     - name: 本站所收录网站至此完结，欢迎提交收录。另外，很抱歉让你看到下方的广告！
-      style: black
+      icon: github black
+      style: basic
       url: https://anyi.life/
 
     - name: The website is maintained by ANYI!
