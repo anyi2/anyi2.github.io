@@ -26,10 +26,6 @@
   # shortcut: 维基
   # style: black
 
-- id: gmail
-  name: 谷歌邮箱
-  url: https://webrecorder.io/temp-WMOMU7PV/temp/hzyaqyccsltlpvh2/record/20180830093934/https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin
-
 - id: googletranslate
   name: 谷歌翻译
   url: https://translate.google.cn/#zh-CN/en/
@@ -60,12 +56,6 @@
   shortcut: Ceek
   style: black
 
-- id: Yandex
-  name: Yandex
-  url: https://yandex.ru/search/?lr=111460&text=
-  shortcut: Yand
-  style: black
-
 - id: Quora
   name: Quora
   url: https://www.quora.com/search?q=
@@ -75,6 +65,12 @@
   name: Qwant
   url: https://www.qwant.com/?q=
   suffix: "&t=web"
+
+- id: Yandex
+  name: Yandex
+  url: https://yandex.ru/search/?lr=111460&text=
+  shortcut: Yand
+  style: black
 
 - id: github
   name: Github
@@ -99,7 +95,7 @@
 
 - id: archive
   name: Archive
-  url: https://webrecorder.io/temp-WMOMU7PV/temp/hzyaqyccsltlpvh2/record/https://archive.org/search.php?query=
+  url: https://archive.org/search.php?query=
   style: black
 
 - id: Librivox
