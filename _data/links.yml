@@ -683,7 +683,7 @@
 
     - name: 普林斯顿数字馆
       style: basic
-      url: http://hanji.sinica.edu.tw/index.html
+      url: http://pudl.princeton.edu/
 
     - name: 东京大学善本库
       style: basic
