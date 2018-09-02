@@ -1,29 +1,8 @@
-- name: 北邮人
-  url: https://byr-navi.com/
+- name: 捐赠
+  url: https://blog.anyi.life/%E2%9D%A4%E6%8D%90%E8%B5%A0.html
 
-- name: 钛导航
-  url: https://web.geekji.cn/
+- name: 搜索框
+  url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E6%90%9C%E7%B4%A2%E6%A1%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%81%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi-%E5%9C%A8%E6%AD%A4%E5%AF%BB%E8%A7%85.html
 
-- name: 芸导航
-  url: https://www.iosx.top/
-
-- name: GY导航
-  url: http://nav.ailuoku6.top/
-
-- name: GitNavi 
-  url: http://www.gitnavi.com
-
-- name: 爱达导航
-  url: https://ada97.com/
-
-- name: 小呆导航
-  url: http://webjike.com
-
-- name: 龙喵导航
-  url: http://longmiao.wang/
-
-- name: 关于我们
-  url: http://www.guanyuwomen.com/
-
-- name: 绿狐导航 
-  url: http://www.lvfox.cn/
+- name: 安逸博客
+  url: https://blog.anyi.life
