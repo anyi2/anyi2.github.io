@@ -733,7 +733,7 @@
       style: basic
       url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5.html
 
-    - name: 本站所收录网站至此完结，欢迎提交收录。另外，很抱歉让你看到下方的广告！
+    - name: 本站所收录网站至此完结，欢迎提交收录。另外，很抱歉让你看到来自GOOGLE的广告。
       icon: github black
       style: basic
       url: https://anyi.life/
@@ -744,7 +744,7 @@
 
 - section: friend
   categories:
-  - category: 友链~安逸的朋友们~
+  - category: 友链~安逸的朋友们
     links:
     - name: 北邮人
       style: basic
