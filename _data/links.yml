@@ -741,3 +741,12 @@
     - name: The website is maintained by ANYI!
       style: white
       url: https://blog.anyi.life/
+
+- section: hyr
+  categories:
+  - category: 河艺校园
+    links:
+    - name: 河艺官网
+      style: basic
+      url: http://www.hebart.com/
+
