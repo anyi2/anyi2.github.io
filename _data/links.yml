@@ -742,11 +742,54 @@
       style: white
       url: https://blog.anyi.life/
 
-- section: hyr
+- section: friend
   categories:
-  - category: 河艺校园
+  - category: 友链~安逸的朋友们~
     links:
-    - name: 河艺官网
+    - name: 北邮人
       style: basic
-      url: http://www.hebart.com/
+      url: https://byr-navi.com/
 
+    - name: 钛导航
+      style: basic
+      url: https://web.geekji.cn/
+
+    - name: 芸导航
+      style: basic
+      url: https://www.iosx.top/
+
+    - name: 不死鸟
+      style: basic
+      url: https://lai.yuweining.cn/
+
+    - name: 前端氪
+      style: basic
+      url: https://csskr.com/
+
+    - name: GY导航
+      style: basic
+      url: http://nav.ailuoku6.top/
+
+    - name: 爱达导航
+      style: basic
+      url: https://ada97.com/
+
+    - name: 小呆导航
+      style: basic
+      url: http://webjike.com
+
+    - name: 龙喵导航
+      style: basic
+      url: http://longmiao.wang/
+
+    - name: 绿狐导航
+      style: basic
+      url: http://www.lvfox.cn/
+
+    - name: 关于我们
+      style: basic
+      url: http://www.guanyuwomen.com/
+
+    - name: 友链申请
+      style: basic
+      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5.html
