@@ -35,13 +35,13 @@
       style: basic
       url: http://apps.theodoregray.com/the-elements/
 
-    - name: 施普林格文献
+    - name: google图书
       style: basic
-      url: https://link.springer.com/
+      url: https://books.google.com/bkshp?hl=zh-CN&tab=wp
 
-    - name: 威利在线图书馆
+    - name: 浙大图书馆
       style: basic
-      url: https://onlinelibrary.wiley.com/
+      url: http://libweb.zju.edu.cn/libweb/redir.php?catalog_id=10253
 
     - name: 爱如生
       style: basic
