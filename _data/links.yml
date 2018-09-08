@@ -754,10 +754,6 @@
       style: basic
       url: https://web.geekji.cn/
 
-    - name: 芸导航
-      style: basic
-      url: https://www.iosx.top/
-
     - name: 不死鸟
       style: basic
       url: https://lai.yuweining.cn/
@@ -786,17 +782,9 @@
       style: basic
       url: http://longmiao.wang/
 
-    - name: 绿狐导航
-      style: basic
-      url: http://www.lvfox.cn/
-
     - name: 关于我们
       style: basic
       url: http://www.guanyuwomen.com/
-
-    - name: 唤醒食物
-      style: basic
-      url: http://www.foodwake.com
 
     - name: 产品汇导航
       style: basic
