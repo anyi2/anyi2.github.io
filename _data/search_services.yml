@@ -8,7 +8,7 @@
 
 - id: google
   name: 谷歌
-  url: https://google.com//search?q=
+  url: https://g6.shuosc.org//search?q=
   shortcut: 谷歌
   icon: google red inverted
   style: black
