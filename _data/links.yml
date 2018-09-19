@@ -788,7 +788,11 @@
 
     - name: 产品汇导航
       style: basic
-      url: https://www.prohui.com/start
+      url: https://www.pro
+      
+    - name: 洽初导航
+      style: basic
+      url: http://qiachu.com/
 
     - name: 友链申请
       style: basic
