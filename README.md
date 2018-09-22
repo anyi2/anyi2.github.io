@@ -33,7 +33,9 @@ Design Philosophy
 Last by
      Thank you and everone. last thanks BYR-Navi. 
       by: ANYI's last modified.
-
-
-[![AnYi-Navi](https://anyi.life/images/logo-dark.svg)]
+      
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+Logo:
+![AnYi-Navi](https://anyi.life/images/logo-dark.svg)
+
