@@ -5,13 +5,9 @@ Anyi.life
 
 - 搜索丨https://so.anyi.life
 
-
-
 安逸导航·AnYi-Navi丨世界的创新源于学术的探索
 
 - 这是一个学术导航丨安逸导航致力于数字化资源的学术导航
-
-
 
 - 代码由北邮人开源驱动，托管于Github页面。
 
@@ -20,8 +16,6 @@ Anyi.life
 - 本人在修改及应用中，没有改变页面布局，只是将内容略作修缮。
 
 - 今后一些页面将实行跳转到 安逸博客  https://blog.anyi.life
-
-
 
 AnYi-Navi
 - The Navigation for AnYi ！ The Open source code comes from BYR·Navi：https://byr-navi.com/
