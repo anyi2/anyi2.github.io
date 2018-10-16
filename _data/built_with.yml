@@ -1,8 +1,8 @@
-- name: 捐赠
-  url: https://blog.anyi.life/%E2%9D%A4%E6%8D%90%E8%B5%A0.html
-
 - name: APP
   url: https://blog.anyi.life/App
+
+- name: 捐赠
+  url: https://blog.anyi.life/❤捐赠
 
 - name: Tumblr
   url: https://www.ay-doug.tumblr.com
