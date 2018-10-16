@@ -3,35 +3,35 @@
   url: /
   active_key: home
 
+- name: 访客
+  icon: bar chart 
+  url: /analytics/
+  active_key: analytics
+  
+- name: 捐赠
+  icon: donate
+  url: /donate/
+  active_key: donate
+  
 - name: 社区
   icon: github
   url: https://bbs.anyi.life/
   active_key: bbs
 
-- name: 捐赠
-  icon: donate
-  url: /donate/
-  active_key: donate
-
-- name: 访客
-  icon: bar chart 
-  url: /analytics/
-  active_key: analytics
-
-- name: 音乐
-  icon: music
-  url: https://music.163.com/#/user/home?id=563874472
-  active_key: music
+- name: 博客
+  icon: bold
+  url: https://blog.anyi.life/
+  active_key: blog
 
 - name: 探索
   icon: google
   url: https://go.anyi.life/
   active_key: tansuo
 
-- name: 博客
-  icon: bold
-  url: https://blog.anyi.life/
-  active_key: blog
+- name: 音乐
+  icon: music
+  url: https://music.163.com/#/user/home?id=563874472
+  active_key: music
 
 - name: 关于
   icon: info sign
