@@ -723,7 +723,7 @@
       url: http://bbs.anyi.life/
 
     - name: 搜索
-      icon: zoom-out
+      icon: spinner
       style: basic
       url: https://so.anyi.life/
 
@@ -731,13 +731,18 @@
       icon: google
       style: basic
       url: https://go.anyi.life/
+      
+    - name: 短网址
+      icon: link
+      style: basic
+      url: https://757.life/
 
-    - name: 提交收录网站
+    - name: 提交收录
       icon: envelope
       style: basic
       url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E.html
 
-    - name: 申请友情链接
+    - name: 建立友链
       icon: envelope
       style: basic
       url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5.html
