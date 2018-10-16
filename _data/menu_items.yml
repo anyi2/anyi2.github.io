@@ -35,7 +35,7 @@
 
 - name: 关于
   icon: info sign
-  url: https://blog.anyi.life/%E5%AF%BC%E8%88%AA%C2%B7%E5%85%B3%E4%BA%8E.html
+  url: https://blog.anyi.life/%E5%AF%BC%E8%88%AA%C2%B7%E5%85%B3%E4%BA%8E
   active_key: about
 
 - name: 主页
