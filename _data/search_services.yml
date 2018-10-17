@@ -1,3 +1,10 @@
+- id: google
+  name: 谷歌
+  url: https://google.hath.tk//search?q=
+  shortcut: 谷歌
+  icon: google red inverted
+  style: black
+
 - id: baidu
   name: 百度
   url: https://baidu.com/s?wd=
@@ -6,9 +13,9 @@
   icon: paw blue inverted
   style: black
 
-- id: google
-  name: 谷歌
-  url: https://google.hath.tk//search?q=
+- id: google hk
+  name: 谷歌-Hk
+  url: https://google.com.hk//search?q=
   shortcut: 谷歌
   icon: google red inverted
   style: black
