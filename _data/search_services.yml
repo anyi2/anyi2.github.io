@@ -16,8 +16,8 @@
 - id: google hk
   name: 谷歌-Hk
   url: https://google.com.hk//search?q=
-  shortcut: 谷歌
-  icon: google red inverted
+  shortcut: 谷歌-Hk
+  icon: google
   style: black
 
 - id: baidumap
