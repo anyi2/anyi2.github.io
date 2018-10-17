@@ -33,12 +33,12 @@
   url: https://music.163.com/#/user/home?id=563874472
   active_key: music
 
-- name: 关于
+- name: 主页
   icon: info sign
-  url: https://blog.anyi.life/%E5%AF%BC%E8%88%AA%C2%B7%E5%85%B3%E4%BA%8E
+  url: https://anyi.life/i/
   active_key: about
 
-- name: 主页
+- name: 官网
   icon: user
-  url: https://anyi.life/i/
+  url: https://i.anyi.life/
   active_key: about
