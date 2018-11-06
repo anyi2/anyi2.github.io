@@ -1,6 +1,6 @@
 - name: 首页
   icon: home
-  url: /
+  url: https://anyi98.github.io/
   active_key: home
 
 - name: 访客
@@ -35,10 +35,10 @@
 
 - name: 主页
   icon: info sign
-  url: https://anyi.life/i/
+  url: https://i.anyi.life/
   active_key: about
 
-- name: 官网
+- name: 关于
   icon: user
-  url: https://i.anyi.life/
+  url: https://anyiart.github.io/about/
   active_key: about
