@@ -126,7 +126,7 @@ $('#search-query').keyup(function (event) {
     if (event.key) {
         if ($('#search-query').val()) {
             $('#search-div').removeClass('error');
-            $('#search-query').attr('placeholder', '立即搜索');
+            $('#search-query').attr('placeholder', '立即探索');
         };
     };
 });
