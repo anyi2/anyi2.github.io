@@ -83,7 +83,7 @@
     background-image: url('/images/backgrounds/16.jpg');
 }
 .ui.inverted.masthead.segment.bg17:after {
-    background-image: url(https://timewk.cn/bing.php);
+    background-image: url('https://timewk.cn/bing.php');
 }
 .ui.inverted.masthead.segment,
 .ui.inverted.masthead.segment:after {
