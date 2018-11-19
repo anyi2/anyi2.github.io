@@ -2,6 +2,11 @@
   categories:
   - category: 本站公告
     links:
+    - name: 加入探讨组
+      icon: tencent
+      style: basic
+      url: https://jq.qq.com/?_wv=1027&k=5o8rrYN
+
     - name: 安逸导航App版本上线了~
       icon: github black
       style: basic
