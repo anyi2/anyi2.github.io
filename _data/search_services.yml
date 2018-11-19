@@ -22,15 +22,24 @@
   name: 谷歌翻译
   url: https://translate.google.cn/#zh-CN/en/
   shortcut: 翻译
-  style: google black
+  icon: google black
+  style: black
 
 - id: sousou
   name: 搜搜
   url: http://www.soso.com/tx?ie=utf8&pid=&query=
   shortcut: 搜搜
   suffix: "&w=&sut=1183&sst0=1534829938117&lkt=0%2C0%2C0"
-  style: qq black
+  icon: qq black
+  style: black
 
+- id: bing
+  name: Bing
+  url: https://bing.com//search?q=
+  shortcut: 必应
+  icon: bing blue 
+  style: black
+  
 - id: baidu
   name: 百度
   url: https://baidu.com/s?wd=
@@ -46,15 +55,15 @@
   icon: google blue inverted
   style: black
   
-- id: 网络存档
-  name: 网页
-  url: https://webrecorder.io/temp-NLG6TSEX/temp/7c6kyvjfkagc2whw/record/https://
+- id: github
+  name: Github
+  url: https://github.com/search?q=
+  shortcut: Github
+  icon: github
   style: black
-
 - id: Ceek
   name: Ceek
   url: http://www.ceek.jp/search.cgi?q=
-  shortcut: Ceek
   style: black
 
 - id: Quora
@@ -70,13 +79,6 @@
 - id: Yandex
   name: Yandex
   url: https://yandex.ru/search/?lr=111460&text=
-  shortcut: Yand
-  style: black
-
-- id: github
-  name: Github
-  url: https://github.com/search?q=
-  shortcut: Git
   style: black
 
 - id: hot
@@ -84,6 +86,10 @@
   url: https://www.hotbot.com/web?q=
   shortcut: Hot
   style: black
+
+- id: pipl.com
+  name: pipl man
+  url: https://pipl.com/search/?q=
 
 - id: peekier
   name: peekier
@@ -108,24 +114,8 @@
   name: Gutenberg
   url: https://www.gutenberg.org/ebooks/search/?query=
 
-- id: 爱学术
-  name: 爱学术
-  url: https://www.ixueshu.com/document/search.html?q=
-  shortcut: 爱学术
-  style: black
-
-- id: 全国图书馆检索
-  name: 图书馆
-  url: http://book.ucdrs.superlib.net/search?sw=
-  suffix: "&allsw=&bCon=&ecode=utf-8&channel=search&Field=all"
-  shortcut: 图书馆
-  style: black
 
 - id: Duckduckgo
   name: Duckduckgo
   url: https://duckduckgo.com/?q=
   suffix: "&t=hg&ia=web"
-
-- id: pipl.com
-  name: pipl人物搜索
-  url: https://pipl.com/search/?q=
