@@ -12,17 +12,11 @@
   icon: map blue inverted
   style: black
 
-- id: wikipedia
-  name: 维基
-  url: https://en.wikipedia.org/wiki/
-  # shortcut: 维基
-  # style: wikipedia w black
-
 - id: googletranslate
   name: 谷歌翻译
   url: https://translate.google.cn/#zh-CN/en/
   shortcut: 翻译
-  icon: google 
+  icon: google blue
   style: black
 
 - id: sousou
@@ -33,11 +27,18 @@
   icon: qq
   style: black
 
+- id: wikipedia
+  name: 维基
+  url: https://en.wikipedia.org/wiki/
+  shortcut: 维基
+  icon: wikipedia
+  style: black
+
 - id: bing
   name: Bing
   url: https://bing.com//search?q=
   shortcut: 必应
-  icon: search blue
+  icon: search red
   style: black
   
 - id: baidu
