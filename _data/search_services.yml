@@ -6,14 +6,14 @@
   style: black
 
 - id: baidumap
-  name: 谷歌学术
+  name: 学术
   url: https://scholar.uulucky.com/scholar?q=
   shortcut: 学术
   icon: map blue inverted
   style: black
 
 - id: wikipedia
-  name: 维基百科
+  name: 维基
   url: https://en.wikipedia.org/wiki/
   # shortcut: 维基
   # style: wikipedia w black
@@ -22,7 +22,7 @@
   name: 谷歌翻译
   url: https://translate.google.cn/#zh-CN/en/
   shortcut: 翻译
-  icon: google black
+  icon: google 
   style: black
 
 - id: sousou
@@ -30,14 +30,14 @@
   url: http://www.soso.com/tx?ie=utf8&pid=&query=
   shortcut: 搜搜
   suffix: "&w=&sut=1183&sst0=1534829938117&lkt=0%2C0%2C0"
-  icon: qq black
+  icon: qq
   style: black
 
 - id: bing
   name: Bing
   url: https://bing.com//search?q=
   shortcut: 必应
-  icon: bing blue 
+  icon: search blue
   style: black
   
 - id: baidu
@@ -45,14 +45,14 @@
   url: https://baidu.com/s?wd=
   suffix: "&ie=utf-8"
   shortcut: 百度
-  icon: paw blue inverted
+  icon: paw red inverted
   style: black
 
 - id: google hk
   name: 谷歌-Hk
   url: https://google.com.hk//search?q=
   shortcut: 谷歌-Hk
-  icon: google blue inverted
+  icon: google red inverted
   style: black
   
 - id: github
@@ -61,6 +61,7 @@
   shortcut: Github
   icon: github
   style: black
+  
 - id: Ceek
   name: Ceek
   url: http://www.ceek.jp/search.cgi?q=
@@ -81,10 +82,9 @@
   url: https://yandex.ru/search/?lr=111460&text=
   style: black
 
-- id: hot
+- id: hotbot
   name: Hotbot
   url: https://www.hotbot.com/web?q=
-  shortcut: Hot
   style: black
 
 - id: pipl.com
