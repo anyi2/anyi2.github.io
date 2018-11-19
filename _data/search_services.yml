@@ -51,7 +51,7 @@
 
 - id: google-hk
   name: google-hk
-  url: https://google.com/search?q=
+  url: https://google.com.hk/search?q=
   shortcut: 谷歌-Hk
   icon: google red inverted
   style: black
