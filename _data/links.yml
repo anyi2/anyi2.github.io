@@ -809,10 +809,14 @@
     - name: 绿狐导航
       style: basic
       url: http://www.lvfox.cn/
+     
+    - name: 果汁导航
+      style: basic
+      url: http://guozhivip.com/nav/
 
     - name: 咪咕鱼导航
       style: basic
-      url: http://www.miguyu.com
+      url: http://miguyu.com/
 
     - name: 产品汇导航
       style: basic
