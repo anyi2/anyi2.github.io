@@ -759,7 +759,12 @@
       style: basic
       url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5
 
-    - name: 本站所收录网站至此完结，欢迎提交收录。
+    - name: 中华人民共和国-条约数据库
+      icon: github black
+      style: basic
+      url: http://treaty.mfa.gov.cn/Treaty/web/index.jsp
+  
+  - name: 本站所收录网站至此完结，欢迎提交收录。
       icon: github black
       style: basic
       url: https://anyi.life/
