@@ -764,7 +764,7 @@
       style: basic
       url: http://treaty.mfa.gov.cn/Treaty/web/index.jsp
   
-  - name: 本站所收录网站至此完结，欢迎提交收录。
+    - name: 本站所收录网站至此完结，欢迎提交收录。
       icon: github black
       style: basic
       url: https://anyi.life/
