@@ -120,8 +120,16 @@
   name: Gutenberg
   url: https://www.gutenberg.org/ebooks/search/?query=
 
-
 - id: Duckduckgo
   name: Duckduckgo
   url: https://duckduckgo.com/?q=
   suffix: "&t=hg&ia=web"
+  
+- id: Ecosia
+  name: Ecosia
+  url: https://www.ecosia.org/search?q=
+
+- id: AOL
+  name: AOL
+  url: https://search.aol.com/aol/search?s_chn=prt_bon&q=
+  suffix: "&s_it=comsearch"
