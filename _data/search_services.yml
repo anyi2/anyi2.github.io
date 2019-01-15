@@ -5,11 +5,6 @@
   icon: google blue inverted
   style: black
 
-- id: google
-  name: 谷歌
-  url: https://gugeji.com/search?q=
-  style: black
-
 - id: baidumap
   name: 学术
   url: https://scholar.google.com.hk/scholar?q=
@@ -17,19 +12,23 @@
   icon: map blue inverted
   style: black
 
+- id: gugeji
+  name: 咕咯鸡
+  url: https://gugeji.com/search?q=
+  style: black
+
 - id: googletranslate
-  name: 谷歌翻译
+  name: 翻译
   url: https://translate.google.cn/#zh-CN/en/
   shortcut: 翻译
   icon: google blue
   style: black
 
-- id: sousou
-  name: 搜搜
-  url: http://www.soso.com/tx?ie=utf8&pid=&query=
-  shortcut: 搜搜
-  suffix: "&w=&sut=1183&sst0=1534829938117&lkt=0%2C0%2C0"
-  icon: qq
+- id: bing
+  name: Bing
+  url: https://bing.com/search?q=
+  shortcut: 必应
+  icon: search
   style: black
 
 - id: wikipedia
@@ -39,13 +38,6 @@
   icon: wikipedia
   style: black
 
-- id: bing
-  name: Bing
-  url: https://bing.com/search?q=
-  shortcut: 必应
-  icon: search red
-  style: black
-  
 - id: baidu
   name: 百度
   url: https://baidu.com/s?wd=
@@ -67,6 +59,11 @@
   shortcut: Github
   icon: github
   style: black
+  
+- id: AOL
+  name: AOL
+  url: https://search.aol.com/aol/search?s_chn=prt_bon&q=
+  suffix: "&s_it=comsearch"
   
 - id: Ceek
   name: Ceek
@@ -93,11 +90,6 @@
   url: https://www.hotbot.com/web?q=
   style: black
 
-- id: pipl.com
-  name: pipl man
-  url: https://pipl.com/search/?q=
-  suffix: "&&l=&sloc=&in=5"
-
 - id: peekier
   name: peekier
   url: https://peekier.com/#!
@@ -112,6 +104,10 @@
   url: https://archive.org/search.php?query=
   style: black
 
+- id: Ecosia
+  name: Ecosia
+  url: https://www.ecosia.org/search?q=
+
 - id: Librivox
   name: Librivox
   url: https://librivox.org/search?q=
@@ -123,14 +119,7 @@
 
 - id: Duckduckgo
   name: Duckduckgo
+  shortcut: D
+  icon: life-ring
   url: https://duckduckgo.com/?q=
   suffix: "&t=hg&ia=web"
-  
-- id: Ecosia
-  name: Ecosia
-  url: https://www.ecosia.org/search?q=
-
-- id: AOL
-  name: AOL
-  url: https://search.aol.com/aol/search?s_chn=prt_bon&q=
-  suffix: "&s_it=comsearch"
