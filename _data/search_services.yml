@@ -96,6 +96,7 @@
 - id: pipl.com
   name: pipl man
   url: https://pipl.com/search/?q=
+  suffix: "&&l=&sloc=&in=5"
 
 - id: peekier
   name: peekier
