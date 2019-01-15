@@ -94,11 +94,6 @@
   name: peekier
   url: https://peekier.com/#!
 
-- id: WebCrawler
-  name: WebCrawler
-  url: https://www.webcrawler.com/serp?q=
-  style: black
-
 - id: archive
   name: Archive
   url: https://archive.org/search.php?query=
@@ -106,6 +101,8 @@
 
 - id: Ecosia
   name: Ecosia
+  shortcut: Ecosia
+  icon: "https://www.ecosia.org/favicon.ico"
   url: https://www.ecosia.org/search?q=
 
 - id: Librivox
@@ -119,7 +116,10 @@
 
 - id: Duckduckgo
   name: Duckduckgo
-  shortcut: D
-  icon: life-ring
   url: https://duckduckgo.com/?q=
   suffix: "&t=hg&ia=web"
+
+- id: WebCrawler
+  name: WebCrawler
+  url: https://www.webcrawler.com/serp?q=
+  style: black
