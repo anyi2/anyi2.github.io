@@ -102,9 +102,10 @@
 - id: Ecosia
   name: Ecosia
   shortcut: Ecosia
-  icon: "https://www.ecosia.org/favicon.ico"
   url: https://www.ecosia.org/search?q=
-
+  icon: search 
+  style: black
+  
 - id: Librivox
   name: Librivox
   url: https://librivox.org/search?q=
