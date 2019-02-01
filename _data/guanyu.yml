@@ -1,17 +1,8 @@
-- name: 官网
-  url: https://i.anyi.life/
-
 - name: 搜素
   url: https://so.anyi.life/
-
-- name: 休闲
-  url: https://vps.anyi.life/
 
 - name: 探索
   url: https://go.anyi.life/
 
-- name: 博客
-  url: https://blog.anyi.life/
-
-- name: 短网址
-  url: https://757.life
+- name: 书岛（ShuDao.Org）
+  url: https://shudao.org/
