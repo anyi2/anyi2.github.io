@@ -18,19 +18,17 @@
   url: https://i.anyi.life/
   active_key: about
 
-- name: 关于
-  icon: user
-  url: https://anyiart.github.io/about/
-  active_key: about
-  
 - name: 探索
   icon: google
   url: https://go.anyi.life/
   active_key: tansuo
 
-- name: 书岛（S）
+- name: 书岛
   icon: book
   url: https://shudao.org/
   active_key: music
 
-
+- name: 关于
+  icon: user
+  url: https://anyiart.github.io/about/
+  active_key: about
