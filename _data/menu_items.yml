@@ -13,17 +13,6 @@
   url: /donate/
   active_key: donate
   
-
-- name: 探索
-  icon: google
-  url: https://go.anyi.life/
-  active_key: tansuo
-
-- name: 书岛
-  icon: book
-  url: https://shudao.org/
-  active_key: music
-
 - name: 主页
   icon: info sign
   url: https://i.anyi.life/
@@ -33,3 +22,15 @@
   icon: user
   url: https://anyiart.github.io/about/
   active_key: about
+  
+- name: 探索
+  icon: google
+  url: https://go.anyi.life/
+  active_key: tansuo
+
+- name: 书岛（S）
+  icon: book
+  url: https://shudao.org/
+  active_key: music
+
+
