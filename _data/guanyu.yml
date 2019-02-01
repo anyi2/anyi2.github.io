@@ -1,8 +1,8 @@
-- name: 搜素
-  url: https://so.anyi.life/
-
 - name: 探索
   url: https://go.anyi.life/
+  
+- name: 搜素
+  url: https://so.anyi.life/
 
 - name: 书岛（ShuDao.Org）
   url: https://shudao.org/
