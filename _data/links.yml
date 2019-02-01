@@ -2,22 +2,15 @@
   categories:
   - category: 本站公告
     links:
-    - name: 加入探讨组
+    - name: 探讨组
       icon: qq black
       style: basic
       url: https://jq.qq.com/?_wv=1027&k=5o8rrYN
 
-    - name: 安逸导航App版本上线了~
+    - name: 书岛（ShuDao.Org）- 向往自由与文明的数字图书岛
       icon: github black
       style: basic
-      url: https://blog.anyi.life/App
-      des: 基本指标,成交概况,活跃证券,行业市盈率
-      icon:
-
-    - name: 安逸组织·招募成员丨为探索而前行·为自由而构建！
-      icon: github black
-      style: basic
-      url: https://anyiart.github.io/zh-cn/Join-our-team/
+      url: https://shudao.org/
 
 - section: scholar
   categories:
@@ -213,8 +206,8 @@
 
     - name: 链接失效或与内容不符，请联系修改
       style: white
-      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E.html
-
+      url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=g298@qq.com
+      
   - category: 学衡
     links:
     - name: 双红堂
@@ -729,10 +722,10 @@
 
   - category: 冗杂之所
     links:
-    - name: 论坛
+    - name: 云音乐
       icon: user
       style: basic
-      url: http://bbs.anyi.life/
+      url: https://music.163.com/#/user/home?id=563874472
 
     - name: 搜索
       icon: spinner
@@ -744,7 +737,7 @@
       style: basic
       url: https://go.anyi.life/
       
-    - name: 短网址
+    - name: 音乐云
       icon: spinner
       style: basic
       url: https://757.life/
@@ -752,12 +745,12 @@
     - name: 提交收录
       icon: envelope
       style: basic
-      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E
+      url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=g298@qq.com
 
     - name: 建立友链
       icon: envelope
       style: basic
-      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5
+      url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=g298@qq.com
 
     - name: 中华人民共和国-条约数据库
       icon: github black
@@ -771,7 +764,7 @@
 
     - name: The website is maintained by ANYI!
       style: white
-      url: https://blog.anyi.life/
+      url: https://anyi.life/
 
 - section: auction
   categories:
@@ -903,4 +896,4 @@
 
     - name: 友链申请
       style: basic
-      url: https://blog.anyi.life/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5
+      url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=g298@qq.com
