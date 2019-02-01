@@ -1,8 +1,8 @@
-- name: ShuDao
-  url: https://www.toutiao.com/c/user/3066770680/
-
 - name: Tumblr
   url: https://www.ay-doug.tumblr.com
 
 - name: Twitter
   url: https://twitter.com/g30711
+
+- name: ShuDao
+  url: https://www.toutiao.com/c/user/3066770680/
