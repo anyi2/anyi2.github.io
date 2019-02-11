@@ -893,6 +893,10 @@
     - name: 搜图导航
       style: basic
       url: https://www.91sotu.com/
+      
+    - name: DocSmall
+      style: basic
+      url: https://docsmall.com/
 
     - name: 友链申请
       style: basic
