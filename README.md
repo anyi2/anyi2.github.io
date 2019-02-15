@@ -23,5 +23,5 @@ Last by
 - by: ANYI's last modified.
       
 
-Logo:![AnYi-Navi](https://anyi.life/favicon.ico
+Logo:![AnYi-Navi](https://anyi.life/favicon.ico)
 
