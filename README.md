@@ -1,21 +1,16 @@
 
 Anyi.life
 
-- 探索丨https://go.anyi.life
+- 书岛丨https://shudao.org/
 
-- 搜索丨https://so.anyi.life
+- 探索丨https://go.anyi.life/
+
 
 安逸导航·AnYi-Navi丨世界的创新源于学术的探索
 
+- 代码由北邮人开源驱动，托管于Github页面。
 - 这是一个学术导航丨安逸导航致力于数字化资源的学术导航
 
-- 代码由北邮人开源驱动，托管于Github页面。
-
-- 由于静态页面原因，一些功能将在网站实行跳转呈现。
-
-- 本人在修改及应用中，没有改变页面布局，只是将内容略作修缮。
-
-- 今后一些页面将实行跳转到 安逸博客  https://blog.anyi.life
 
 AnYi-Navi
 - The Navigation for AnYi ！ The Open source code comes from BYR·Navi：https://byr-navi.com/
@@ -27,9 +22,6 @@ Last by
 - Thank you and everyone. last thanks BYR-Navi. 
 - by: ANYI's last modified.
       
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Logo:
-
-![AnYi-Navi](https://anyi.life/images/logo-dark.svg)
+Logo:![AnYi-Navi](https://anyi.life/favicon.ico
 
