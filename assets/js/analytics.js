@@ -153,7 +153,9 @@ function updateVisit(updateProgressBar) {
 };
 updateVisit(true);
 setInterval(function () {
-    updateVisit(false);
+    if (!document.hidden) {
+        updateVisit(false);
+    };
 }, 60000);
 
 // chart
@@ -333,7 +335,9 @@ function updateVisitSummaryChart(updateProgressBar) {
 updateVisitSummaryChart(true);
 visitSummaryChart.hideLoading();
 setInterval(function () {
-    updateVisitSummaryChart(false);
+    if (!document.hidden) {
+        updateVisitSummaryChart(false);
+    };
 }, 60000);
 
 var visitHourlyChart = echarts.init(document.getElementById('visit-hourly'), 'light');
@@ -540,7 +544,9 @@ function updateVisitHourlyChart(updateProgressBar) {
 updateVisitHourlyChart(true);
 visitHourlyChart.hideLoading();
 setInterval(function () {
-    updateVisitHourlyChart(false);
+    if (!document.hidden) {
+        updateVisitHourlyChart(false);
+    };
 }, 60000);
 
 var visitMapChart = echarts.init(document.getElementById('visit-map'), 'light');
@@ -719,12 +725,14 @@ function updateVisitMapChart(updateProgressBar) {
 };
 updateVisitMapChart(true);
 setInterval(function () {
-    updateVisitMapChart(false);
+    if (!document.hidden) {
+        updateVisitMapChart(false);
+    };
 }, 60000);
 
 var visitCalendarChart = echarts.init(document.getElementById('visit-calendar'), 'light');
 var firstYear = establishedAt.getFullYear();
-var maxYear = 2018;
+var maxYear = 2019;
 visitCalendarChart.setOption({
     baseOption: {
         title: {
@@ -766,6 +774,10 @@ visitCalendarChart.setOption({
             range: 2018,
             right: 5,
             top: 420
+        }, {
+            range: 2019,
+            right: 5,
+            top: 600
         }],
         series: [{
             type: 'heatmap',
@@ -781,6 +793,11 @@ visitCalendarChart.setOption({
             type: 'heatmap',
             coordinateSystem: 'calendar',
             calendarIndex: 2,
+            data: []
+        }, {
+            type: 'heatmap',
+            coordinateSystem: 'calendar',
+            calendarIndex: 3,
             data: []
         }]
     },
@@ -807,6 +824,10 @@ visitCalendarChart.setOption({
                 orient: 'vertical',
                 left: 'center',
                 top: 2350
+            }, {
+                orient: 'vertical',
+                left: 'center',
+                top: 3480
             }]
         }
     }]
@@ -854,5 +875,7 @@ function updateVisitCalendarChart(updateProgressBar) {
 };
 updateVisitCalendarChart(true);
 setInterval(function () {
-    updateVisitCalendarChart(false);
+    if (!document.hidden) {
+        updateVisitCalendarChart(false);
+    };
 }, 60000);
