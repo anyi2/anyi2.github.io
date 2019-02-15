@@ -1,3 +1,6 @@
+![AnYi-Navi](https://anyi.life/favicon.ico)
+
+
 
 Anyi.life
 
@@ -22,6 +25,3 @@ Last by
 - Thank you and everyone. last thanks BYR-Navi. 
 - by: ANYI's last modified.
       
-
-Logo:![AnYi-Navi](https://anyi.life/favicon.ico)
-
