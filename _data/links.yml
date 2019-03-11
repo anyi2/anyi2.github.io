@@ -893,11 +893,15 @@
     - name: 搜图导航
       style: basic
       url: https://www.91sotu.com/
+
+    - name: 乐搜导航
+      style: basic
+      url: https://lerso.cn/
       
     - name: DocSmall
       style: basic
       url: https://docsmall.com/
-
+      
     - name: 友链申请
       style: basic
       url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=g298@qq.com
