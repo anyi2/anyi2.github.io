@@ -846,6 +846,10 @@
       style: basic
       url: http://www.yechuang.top
 
+    - name: 微词云
+      style: basic
+      url: https://zh-cn.minitagcloud.com/
+      
     - name: 98导航
       style: basic
       url: http://98dh.cc/
