@@ -1,34 +1,35 @@
-- id: google
+- id: Google
   name: 谷歌
   url: https://www.ggjxz.top//search?q=
   shortcut: 谷歌
   icon: google blue inverted
   style: black
 
-- id: baidumap
+- id: Scholar
   name: 学术
   url: https://scholar.google.com.hk/scholar?q=
   shortcut: 学术
   icon: map blue inverted
   style: black
 
-- id: gugeji
-  name: 咕咯鸡
+- id: MEZW
+  name: MEZW
+  url: https://so.mezw.com/Search?wd=
+  style: black
+
+- id: GuGeJi
+  name: GuGeJi
   url: https://gugeji.com/search?q=
   style: black
-
-- id: googletranslate
-  name: 翻译
-  url: https://translate.google.cn/#zh-CN/en/
-  shortcut: 翻译
-  icon: google blue
+  
+- id: Bird.so
+  name: Bird.so
+  url: http://caup.cn/search?q=
   style: black
 
-- id: bing
-  name: Bing
-  url: https://bing.com/search?q=
-  shortcut: 必应
-  icon: search
+- id: CupFox
+  name: CupFox
+  url: https://www.cupfox.com/?key=
   style: black
 
 - id: wikipedia
@@ -43,28 +44,21 @@
   url: https://baidu.com/s?wd=
   suffix: "&ie=utf-8"
   shortcut: 百度
-  icon: paw red inverted
+  icon: paw inverted
   style: black
 
-- id: google-hk
-  name: google-hk
-  url: https://google.com.hk/search?q=
-  shortcut: 谷歌-Hk
-  icon: google red inverted
+- id: Google-Translate
+  name: 翻译
+  shortcut: 翻译
+  url: https://translate.google.cn/#zh-CN/en/
   style: black
-  
-- id: github
-  name: Github
-  url: https://github.com/search?q=
-  shortcut: Github
-  icon: github
+
+- id: bing
+  name: Bing
+  url: https://bing.com/search?q=
+  shortcut: 必应
   style: black
-  
-- id: AOL
-  name: AOL
-  url: https://search.aol.com/aol/search?s_chn=prt_bon&q=
-  suffix: "&s_it=comsearch"
-  
+
 - id: Ceek
   name: Ceek
   url: http://www.ceek.jp/search.cgi?q=
@@ -80,25 +74,10 @@
   url: https://www.qwant.com/?q=
   suffix: "&t=web"
 
-- id: Yandex
-  name: Yandex
-  url: https://yandex.ru/search/?lr=111460&text=
-  style: black
-
-- id: hotbot
-  name: Hotbot
-  url: https://www.hotbot.com/web?q=
-  style: black
-
-- id: peekier
-  name: peekier
+- id: Peekier
+  name: Peekier
   url: https://peekier.com/#!
-
-- id: archive
-  name: Archive
-  url: https://archive.org/search.php?query=
-  style: black
-
+  
 - id: Ecosia
   name: Ecosia
   shortcut: Ecosia
@@ -106,21 +85,23 @@
   icon: search 
   style: black
   
-- id: Librivox
-  name: Librivox
-  url: https://librivox.org/search?q=
-  suffix: "&search_form=advanced"
-  
+- id: GitHub
+  name: GitHub
+  url: https://github.com/search?q=
+  shortcut: Github
+  icon: github
+  style: black
+
+- id: Archive
+  name: Archive
+  url: https://archive.org/search.php?query=
+  style: black
+
 - id: Gutenberg
   name: Gutenberg
   url: https://www.gutenberg.org/ebooks/search/?query=
 
-- id: Duckduckgo
-  name: Duckduckgo
+- id: DuckDuckGo
+  name: DuckDuckGo
   url: https://duckduckgo.com/?q=
   suffix: "&t=hg&ia=web"
-
-- id: WebCrawler
-  name: WebCrawler
-  url: https://www.webcrawler.com/serp?q=
-  style: black
