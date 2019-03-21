@@ -55,6 +55,7 @@
   name: GuGeJi
   shortcut: GuGeJi
   url: https://gugeji.com/search?q=
+  icon: search
   style: black
   
 - id: CupFox
@@ -69,7 +70,6 @@
 
 - id: Quora
   name: Quora
-  shortcut: Quora
   url: https://www.quora.com/search?q=
   style: black
 
@@ -84,7 +84,6 @@
   
 - id: Ecosia
   name: Ecosia
-  shortcut: Ecosia
   url: https://www.ecosia.org/search?q=
   style: black
 
