@@ -12,8 +12,41 @@
   icon: map blue inverted
   style: black
 
+- id: baidu
+  name: 百度
+  url: https://baidu.com/s?wd=
+  suffix: "&ie=utf-8"
+  shortcut: 百度
+  icon: paw inverted
+  style: black
+  
+- id: wikipedia
+  name: 维基
+  url: https://en.wikipedia.org/wiki/
+  shortcut: 维基
+  icon: wikipedia
+  style: black
+
+- id: Translate
+  name: 翻译
+  shortcut: 翻译
+  url: https://translate.google.cn/#zh-CN/en/
+  style: black
+  
+- id: Bing
+  name: Bing
+  url: https://bing.com/search?q=
+  shortcut: 必应
+  icon: search 
+  style: black
+  
+- id: Bird.so
+  name: Bird
+  url: http://caup.cn/search?q=
+  style: black
+  
 - id: MEZW
-  name: MEZW
+  name: Mezw
   url: https://so.mezw.com/Search?wd=
   style: black
 
@@ -22,41 +55,9 @@
   url: https://gugeji.com/search?q=
   style: black
   
-- id: Bird.so
-  name: Bird.so
-  url: http://caup.cn/search?q=
-  style: black
-
 - id: CupFox
   name: CupFox
   url: https://www.cupfox.com/?key=
-  style: black
-
-- id: wikipedia
-  name: 维基
-  url: https://en.wikipedia.org/wiki/
-  shortcut: 维基
-  icon: wikipedia
-  style: black
-
-- id: baidu
-  name: 百度
-  url: https://baidu.com/s?wd=
-  suffix: "&ie=utf-8"
-  shortcut: 百度
-  icon: paw inverted
-  style: black
-
-- id: Google-Translate
-  name: 翻译
-  shortcut: 翻译
-  url: https://translate.google.cn/#zh-CN/en/
-  style: black
-
-- id: bing
-  name: Bing
-  url: https://bing.com/search?q=
-  shortcut: 必应
   style: black
 
 - id: Ceek
@@ -82,7 +83,6 @@
   name: Ecosia
   shortcut: Ecosia
   url: https://www.ecosia.org/search?q=
-  icon: search 
   style: black
   
 - id: GitHub
