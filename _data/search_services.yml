@@ -9,7 +9,7 @@
   name: 学术
   url: https://scholar.google.com.hk/scholar?q=
   shortcut: 学术
-  icon: map blue inverted
+  icon: map inverted
   style: black
 
 - id: baidu
@@ -31,6 +31,7 @@
   name: 翻译
   shortcut: 翻译
   url: https://translate.google.cn/#zh-CN/en/
+  icon: translate
   style: black
   
 - id: Bing
@@ -52,6 +53,7 @@
 
 - id: GuGeJi
   name: GuGeJi
+  shortcut: GuGeJi
   url: https://gugeji.com/search?q=
   style: black
   
@@ -67,6 +69,7 @@
 
 - id: Quora
   name: Quora
+  shortcut: Quora
   url: https://www.quora.com/search?q=
   style: black
 
@@ -84,13 +87,6 @@
   shortcut: Ecosia
   url: https://www.ecosia.org/search?q=
   style: black
-  
-- id: GitHub
-  name: GitHub
-  url: https://github.com/search?q=
-  shortcut: Github
-  icon: github
-  style: black
 
 - id: Archive
   name: Archive
@@ -105,3 +101,10 @@
   name: DuckDuckGo
   url: https://duckduckgo.com/?q=
   suffix: "&t=hg&ia=web"
+  
+- id: GitHub
+  name: GitHub
+  url: https://github.com/search?q=
+  shortcut: Github
+  icon: github
+  style: black
