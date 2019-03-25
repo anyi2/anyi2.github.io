@@ -894,6 +894,10 @@
       style: basic
       url: http://ailongmiao.com/
 
+    - name: 软泥怪
+      style: basic
+      url: https://www.ruanniguai.com/
+
     - name: 搜图导航
       style: basic
       url: https://www.91sotu.com/
@@ -907,5 +911,5 @@
       url: https://docsmall.com/
       
     - name: 友链申请
-      style: basic
+      style: black
       url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=g298@qq.com
