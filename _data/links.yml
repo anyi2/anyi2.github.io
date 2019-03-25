@@ -822,7 +822,7 @@
 
 - section: friend
   categories:
-  - category: 友链
+  - category: 友情链接
     links:
     - name: 友链申请
       style: black
@@ -830,7 +830,7 @@
 
 - section: friend
   categories:
-  - category: 友情链接
+  - category: 导航
     links:
     - name: 北邮人
       style: basic
@@ -899,7 +899,9 @@
     - name: 龙喵网
       style: basic
       url: http://ailongmiao.com/
-
+      
+  - category: 工具
+    links:
     - name: 软泥怪
       style: basic
       url: https://www.ruanniguai.com/
