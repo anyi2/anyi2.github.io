@@ -639,17 +639,17 @@
       style: basic
       url: https://www.linkedin.com/school/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2/
 
+    - name: 党政办公室
+      style: red
+      url: http://www.hebart.com/dzb/
+
     - name: 腾讯视频 相关
       style: basic
       url: https://v.qq.com/x/search/?q=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&stag=txt.playpage.vppdesc
 
     - name: 古典舞《如梦令》
-      style: pink
-      url: https://www.bilibili.com/video/av16804529/
-
-    - name: 党政办公室
       style: basic
-      url: http://www.hebart.com/dzb/
+      url: https://www.bilibili.com/video/av16804529/
 
     - name: Literary youths are moving forward here!
       style: white
@@ -735,10 +735,10 @@
       style: basic
       url: https://go.anyi.life/
       
-    - name: 音乐云
+    - name: 关于
       icon: spinner
       style: basic
-      url: https://757.life/
+      url: https://anyi.life/about/
 
     - name: 提交收录
       icon: envelope
@@ -830,6 +830,24 @@
 
 - section: friend
   categories:
+  - category: 雅集
+    links:
+    - name: 微词云
+      style: basic
+      url: https://zh-cn.minitagcloud.com/
+
+    - name: 软泥怪
+      style: basic
+      url: https://www.ruanniguai.com/
+
+    - name: 不死鸟
+      style: basic
+      url: https://lai.yuweining.cn/
+      
+    - name: DocSmall
+      style: basic
+      url: https://docsmall.com/
+
   - category: 导航
     links:
     - name: 北邮人
@@ -839,10 +857,10 @@
     - name: 钛导航
       style: basic
       url: https://web.geekji.cn/
-
-    - name: 不死鸟
+      
+    - name: 龙喵网
       style: basic
-      url: https://lai.yuweining.cn/
+      url: http://ailongmiao.com/
 
     - name: 前端氪
       style: basic
@@ -852,17 +870,9 @@
       style: basic
       url: http://www.yechuang.top
 
-    - name: 微词云
-      style: basic
-      url: https://zh-cn.minitagcloud.com/
-      
     - name: 98导航
       style: basic
       url: http://98dh.cc/
-
-    - name: GY导航
-      style: basic
-      url: http://nav.ailuoku6.top/
 
     - name: 爱达导航
       style: basic
@@ -880,32 +890,14 @@
       style: basic
       url: http://guozhivip.com/nav/
 
-    - name: 咪咕鱼导航
+    - name: GY导航
       style: basic
-      url: http://miguyu.com/
+      url: http://nav.ailuoku6.top/
 
-    - name: 产品汇导航
-      style: basic
-      url: https://www.prohui.com/start
-
-    - name: 五花八门导航
-      style: basic
-      url: http://lxqnsys.com/d/
-      
     - name: 沃客导航
       style: basic
       url: http://www.bxsnxs.cn/dh/index.html
-     
-    - name: 龙喵网
-      style: basic
-      url: http://ailongmiao.com/
       
-  - category: 工具
-    links:
-    - name: 软泥怪
-      style: basic
-      url: https://www.ruanniguai.com/
-
     - name: 搜图导航
       style: basic
       url: https://www.91sotu.com/
@@ -914,10 +906,18 @@
       style: basic
       url: https://lerso.cn/
       
-    - name: DocSmall
+    - name: 产品汇导航
       style: basic
-      url: https://docsmall.com/
-      
+      url: https://www.prohui.com/start
+
+    - name: 咪咕鱼导航
+      style: basic
+      url: http://miguyu.com/
+
+    - name: 五花八门导航
+      style: basic
+      url: http://lxqnsys.com/d/
+
     - name: 友链申请
-      style: black
+      style: basic
       url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=g298@qq.com
