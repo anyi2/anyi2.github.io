@@ -820,6 +820,10 @@
       style: basic
       url: http://www.youlu.net/
 
+    - name: 网购需谨慎
+      style: pink
+      url: http://anyi.life/
+      
 - section: friend
   categories:
   - category: 友情链接
