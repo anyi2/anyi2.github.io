@@ -95,8 +95,6 @@
       style: basic
       url: http://find.nlc.cn/
 
-
-
   - category: 图书馆
     links:
     - name: 大英图书馆
@@ -821,6 +819,13 @@
     - name: 有路网旧书
       style: basic
       url: http://www.youlu.net/
+
+- section: friend
+  categories:
+  - category: 友情链接
+    - name: 友链申请
+      style: black
+      url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=g298@qq.com
 
 - section: friend
   categories:
