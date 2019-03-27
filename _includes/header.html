@@ -1,3 +1,4 @@
+    
 <div class="ui inverted vertical masthead center aligned segment zoomed">
     <div class="ui container">
         <div class="ui large borderless inverted menu" style="border: none;">
@@ -21,10 +22,11 @@
             <h1 class="ui inverted header">{% if page.icon %}<i class="{{ page.icon }} icon"></i>{% endif %}{{ page.title }}</h1>
             {%- if page.active_key == 'analytics' -%}
                 <div id="established-at" class="ui black labels"></div>
-                <div class="ui black label"><i class="chart bar icon"></i><span id="total-actions">0</span><div class="detail">PV</div></div>
+                <div class="ui black label"><i class="shoe prints icon"></i><span id="total-actions">0</span><div class="detail">PV</div></div>
             {%- elsif page.active_key == 'donate' -%}
-                <h2 class="ui inverted header">你的每一次赞赏都将助力前行丨共同探索</h2>
+                <h2 class="ui inverted header">请为辛苦滴开发者众筹一杯星冰乐</h2>
             {%- endif -%}
         </div>
     {%- endif -%}
+    {% if page.active_key == 'home' or page.active_key == 'analytics' %}{% include page_loading_progress_bar.html %}{% endif %}
 </div>
