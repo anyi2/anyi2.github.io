@@ -11,9 +11,8 @@
       style: basic
       url: https://shudao.org/
 
-- section: scholar
-  categories:
-  - category: 国风
+- categories:
+  - name: 国风
     links:
     - name: 汉典
       style: basic
@@ -94,7 +93,7 @@
       style: basic
       url: http://find.nlc.cn/
 
-  - category: 图书馆
+  - name: 图书馆
     links:
     - name: 大英图书馆
       style: basic
@@ -153,7 +152,7 @@
       style: white
       url: https://anyi98.github.io/
 
-  - category: 博物馆
+  - name: 博物馆
     links:
     - name: 卢浮宫
       style: basic
@@ -205,7 +204,7 @@
       style: white
       url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=g298@qq.com
       
-  - category: 学衡
+  - name: 学衡
     links:
     - name: 双红堂
       style: basic
@@ -256,9 +255,8 @@
       style: basic
       url:  
 
-- section: public
-  categories:
-  - category: 公开课
+- categories:
+  - name: 公开课
     links:
     - name: TED
       icon: 
@@ -335,7 +333,7 @@
       style: basic
       url: https://www.zhihu.com/question/27952897
 
-  - category: 学术文库
+  - name: 学术文库
     links:
     - name: 豆丁
       style: basic
@@ -385,7 +383,7 @@
       style: white
       url: https://anyi98.github.io/
 
-  - category: 学术数据
+  - name: 学术数据
     links:
     - name: 标准网
       icon: 
@@ -440,7 +438,7 @@
       style: white
       url: https://anyi98.github.io/
 
-  - category: 学术搜索
+  - name: 学术搜索
     links:
     - name: 百度学术
       icon: 
@@ -503,7 +501,7 @@
       style: white
       url: https://go.anyi.life
 
-  - category: 学术文化
+  - name: 学术文化
     links:
     - name: 学信网
       style: basic
@@ -549,7 +547,7 @@
       style: white
       url: https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%A2%A8_(%E5%AD%B8%E8%A1%93%E6%96%87%E5%8C%96)
 
-  - category: 期刊基金
+  - name: 期刊基金
     links:
     - name: OAlib
       style: basic
@@ -598,9 +596,8 @@
       style: basic
       url: https://www.nobelprize.org/
 
-- section: hyr
-  categories:
-  - category: 河艺校园
+- categories:
+  - name: 河艺校园
     links:
     - name: 河艺官网
       style: basic
@@ -654,7 +651,7 @@
       style: white
       url: https://anyi98.github.io/
 
-  - category: 古籍影像
+  - name: 古籍影像
     links:
     - name: 先秦词汇资料库
       icon: app store
@@ -717,7 +714,7 @@
       style: basic
       url: https://www.digital.archives.go.jp/index_e.html
 
-  - category: 冗杂之所
+  - name: 冗杂之所
     links:
     - name: 云音乐
       icon: user
@@ -763,9 +760,8 @@
       style: white
       url: https://anyi.life/
 
-- section: auction
-  categories:
-  - category: 购好物
+- categories:
+  - name: 购好物
     links:
     - name: 洋觅网
       style: basic
@@ -823,17 +819,15 @@
       style: pink
       url: http://anyi.life/
       
-- section: friend
-  categories:
-  - category: 友情链接
+- categories:
+  - name: 友情链接
     links:
     - name: 友链申请
       style: black
       url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=g298@qq.com
 
-- section: friend
-  categories:
-  - category: 雅集
+- categories:
+  - name: 雅集
     links:
     - name: 微词云
       style: basic
@@ -851,7 +845,7 @@
       style: basic
       url: https://docsmall.com/
 
-  - category: 导航
+  - name: 导航
     links:
     - name: 北邮人
       style: basic
