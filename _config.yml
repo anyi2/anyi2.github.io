@@ -8,7 +8,7 @@ title: 安逸导航·AnYi-Navi
 alias_en: AnYi-Navi
 alias_cn: 安逸导航
 description: 世界的创新源于学术的探索•学术导航
-keywords: 安逸, 导航, 安逸导航, 学术导航, scholar, AnYi-Navi, AnYI, HEBART, Navi, Navigation
+keywords: 安逸, 学术, 导航, 安逸导航, 学术导航, AnYI, Scholar, AnYi-Navi,
 url: https://anyi.life
 url: https://anyi98.github.io
 established_at: "2018-07-07T00:00+08:00"
@@ -17,7 +17,7 @@ established_at: "2018-07-07T00:00+08:00"
 author: AnYi
 author_url: https://anyi.life
 organization: AnYi
-organization_url: https://blog.anyi.life
+organization_url: https://i.anyi.life/
 contact: G298@QQ.COM
 
 image: /images/logo.png
@@ -39,7 +39,3 @@ exclude:
 - Gemfile.lock
 - script
 - vendor
-
-encoding: UTF-8
-
-theme: jekyll-theme-cayman
