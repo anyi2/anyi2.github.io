@@ -73,7 +73,75 @@ https://artsandculture.google.com/
 
 
 
+   - name: 唐奖	
+      style: basic	
+      url: http://www.tang-prize.org/first.php
 
+    - name: 儒莲奖
+      style: basic
+      url: https://zh.wikipedia.org/wiki/%E5%84%92%E8%8E%B2%E5%A5%96
+
+
+    - name: 图灵奖
+      style: basic	
+      url: https://awards.acm.org/
+
+
+    - name: 阿贝尔奖	
+      style: basic	
+      url: http://www.abelprize.no/
+
+
+    - name: 沃尔夫奖
+      style: basic
+      url: http://www.wolffund.org.il/
+
+
+    - name: 菲尔兹奖
+      style: basic	
+      url: https://www.mathunion.org/imu-awards/fields-medal
+
+
+    - name: 郝尔拜奖	
+      style: basic	
+      url: https://www.holbergprize.no/
+
+   - name: IEEE荣誉奖章	
+      style: basic	
+      url: https://www.ieee.org/
+
+   - name: 京都奖
+      style: basic	
+      url: https://www.inamori-f.or.jp/
+
+    - name: 尼赫鲁奖
+      style: basic
+      url: http://iccr.gov.in/content/nehru-award-recipients
+
+
+    - name: 人权奖
+      style: basic	
+      url: http://www.martinennalsaward.org/
+
+
+    - name: 千禧科技奖	
+      style: basic	
+      url: https://taf.fi/millennium-technology-prize/
+
+
+    - name: 沃尔夫奖
+      style: basic
+      url: http://www.wolffund.org.il/
+
+
+    - name: 菲尔兹奖
+      style: basic	
+      url: https://www.mathunion.org/imu-awards/fields-medal
+
+
+    - name: 郝尔拜奖	
+      style: basic	
+      url: https://www.holbergprize.no/
 
 
 
