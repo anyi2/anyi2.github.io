@@ -93,6 +93,58 @@
       style: basic
       url: http://find.nlc.cn/
 
+  - name: 学衡
+    links:
+    - name: 双红堂
+      style: basic
+      url: http://hong.ioc.u-tokyo.ac.jp/list.php
+
+    - name: 西历转换
+      style: basic
+      url: http://sinocal.sinica.edu.tw/
+
+    - name: 古登堡中文
+      style: basic
+      url: http://www.gutenberg.org/browse/languages/zh
+
+    - name: 中华珍宝馆
+      style: basic
+      url: http://ltfc.net/
+
+    - name: 中华文史网
+      style: basic
+      url: http://www.historychina.net/#stepflow03
+
+    - name: 中华文化总会
+      style: basic
+      url: http://www.gacc.org.tw/
+
+    - name: 汉学资源丨蒋经国基金会
+      icon: folder open
+      style: basic
+      url: http://www.cckf.org/zh/sino
+
+    - name: 故宫丨探索
+      icon: app store
+      style: basic
+      url: http://www.dpm.org.cn/Explore.html
+
+    - name: 故宫 Open Data
+      icon: twitter black
+      style: red
+      url: https://theme.npm.edu.tw/opendata/
+
+    - name: 台湾汉学数字导览
+      icon: indent right
+      style: basic
+      url: http://sinology.ascdc.sinica.edu.tw/index.html
+
+    - name: 国际汉学研究数字资源
+      icon: indent left
+      style: basic
+      url:  
+      
+- categories:
   - name: 图书馆
     links:
     - name: 大英图书馆
@@ -204,57 +256,6 @@
       style: white
       url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=g298@qq.com
       
-  - name: 学衡
-    links:
-    - name: 双红堂
-      style: basic
-      url: http://hong.ioc.u-tokyo.ac.jp/list.php
-
-    - name: 西历转换
-      style: basic
-      url: http://sinocal.sinica.edu.tw/
-
-    - name: 古登堡中文
-      style: basic
-      url: http://www.gutenberg.org/browse/languages/zh
-
-    - name: 中华珍宝馆
-      style: basic
-      url: http://ltfc.net/
-
-    - name: 中华文史网
-      style: basic
-      url: http://www.historychina.net/#stepflow03
-
-    - name: 中华文化总会
-      style: basic
-      url: http://www.gacc.org.tw/
-
-    - name: 汉学资源丨蒋经国基金会
-      icon: folder open
-      style: basic
-      url: http://www.cckf.org/zh/sino
-
-    - name: 故宫丨探索
-      icon: app store
-      style: basic
-      url: http://www.dpm.org.cn/Explore.html
-
-    - name: 故宫 Open Data
-      icon: twitter black
-      style: red
-      url: https://theme.npm.edu.tw/opendata/
-
-    - name: 台湾汉学数字导览
-      icon: indent right
-      style: basic
-      url: http://sinology.ascdc.sinica.edu.tw/index.html
-
-    - name: 国际汉学研究数字资源
-      icon: indent left
-      style: basic
-      url:  
-
 - categories:
   - name: 公开课
     links:
