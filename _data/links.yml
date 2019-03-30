@@ -1,6 +1,5 @@
-- section: about
-  categories:
-  - category: 本站公告
+- categories:
+  - name: 本站公告
     links:
     - name: 探讨组
       icon: qq black
