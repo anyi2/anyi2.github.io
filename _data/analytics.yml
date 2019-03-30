@@ -2,7 +2,7 @@ google:
   id: UA-121779972-1
 
 matomo:
-  url: https://vps.anyi.life/analytics/
+  url: https://i.anyi.life/analytics/
   domains:
   - "*.anyi.life"
   site_id: 1
