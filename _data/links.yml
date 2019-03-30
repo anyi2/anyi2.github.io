@@ -145,6 +145,12 @@
       url:  
       
 - categories:
+  - name: 数字馆
+    links:
+    - name: 待整理
+      style: basic
+      url: https://www.anyi.life/
+
   - name: 图书馆
     links:
     - name: 大英图书馆
