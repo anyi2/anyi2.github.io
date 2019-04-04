@@ -851,7 +851,11 @@
     - name: 牧童灵人
       style: basic
       url: http://www.mutonglingren.top/
-      
+
+    - name: 互亿无线
+      style: basic
+      url: http://www.ihuyi.com/
+
     - name: DocSmall
       style: basic
       url: https://docsmall.com/
