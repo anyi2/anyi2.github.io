@@ -16,11 +16,11 @@
     <h2 class="ui inverted header">{{ site.title }}</h2>
     <div class="ui inverted fluid left icon right action input" id="search-div">
         <i class="search icon"></i>
-        <input id="search-query" type="text" placeholder="立即探索" autofocus="autofocus">
+        <input id="search-query" type="text" placeholder="自由地探索互联网" autofocus="autofocus">
         <select id="search-services" class="ui compact selection dropdown">
             {% for item in site.data.search_services %}<option id="{{ item.id }}" value="{{ item.id }}" data-url="{{ item.url }}" data-suffix="{% if item.suffix %}{{ item.suffix }}{% endif %}">{{ item.name }}</option>{% endfor %}
         </select>
-        <div id="search-button" class="ui floral white icon button">Go</div>
+        <div id="search-button" class="ui floral white icon button">探索</div>
     </div>
     <div class="ui labels shortcuts">
         {% for item in site.data.search_services %}{% if item.shortcut %}<a class="ui {{ item.style }} label" data-search-service-id="{{ item.id }}">{% if item.icon %}<i class="{{ item.icon }} icon"></i>{% endif %}{{ item.shortcut }}</a>{% endif %}{% endfor %}
@@ -32,7 +32,7 @@
         <a id="live-visitors" class="loading-trigger" href="{{ '/analytics/' | relative_url }}"><img src="https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E5%9C%A8%E7%BA%BF-loading-orange.svg" alt="Live Visitors"></a>
     </div>
     <div class="ui inverted link list">
-        <a class="item loading-trigger" href="{{ 'https://go.anyi.life/' | relative_url }}">安逸探索丨自由的探索互联网！ </a>
+        <a class="item loading-trigger" href="{{ 'https://go.anyi.life/' | relative_url }}"> 探索丨自由地探索互联网！（为学术探索而生） </a>
     </div>
 </div>
 
