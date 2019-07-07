@@ -2,8 +2,8 @@ google:
   id: UA-121779972-1
 
 matomo:
-  url: https://i.anyi.life/analytics/
+  url: https:v.anyi.life
   domains:
   - "*.anyi.life"
   site_id: 1
-  token: 08f71596a4c68c7eae2daeb794a1fa69
+  token: ccaffd26a115881da71366a4ae24c53
