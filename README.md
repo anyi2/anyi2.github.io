@@ -1,13 +1,4 @@
-![AnYi-Navi](https://anyi.life/favicon.ico)
-
-
-
 Anyi.life
-
-- 书岛丨https://shudao.org/
-
-- 探索丨https://go.anyi.life/
-
 
 安逸导航·AnYi-Navi丨世界的创新源于学术的探索
 
