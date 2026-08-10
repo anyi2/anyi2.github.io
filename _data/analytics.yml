@@ -2,8 +2,8 @@ google:
   id: UA-121779972-1
 
 matomo:
-  url: ./analytics/
+  url: https://nav.anyi.life/analytics/
   domains:
-  - "*.anyi2"
+  - "*.anyi2.github.io"
   site_id: 1
-  token: 
+  token: bb72e1b78aa69d034f10f8351e5dc98f
