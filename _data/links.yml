@@ -1,10 +1,10 @@
 - categories:
   - name: 本站公告
     links:
-    - name: 探讨组
+    - name: 新版导航
       icon: qq black
       style: basic
-      url: https://jq.qq.com/?_wv=1027&k=5o8rrYN
+      url: https://www.anyi2.com/
 
     - name: 书岛（ShuDao.Org）- 向往自由与文明的数字图书岛
       icon: github black
@@ -836,104 +836,14 @@
 - categories:
   - name: 雅集
     links:
-    - name: 微词云
+    - name: 书岛
       style: basic
-      url: https://minitagcloud.com/
-
-    - name: 软泥怪
-      style: basic
-      url: https://www.ruanniguai.com/
-
-    - name: 面包多
-      style: basic
-      url: https://mianbaoduo.com/
-
-    - name: 不死鸟
-      style: basic
-      url: https://lai.yuweining.cn/
-
-    - name: 读书导航
-      style: basic
-      url: https://www.125la.com/
-
-    - name: 牧童灵人
-      style: basic
-      url: http://www.mutonglingren.top/
-
-    - name: 互亿无线
-      style: basic
-      url: http://www.ihuyi.com/
-
-    - name: DocSmall
-      style: basic
-      url: https://docsmall.com/
+      url: https://shudao.org/
 
   - name: 导航
     links:
-    - name: 北邮人
+    - name: 安逸导航
       style: basic
-      url: https://byr-navi.com/
+      url: https://www.anyi2.com/
 
-    - name: 钛导航
-      style: basic
-      url: https://web.geekji.cn/
-      
-    - name: 龙喵网
-      style: basic
-      url: http://ailongmiao.com/
 
-    - name: 前端氪
-      style: basic
-      url: https://csskr.com/
-
-    - name: 野创网
-      style: basic
-      url: http://www.yechuang.top
-
-    - name: 98导航
-      style: basic
-      url: http://98dh.cc/
-
-    - name: 爱达导航
-      style: basic
-      url: https://ada97.com/
-
-    - name: 小呆导航
-      style: basic
-      url: http://webjike.com
-      
-    - name: 绿狐导航
-      style: basic
-      url: http://www.lvfox.cn/
-     
-    - name: 果汁导航
-      style: basic
-      url: http://guozhivip.com/nav/
-
-    - name: GY导航
-      style: basic
-      url: http://nav.ailuoku6.top/
-
-    - name: 沃客导航
-      style: basic
-      url: http://www.bxsnxs.cn/dh/index.html
-      
-    - name: 搜图导航
-      style: basic
-      url: https://www.91sotu.com/
-
-    - name: 乐搜导航
-      style: basic
-      url: https://lerso.cn/
-      
-    - name: 产品汇导航
-      style: basic
-      url: https://www.prohui.com/start
-
-    - name: 咪咕鱼导航
-      style: basic
-      url: http://miguyu.com/
-
-    - name: 五花八门导航
-      style: basic
-      url: http://lxqnsys.com/d/
