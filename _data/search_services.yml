@@ -1,16 +1,16 @@
-- id: baidu
-  name: 百度
-  url: https://baidu.com/s?ie=utf-8&wd={query}
-  shortcut:
-    icon: paw blue inverted
-    style: black
-    show: true
-
 - id: google
   name: 谷歌
   url: https://google.com/search?q={query}
   shortcut:
     icon: google red inverted
+    style: black
+    show: true
+
+- id: baidu
+  name: 百度
+  url: https://baidu.com/s?ie=utf-8&wd={query}
+  shortcut:
+    icon: paw blue inverted
     style: black
     show: true
 
@@ -377,29 +377,5 @@
   url: https://onejav.com/search/{query}
   shortcut:
     icon: film pink inverted
-    style: black
-    show: false
-
-- id: byrsearch
-  name: 北邮人论坛1
-  url: http://123.207.168.11/byrbbs/?key={query}
-  shortcut:
-    icon: comments red inverted
-    style: black
-    show: false
-
-- id: icysearch
-  name: 北邮人论坛2
-  url: http://search.icybee.cn/bbs/?key={query}
-  shortcut:
-    icon: comments blue inverted
-    style: black
-    show: false
-
-- id: byrbt
-  name: 北邮人BT
-  url: https://byr.pt/torrents.php?search={query}
-  shortcut:
-    icon: cloud download alternate teal inverted
     style: black
     show: false
