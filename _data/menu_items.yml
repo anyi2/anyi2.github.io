@@ -1,8 +1,13 @@
 - name: 首页
   icon: home
-  url: https://anyi.life/
+  url: /
   active_key: home
 
+- name: 定制化
+  icon: tools
+  url: /customize/
+  active_key: customize
+  
 - name: 访客
   icon: bar chart 
   url: /analytics/
@@ -12,15 +17,10 @@
   icon: donate
   url: /donate/
   active_key: donate
-  
-- name: 主页
-  icon: info sign
-  url: https://i.anyi.life/
-  active_key: about
 
-- name: 探索
+- name: 新版导航
   icon: google
-  url: https://go.anyi.life/
+  url: https://www.anyi2.com/
   active_key: tansuo
 
 - name: 书岛
