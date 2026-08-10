@@ -603,60 +603,6 @@
       style: basic
       url: https://www.nobelprize.org/
 
-- categories:
-  - name: 河艺校园
-    links:
-    - name: 河艺官网
-      style: basic
-      url: http://www.hebart.com/
-
-    - name: 直属单位
-      style: basic
-      url: http://www.hebwh.gov.cn/zsdw/index.jsp?catalogId=2c9081fb5711bf50015712170c7c0002
-
-    - name: 教务系统
-      style: basic
-      url: http://www.hebart.com/jwc/
-
-    - name: 招生网
-      style: basic
-      url: http://www.hebart.com/zsw/
-
-    - name: 文管系
-      style: basic
-      url: http://www.hebart.com/wgx/
-
-    - name: 舞蹈系
-      style: basic
-      url: http://www.hebart.com/wdx/
-
-    - name: 百科详情
-      style: basic
-      url: https://baike.baidu.com/item/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2
-
-    - name: 河艺贴吧
-      style: basic
-      url: http://dq.tieba.com/f?kw=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&fr=home
-
-    - name: 河艺领英
-      style: basic
-      url: https://www.linkedin.com/school/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2/
-
-    - name: 党政办公室
-      style: red
-      url: http://www.hebart.com/dzb/
-
-    - name: 腾讯视频 相关
-      style: basic
-      url: https://v.qq.com/x/search/?q=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&stag=txt.playpage.vppdesc
-
-    - name: 古典舞《如梦令》
-      style: basic
-      url: https://www.bilibili.com/video/av16804529/
-
-    - name: Literary youths are moving forward here!
-      style: white
-      url: https://anyi98.github.io/
 
   - name: 古籍影像
     links:
@@ -770,10 +716,6 @@
 - categories:
   - name: 购好物
     links:
-    - name: 洋觅网
-      style: basic
-      url: http://www.ymi.cn/
-      
     - name: 佳士得
       style: basic
       url: https://www.christies.com/zh-cn/?sc_lang=zh-cn&lid=4
@@ -782,56 +724,14 @@
       style: basic
       url: https://www.sothebys.com/zh-hant/
       
-    - name: 华夏收藏
-      style: basic
-      url: http://www.cang.com/
-
-    - name: 中汉艺术
-      style: basic
-      url: http://www.johan.cn/
-
-    - name: 雅昌艺术
-      style: basic
-      url: http://auction.artron.net/
-
-    - name: 嘉德艺术
-      style: basic
-      url: http://www.artrade.com/
-
-    - name: 嘉德国际
-      style: basic
-      url: http://www.cguardian.com/
-
-    - name: 保利国际
-      style: basic
-      url: http://www.polypm.com.cn/
-      
-    - name: 7788收藏
-      style: basic
-      url: http://www.997788.com/
-     
-    - name: 7788旧书
-      style: basic
-      url: http://js.7788.com/7788js.php
-
-    - name: 孔夫子旧书
-      style: basic
-      url: https://www.kongfz.com/
-
-    - name: 有路网旧书
-      style: basic
-      url: http://www.youlu.net/
-
-    - name: 网购需谨慎
-      style: pink
-      url: http://anyi.life/
       
 - categories:
   - name: 友情链接
     links:
     - name: 友链申请
       style: black
-      url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=g298@qq.com
+      url: 
+      email_html: "<a href='mailto:anyi2@qq.com'>发送邮件</a>"
 
 - categories:
   - name: 雅集
