@@ -17,6 +17,7 @@
 
 .ui.masthead.segment {
     padding: 1em 0em;
+    z-index: 1;
 }
 
 .ui.masthead h1.ui.header {
@@ -39,7 +40,7 @@
 
 .ui.links.stripe.segment,
 .ui.stats.stripe.segment,
-.ui.quote.stripe.segment {
+.ui.qrcode.stripe.segment {
     padding: 0em;
 }
 
@@ -47,7 +48,7 @@
     padding-top: 3em;
     padding-bottom: 3em;
 }
-.ui.quote.stripe.segment .grid .column {
+.ui.qrcode.stripe.segment .grid .column {
     padding-top: 5em;
     padding-bottom: 5em;
 }
@@ -223,4 +224,12 @@
 }
 .background-white {
     background-color: #FFF;
+}
+
+code {
+    padding: 0 5px;
+    white-space: nowrap;
+    border: 1px solid #EAEAEA;
+    background-color: #F8F8F8;
+    border-radius: 3px;
 }
