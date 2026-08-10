@@ -145,12 +145,6 @@
       url:  
       
 - categories:
-  - name: 数字馆
-    links:
-    - name: 待整理
-      style: basic
-      url: https://www.anyi.life/
-
   - name: 图书馆
     links:
     - name: 大英图书馆
@@ -603,7 +597,7 @@
       style: basic
       url: https://www.nobelprize.org/
 
-
+- categories:
   - name: 古籍影像
     links:
     - name: 先秦词汇资料库
@@ -713,16 +707,6 @@
       style: white
       url: https://anyi.life/
 
-- categories:
-  - name: 购好物
-    links:
-    - name: 佳士得
-      style: basic
-      url: https://www.christies.com/zh-cn/?sc_lang=zh-cn&lid=4
-
-    - name: 苏富比
-      style: basic
-      url: https://www.sothebys.com/zh-hant/
       
       
 - categories:
