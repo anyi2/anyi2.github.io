@@ -13,7 +13,6 @@
 }
 .ui.inverted.masthead.segment {
     position: relative;
-    overflow: hidden;
     text-align: center;
     color: rgba(255, 255, 255, 0.9);
     margin-bottom: 0px;
@@ -83,7 +82,7 @@
     background-image: url('/images/backgrounds/16.jpg');
 }
 .ui.inverted.masthead.segment.bg17:after {
-    background-image: url('/images/backgrounds/16.jpg');
+    background-image: url('/images/backgrounds/17.jpg');
 }
 .ui.inverted.masthead.segment,
 .ui.inverted.masthead.segment:after {
