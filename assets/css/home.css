@@ -27,12 +27,26 @@
     margin-right: auto;
 }
 
-.ui.masthead .shortcuts {
+.ui.masthead #search-shortcuts .ui.hidden.label {
+    display: none;
+}
+
+.ui.masthead #badges {
     margin-top: 0.5rem;
 }
 
-.ui.masthead .ui.link.list {
-    margin-top: 0.5em;
+.ui.masthead .ui.selection.link.list {
+    margin-top: 0em;
+    margin-bottom: 0.25em;
+}
+
+.ui.labels .ui.label {
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+}
+
+.ui.masthead #banner-advertisement {
+    margin-bottom: 0.5em;
 }
 
 @media only screen and (max-width: 767px) {
