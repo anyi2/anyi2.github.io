@@ -2,7 +2,7 @@ google:
   id: UA-121779972-1
 
 matomo:
-  url: https://navi.shudao.org/
+  url: https://navi.anyi2.com/
   domains:
   - "*.anyi2.github.io"
   site_id: 1
